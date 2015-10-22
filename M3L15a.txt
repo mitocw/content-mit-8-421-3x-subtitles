@@ -1,0 +1,124 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 114 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+--the result, which we obtained on Wednesday,
+for spontaneous emission for the Einstein A coefficient
+regarded as an accomplishment as a highlight of the cause.
+We've worked hard to talk about atoms
+and electromagnetic fields.
+And ultimately, to deal with spontaneous emission,
+it was not enough to put a semi-classical light atom
+interaction, the dipole Hamiltonian, Rabi oscillation,
+and such to put that into the picture.
+We really needed a quantized version
+of the electromagnetic field.
+And this is the result when an atom is excited and interacts
+with all of the empty modes of the vacuum.
+And we summed up the probability that a photon is
+emitted in any of those modes.
+And by doing all the ever reaching
+with the density of state for all
+of the possibility of actions, we obtained the famous result
+for the Einstein A coefficient, which
+is also the natural line width of the atomic excited state.
+
+Do you have any questions about the derivation
+or what we did last week?
+
+Then I think I will just continue and interpret
+the result.
+So we got a result for an Einstein A coefficient.
+And for now, the question is, how big is it?
+Well, it has a number of constants.
+
+Let's discuss it now in atomic units.
+Well, if we assume the frequency or the energy
+is on the order of a Rydberg, if it's
+sort of the measure for an electronic excitation
+in the atom, we assume the dipole matrix element is one.
+That means one per radius.
+Since we have, pretty much, set everything one
+and expressed everything in atomic units,
+it means that the speed of light is-- remember?
+The velocity of the atom in any [INAUDIBLE]
+was alpha times smaller than the speed of light.
+But the velocity of the atom is one atomic unit.
+So therefore, the speed of light in atomic units
+is one over alpha.
+And that means that, if you look at the formula,
+there is the speed of light to the power of 3
+in the denominator.
+And that means that, in atomic units,
+the Einstein A coefficient is alpha
+to the 3, which is 3 times 10 to the minus 7.
+
+So that means that the ratio of the spontaneous emission rate,
+which is also the inverse lifetime, and therefore
+the natural alignments of the excited
+state, relative to the transition frequency--
+so the denting of the harmonic oscillator,
+or the two-level system, relative to the [INAUDIBLE]
+of the oscillator, is small.
+It's actually alpha cube.
+So if you take this 3 times 10 to the minus 7
+and multiply it with the atomic unit of frequency,
+which is two Rydbergs, we obtain on the order of 10 to the nine.
+And that's a rate of 10 to the nine per second.
+And that means that the lifetime of a typical atomic level
+is on the order of one nanosecond.
+Well, often, it's 10 to 100th nanosecond,
+because mainly, transition frequencies
+are smaller by quite a factor than the atomic unit
+of the transition frequency.
+Remember, the Rydberg frequency would be deep in the UV.
+But a lot of atoms have transitions in the visible.
+
+I highlighted already when I derived it,
+that the spontaneous emission has this famous omega cube
+dependence.
+And that is actually important to understand
+why lower-lying levels, excited hyperfine levels,
+do not radiate.
+So let me just kind of formalize it.
+If I would now estimate what is the radiative lifetime
+for transition-- which is not, as I just assumed, in the UV
+or in the visible-- let me estimate
+what is the radiative lifetime to emit
+a microwave for a few gigahertz.
+Well, then microwave frequency, roughly gigahertz,
+10 to the nine, is five orders of magnitude
+smaller than the frequency 10 to the 14
+of an optical transition.
+So therefore, this is 10 to the 15 times longer.
+And if you have, typically, 1 or 10
+nanoseconds for an electronic transition,
+that means that this spontaneous lifetime for microwave
+transition is several months.
+If in addition, we factor in that hyperfine transitions have
+an operator, which is the Bohr magneton, a magnetic dipole
+operator, not an electric dipole,
+and we discuss that the Bohr magneton is actually--
+when we discuss multipole transitions,
+we discuss that the Bohr magneton is alpha times smaller
+than a typical electric dipole moment,
+so therefore, a magnetic dipole transition
+is alpha times weaker than an electronic dipole transition.
+And that means now, if we multiply months, which
+we obtained by the frequency scaling,
+again, by alpha square for the weakness
+of the magnetic dipole, we find that atomic hyperfine levels
+have a lifetime which is on the order of 1,000 years.
+And this is why it's very safe to neglect
+those transition in the laboratory
+and assume that all hyperfine states in the ground state
+manifold, pretty much, don't decay and are long-lived.
+
+Questions?

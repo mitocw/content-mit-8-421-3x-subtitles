@@ -1,0 +1,218 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 208 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Of course, all I need to come back
+to spontaneous emission, stimulated emission,
+are the matrix elements of these operators a and a dagger.
+And this is where, of course, stimulated
+and spontaneous emission and all that comes in.
+The non-vanishing matrix elements
+in this description of the electromagnetic field
+are the ones where a annihilates a photon
+and the matrix element is square root n.
+Or where a creates a photon, adds a photon
+to n photons already present.
+And then the matrix element is n plus 1.
+
+OK.
+So we went from A to Q and p, and we went to a and a dagger
+But A is also related to the electric field
+by taking the time derivative of the vector potential.
+
+So now, of course, we can go from our expressions of a
+and a dagger all the way back.
+Just substitute, substitute, substitute,
+and find an expression for the electric field
+in terms of a and a dagger.
+
+The result is that we have a and here we have a dagger,
+the [? repolarization ?] vector.
+We have the plane wave vector and the complex conjugate.
+And the complex conjugate of a is a dagger,
+so the electric field is a superposition
+of a and a dagger.
+The electric field becomes an operator
+which is the sum of creation and annihilation operator.
+
+So with that, we can go back to our Hamiltonian.
+Our Hamiltonian for the interaction
+between light and atoms, in the simplest possible case,
+was the dipole Hamiltonian, which involves a dipole matrix
+element.
+The charge of the electron is negative.
+That's why the minus sign has disappeared.
+And now, all we do is from our treatment
+before in the Schrodinger equation, where
+the electric field was an external field-- now
+the electric field becomes the operator acting
+on the quantum state of the electromagnetic field.
+
+So, by the way, this prefactor here
+is-- because the rest of it is just
+dimensionless-- this prefactor has-- so we have the matrix
+element here.
+This prefactor is an electric field.
+And something you should always know-- this electric field
+is actually the electric field of a single photon.
+This is the correct normalization.
+If you want to factor out the volume, the frequency, and all
+that, you combine these factors in such a way
+that it's an electric field of a single photon.
+Then we have the dipole moment.
+And then we have an expression with creation and annihilation
+operator over here.
+I assume now that the atom sits at r equals 0,
+so why should I carry forward an e to the iKr term?
+We conveniently place the atoms at r equals 0.
+But I have to say a word or two about the e to the i omega
+t factor.
+I have been deliberately cavalier
+about my formulation in quantum mechanics
+whether I use the Schrodinger or the Heisenberg picture.
+And you know in the Schrodinger picture of a wave function
+is time-dependent, not the operator.
+In the Heisenberg picture, it's the other way around.
+And I have to tell you, every time I
+do a calculation and look at [? a group, ?]
+I'm getting confused about the two pictures.
+So anyway, trust me that in this case, when
+I want to discuss the Schrodinger picture,
+the time-dependent factor should not be present.
+But it's a little bit-- you really
+have to look at the derivation and carefully
+realize the two are connected with a unitary transformation.
+You really have to figure out in which representation you are.
+But I want to not focus on the formality here.
+But I'm not caring for what this factor,
+because I want to discuss the Schrodinger picture.
+OK.
+Yes.
+So now we can look at the matrix elements of our interaction
+Hamiltonian.
+
+And just to be clear, we have written down
+this Hamiltonian for just a single mode of the radiation
+field.
+
+Depending on what we're interested in,
+we may have to sum over many, many modes.
+So we are looking at transitions from an initial state, which
+may be an excited state, to a final state which
+may be a ground state.
+And since we have quantized the magnetic field,
+we also have to specify the state of the quantum field.
+And we assume that the uncoupled Hamiltonian, of course,
+has simply number states as eigenstates,
+n photons or n prime photons.
+
+So the only non-vanishing matrix elements are the following.
+
+e is the charge.
+e hat is the polarization.
+Epsilon 1 is the electric field of a single photon.
+And, of course, we only have a coupling
+by the fully quantized Hamiltonian
+when we have a dipole matrix element connecting
+state a and b.
+And these are all things we have already
+discussed in another context.
+But now, the a's and a daggers, which
+only act on the photon field, give rise to two couplings.
+One is absorption, and one is emission.
+
+Absorption takes place when we look at the matrix element
+when the final state has one more photon.
+And emission takes the other way around.
+When the final state has one more-- which way do we go?
+
+Let me just write it down and then read it off.
+
+I think I've inverted it.
+But anyway, initial and final state
+can differ by plus 1 photon or minus 1 photon.
+In one case, it's absorption; the other case, it's emission.
+And the matrix element is n or n plus 1.
+
+So one is absorption, and one is emission.
+
+So finally, if you ask, what are the rates
+of absorption and emission?
+
+When we assume we have a situation
+where-- and we have now discussed a matrix element,
+and this matrix element could become the basis of Fermi's
+Golden Rule.
+We just have to specify time-dependent perturbation
+theory.
+But in any case, whatever we do when we talk about a rate,
+it will involve the matrix element squared.
+So now we can ask what happens when we couple
+ground and excited states.
+
+And let's assume we have an excited state
+and we sum over all possible photon occupation
+numbers of the ground state.
+Well, when we go from the excited state to the ground
+state, there will be only one term contributing to the sum
+where we have one photon more, because it has been emitted.
+So therefore, because of the square root n and n
+plus 1 dependence of the matrix element,
+we find that for the processes where a photon is emitted,
+where the atomic system gives away a photon,
+the sum of all the possible rates becomes simply n plus 1.
+And in the case of absorption, it becomes n.
+
+So in other words, we have now done with field quantization
+what Einstein pulled out of a thermodynamic equilibrium
+argument.
+Namely, that if you have a system
+that the rate of emission versus the rate of absorption
+is n plus 1 over n.
+But we did not assume any spectral distribution.
+We know this n plus 1 over n applies to every single mode
+of the electromagnetic field.
+
+Questions about that?
+
+I also want to tell you, just as a side remark, a lot of people
+think that when emission is n plus 1,
+the plus 1 is different from n.
+That this plus 1 is sort of a spontaneously emitted photon
+which has maybe some random phase.
+And the n, which is stimulated photons,
+they go in the same mode as-- they're
+identical to the photons already present.
+I don't see any of that in that treatment.
+
+So a spontaneously emitted photon
+is identical to the photon which would
+be emitted in a stimulated way.
+
+We just have n plus 1.
+This is the matrix element for coupling to this mode.
+
+At some point, spontaneous emission
+can happen in many modes.
+But if it goes to many modes, then there
+is some integral or some summation involved,
+and this can cause a certain randomness.
+But at the level of a single mode,
+I do not see any difference between the one photon
+and the n photons at this level of discussion.
+Just keep that in mind.
+And actually, we'll discuss micromasers
+You can have put an excited atom in the cavity,
+and you have a fully reversible exchange.
+So you spontaneously emit; you absorb.
+You spontaneously emit; you absorb.
+You have Rabi oscillations, which involve a single photon,
+and they involve spontaneous emission.
+Fully reversible, completely unitary time evolution.

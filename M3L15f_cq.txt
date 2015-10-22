@@ -1,0 +1,25 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15f_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 15 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+OK.
+We emphasized that spontaneous emission
+is proportional to omega cubed.
+
+The question is now what is the dependence in one dimension?
+If everything the atom can only emit in one dimension.
+Everything is one dimensional.
+Put the atom into a waveguide.
+So your choices are omega cubed, omega squared, or omega-- well,
+a few pressed D, none of the above.
+I can tell you.
+It's one of those three.
+So everything the same, but we are in one dimension.
+The world seen by the atom and by the electromagnetic waves
+is one dimensional.

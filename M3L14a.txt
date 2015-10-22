@@ -1,0 +1,69 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 59 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So let's now look at the situation of broadband light,
+because later today I want to discuss with you
+Einstein's A and B coefficient, a very classical topic
+of atomic physics, a very famous concept introduced by Einstein.
+And actually, I want to use the perturbation theory
+for broadband light, which we have now formulated,
+to derive for you the B coefficient of Einstein's A
+and B coefficient theory.
+OK.
+So for large time, we can now talk
+about rate, which is the probability which
+increases linearly with time per unit time.
+And this was the matrix element squared,
+2 epsilon 0 h bar squared 2 pi.
+The 2 cancels, and then we have from the delta function
+the spectral density at 0 detuning, which
+is the spectral density at the resonance frequency.
+So we have a rate equation now, that the rate equation
+is the B coefficient-- Einstein's famous B
+coefficient-- times the spectral density.
+And the B coefficient is now the proportionality
+constant in the equation above, which is pi d squared.
+But now, in all the formula for the B coefficient,
+there's a factor of 3, because the assumption is made
+that we have isotropy of space.
+The atoms are randomly oriented, and therefore dx
+squared for a given polarization.
+The dipole moment projected on the polarization of the light,
+which is dx squared, is just 1/3 of the absolute value
+of the dipole moment squared.
+So in other words, just to remind you
+what I have actually discussed is nothing else
+than Fermi's Golden Rule.
+And I could have reminded you of Fermi's Golden
+Rule, where the rate is given.
+I just use the standard notation of textbooks.
+You take the matrix element squared.
+You multiply by 2 pi.
+And then you have a delta function.
+And the delta function implies-- a delta function is always
+a reminder that it needs integration.
+So whenever you have a delta function in Fermi's Golden
+Rule, you have to integrate.
+And there are two possibilities.
+You have to integrate over the spectrum of external fields.
+That's what we just did.
+The other possibility is-- which doesn't apply to what we just
+discussed-- that you have to integrate over
+a continuum of final states.
+This will be important when we use Fermi's Golden Rule
+expression to talk about spontaneous emission
+where we have a continuum of final states.
+So anyway, I could have just said,
+let's start with Fermi's Golden Rule,
+and let's jump to the final result.
+But I really wanted to emphasize here the intimate connection
+between Rabi oscillation, the t squared dependence,
+and how this turns into a rate equation.

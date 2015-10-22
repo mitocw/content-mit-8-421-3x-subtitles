@@ -1,0 +1,174 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L12d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 164 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So let me summarize.
+We have discussed three different ways
+how we can have coupling matrix elements between two
+states-- electric dipole, magnetic dipole,
+electric quadrupole, E1, M1, E2.
+The operator was the electric dipole operator.
+Here, it was the operator of the magnetic moment,
+which is orbital angular momentum and spin angular
+momentum.
+And for the quadrupole, it was the quadratic expression
+in the spatial coordinates.
+You can also ask what is the parity.
+The electric dipole operator connects states
+with opposite parity whereas force magnetic dipole
+and electric quadrupole connects states
+with even the same parity.
+
+Magnetic dipole and electric quadrupole transition
+are often called forbidden transitions.
+Well, you would say it's a misnomer
+because they're transitions.
+So they are allowed but they are weak.
+But this is the language we use.
+Weak transitions are forbidden, which
+simply means they don't appear.
+They are forbidden in leading order.
+But when you go to high order, they are allowed.
+We can, of course, say if they're completely forbidden,
+there would be no need to discuss them.
+But since they are only forbidden
+at a certain level, then of course
+it's interesting to discuss them.
+And a lot of narrow transitions which
+are relevant for atomic clocks are highly forbidden
+transactions.
+
+The strengths of them, which usually
+scales if transitions with the square of the matrix element,
+is on the order of 5 times 10 to the minus 5.
+So those transitions are four or five orders
+of magnitude B [INAUDIBLE], then an allowed E1 transition.
+
+Questions.
+
+Yes.
+People talk about highly forbidden transitions.
+Does this mean that it's like an optical transition,
+or how do we distinguish it from just [INAUDIBLE]?
+It could be.
+Actually, I would say forbidden transitions are weaker
+by alpha to the power N. Here, we
+have a situation where the matrix element
+is just smaller by alpha.
+But yes, you could have-- sometimes, yes.
+
+Some transitions are highly forbidden.
+For instance, I try to remember.
+If you have hydrogen 1S and 2S-- because S states-- actually,
+you're asking questions about the next chapter,
+mainly about selection holds.
+If you have-- [INAUDIBLE] inverts.
+The S, if you connect two S states,
+they have both zero angular momentum.
+So you cannot have a quadrupole operator connecting the two.
+It would violate the triangle rule.
+You cannot have angular momentum of zero and angular momentum
+of two and get angular momentum of zero.
+So therefore, you have a transition between two states
+of the same parity.
+There is no dipole operator.
+There is no quadrupole operator.
+So you soon run into a situation where it's highly forbidden.
+
+Sometimes, you have the situation
+that something is forbidden in non-relativistic physics,
+but the relativistic term which makes it allowed.
+So then it's not-- well, this also, we
+know that relativistic terms or fine structure terms is also
+an expansion alpha squared.
+So you may have-- the symmetry may allow it,
+but only in connection with relativistic terms.
+I'm not an expert on forbidden transitions,
+but usually you have transitions which are multiply forbidden.
+They're forbidden by spatial symmetry.
+For instance, in the helium atom singular triplet
+are forbidden by spin symmetry.
+So if you have multiple layers of being forbidden,
+then you get extremely weak transitions.
+And one example is actually-- are
+the transitions, the [INAUDIBLE] transition, in helium
+or the 1S to 2S transition in hydrogen.
+They're not allowed by simply going
+to the next order in the multipole expansion.
+
+Yes.
+[INAUDIBLE] equations, then we have
+to do have to consider these even more highly
+formulated transitions.
+
+I'm not an expert on that.
+I'm not sure if there is an atom which
+is a relevant transition which is a [INAUDIBLE] transition.
+I've not heard about that.
+At least relevant examples which are the fundamental atoms
+helium and hydrogen, for hydrogen, the 2S to 1S
+transition, the leading order is the simultaneous emission
+of tow photons.
+So you have not just one photon.
+You have two photons, which of course
+requires in the perturbation expansion, intermediate step.
+We discussed two photon transitions
+at the end of this course.
+So that case, it's not in higher order in the single photon
+multipole expansion.
+It becomes a multiphoton transaction.
+So this is one relevant case.
+And for helium triplet to singlet,
+this involves relativistic physics.
+And you really have to go-- actually,
+I mentioned in the other class on helium.
+I tried to look it up and I wanted
+to show here you have to go to this order to get a transition.
+But when I tried to look into the literature,
+I couldn't find a clear answer.
+Ultimately, it was a relativistic term
+in the fully relativistic formulation
+of the coupling of electromagnetic fields
+to the atom.
+So that can really-- I'm not sure if you
+can put a label on it and would say,
+this is this and this order term.
+It may actually involve, and we know
+that this happens to the [INAUDIBLE] equation,
+that spin and spacial decrease become together
+in the [INAUDIBLE] equation.
+And maybe it's one of those terms.
+
+Yes.
+So what's the actual meaning of [INAUDIBLE]?
+Like, you [INAUDIBLE]
+No, I meant actually the square of the matrix element.
+If you have-- for instance, yeah, actually one--
+I will talk about in the next lecture
+when we discussed Fermi's golden rule.
+The transition strengths in Fermi's golden rule
+is proportional to the square of the matrix element.
+But now you would ask the question, well,
+could we have some interference between the two
+different processes?
+And I wanted to point out at this level that we don't.
+Because one matrix element is imaginary.
+The other one is real.
+And if you take the complex matrix element between two
+states and calculate the square, the square
+of the complex matrix element is the square of the real part
+plus the square of the imaginary part.
+And there's no interference between the two.
+So in other words, if you have an atom which has this weak
+decay through M1 and a weak decay through quadrupole,
+the two parts cannot destructively interfere
+because one is real, one is imaginary.
+They add up in [INAUDIBLE].
+That's what I wanted to say.

@@ -1,0 +1,166 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 156 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We spend now the rest of today and parts of next Monday
+in a microscopic derivation of spontaneous emission,
+using field quantization.
+But I just want to make you aware that we know already what
+it is.
+We have a classical derivation of the V coefficient.
+And Einstein's treatment gives us the ratio of A and B.
+So we know already, at this point,
+what the rate of spontaneous emission is.
+But it is nice, I think also important for our education,
+to obtain it in a microscope way where we really
+show how we have to-- you know, some, overall modes and such,
+to obtain the expression.
+Also, I want to ask you questions.
+I want to ask you clicker questions afterwards.
+And one clicker question for you is,
+what happens to spontaneous emission on one
+and two-dimension?
+Certain things will change.
+And it's much clearer what will change,
+if you have a clear understanding how we sum up
+all the modes, how all the possible modes contribute
+to spontaneous emission.
+And of course, in two-dimension and one-dimension,
+you have a different density of modes.
+So with that motivation, we need a quantized electromagnetic
+field where we quantize the field for each mode.
+And then, we go back, we do the summation overall modes,
+and we have really understood in the most fundamental,
+microscopic way how photons and light interact.
+
+OK.
+So our next chapter is the quantization
+of the radiation field.
+
+OK.
+Field quantization.
+We discussed the quantization of the electromagnetic field,
+really, from first principles, from vector potential,
+radiation field, Coulomb gauge, transverse vector potential
+in 8422.
+So we dedicate one or two classes
+to just discuss all of the steps to have
+a full quantization of the electromagnetic field
+with all the bells and whistles.
+So sometimes, when I teach this course, I sort of-- well,
+you've heard about field quantization.
+I can refer to that, or I can refer you to 8422.
+But in the end, I thought, why don't I just give you
+a 10-minute derogation, just sort of focusing
+on the essential, because this makes this course more
+self-contained, more complete.
+So I give you now a 10-minute quantization
+of the electromagnetic field, pretty much,
+going straight to showing you electromagnetic field
+is a harmonic oscillator.
+And now, let's use the quantum description
+of the harmonic oscillator.
+And then we have a quantum description
+of the electromagnetic field.
+So this is not rigorous, but it is logically compete.
+
+So in the discussion of the quantization
+of the electromagnetic field, we focus just
+on a single mode of the electromagnetic field.
+
+Each mode will be a harmonic oscillator.
+And then, we have many harmonic oscillators comprising
+the electromagnetic field.
+So a similar mode, we assume that we
+have plain waves, with a polarization,
+with an amplitude.
+
+The electric field is the derivative
+of the vector potential.
+And the shortest way to show you analogy
+with the harmonic oscillator is to remind you
+that the total energy, which is actually,
+if you are wondering about a factor of 2, the electric
+and the magnetic part.
+The total energy is quadratic in the amplitude of the vector
+potential.
+
+By the way, there is a factor of 1/2.
+Because if you have a sinusoidal variation,
+you take the time average.
+Cosine square average is 1/2.
+
+Well, if the total energy is quadratic in the amplitude,
+this immediately allows us to draw analogies
+to an harmonic oscillator.
+And we can use the vector potential
+of the similar mode of the electromagnetic field
+to define two quantities, Q and P.
+Let me write it in that way.
+Omega Q plus iP is related to A in the following way.
+
+And yes, I was just wondering about this.
+V is the volume.
+We assume everything happens in a finite volume of space.
+Where you would say, I have two new quantities, Q and P,
+so I need two equations.
+And the two equations involve A and A complex conjugate.
+
+So now, we had an expression for the total energy,
+in terms of with amplitude of the vector potential.
+So now, I can rewrite it.
+The amplitude square of the vector potential
+is A times A star.
+And with that, I get the total energy
+to be proportional to Q square plus P square.
+And that should remind you-- and everything was set up
+to remind you-- that this looks like an harmonic
+oscillator, which, where Q is the position variable and P
+is the momentum variable.
+So now-- I mean, all this is classical.
+All this is just clever definitions.
+But now, we have to do a leap to quantum physics.
+We cannot logically derive it.
+We have to make a leap.
+And the leap is that we postulate that this is now
+a quantum-- we postulate that this should now
+be described as a quantum harmonic oscillator.
+And this transition is done by simply postulating
+that the two quantities we have defined
+have fulfilled the canonical commutator for position
+and momentum.
+
+So we've started with a vector potential, expressed the energy
+as a vector potential.
+And now we say, we recognize through those definitions.
+that this is an harmonic oscillator with variables Q
+and P, which are defined in terms of the vector potential.
+So then, you know, if you have the quantized harmonic
+oscillator, you immediately introduce
+creation and annihilation operators,
+which are linear superpositions of Q and P
+in the following form.
+And A dagger has a minus sign here.
+And all the prefactors were cleverly set up in such a way
+that the commutator of A and A dagger is 1.
+And now, we can do all the substitutions.
+We can express P and Q by A and A dagger.
+But P and Q were related to the vector potential, A.
+And the vector potential, A square, defined the energy.
+So now, we have an expression for the energy, which
+is no longer involving A, or P and Q.
+It involves A and A dagger.
+And surprise, surprise.
+We find that our total energy, because we have operators
+now has become an Hamiltonian, has this well-known result
+with the photon number operator, A dagger A plus 1/2.
+
+So this is the quickest way, which
+takes us, in a few minutes, to the quantized electromagnetic

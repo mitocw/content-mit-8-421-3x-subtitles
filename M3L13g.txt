@@ -1,0 +1,159 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 149 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We can actually discuss the monochromatic case,
+not just in perturbation theory, but we can do it exactly.
+And this is what I want to do now.
+Anyway, I want to do perturbation theory
+of the broadband case.
+And the broadband case will be an incoherent sum
+over the single mode case.
+So this is why I had to bore you want with,
+what do we get out of perturbation theory
+for the monochromatic case?
+Of course, you know already that in a two-level system
+we can do it exactly.
+And I just want to outline it, mainly
+to introduce some notation.
+Our Hamiltonian here, which couples the ground and excited
+state, is given by the dipole matrix element,
+the electric field vector.
+And we call this the Rabi frequency.
+And then we have a sinusoidal or co-sinusoidal frequency
+dependence.
+And all I want to do is to show you
+that a two-level system driven by an electromagnetic field
+is identical to spin 1/2, which we discussed earlier.
+And then, we are done.
+
+There is sort of one technical or little trick we have to do,
+which is trivial, but I want to mention it.
+So if you want to compare directly with spin 1/2,
+we are now shifting the ground state
+to 1/2 the excitation frequency.
+In other words, just to make the clear analogy with the spin,
+usually we say, for an electronic transition,
+we start at 0 and we go up.
+But now we shift things that the 0 of energy
+is in the middle between the ground and the excited state.
+And then, it looks like the excited state
+is spin up the counts.
+It is spin down.
+So with that, our Hamiltonian is now excited excited minus--
+so all I've done is I've shifted the origin.
+
+And the coupling, using our definition
+off the Rabi frequency, couples ground and excited state
+and excited ground state.
+These are two off-diagonal matrix elements.
+And the time dependence is cosine omega t.
+So we are now very close to exploit the correspondence
+with spin 1/2.
+Because after shifting the ground state energy,
+this is the z component of the spin
+operator, the polar matrix.
+And this here is the x component.
+So therefore, for driving an electronic transition
+with a laser beam, we have actually
+spin Hamiltonian, which has the standard form.
+So let me just write it down because it's
+an important result. The Hamiltonian for driving
+and dipole transition with a linearly polarized laser beam
+corresponds, or is identical, to the Hamiltonian
+for spin 1/2 in a static magnetic field
+along the z direction, which causes the splitting
+between spin up and spin down.
+And this splitting is now omega eg
+plus a linearly polarized oscillating
+field along the x direction.
+
+And you probably remember that when we discussed the spin
+problem what we liked actually most
+was that we had a rotating magnetic field because it
+made everything simpler.
+And we're doing that now by formally writing the linearly
+polarized field as a superposition
+of left-handed and right-handed or counter-rotating
+and co-rotating magnetic field.
+So let me just do that.
+So we have the z part.
+And now, instead of having just sigma x cosine omega t,
+I add sigma y sine omega t.
+And I subtract sigma y sine omega t.
+
+So now, we have shown that there is something in addition
+to the spin problem we had when we had a rotating
+magnetic field, that we have two components here which rotate.
+And these are the co- and counter-rotating magnetic
+fields in the spin problem.
+And the counter-rotating-- you remember, in the spin problem,
+we solved the problem exactly by going
+into a frame which rotated at the Larmor frequency,
+which becomes now omega eg.
+And the co-rotating term became stationary on resonance
+in this rotating frame, whereas the counter-rotating term
+rotates at a very high frequency in this frame at the Larmor
+frequency.
+So if this frequency-- if you fulfill the inequalities
+that the co-rotating term is close to resonance,
+or in other words, we are close to resonance,
+and we're not using an infinite intensity of the laser beam
+that we broaden everything in co- and counter-rotating
+terms of [INAUDIBLE] resonance.
+So if you fulfill those two conditions,
+then we can neglect the last term.
+And this is the rotating wave approximation.
+
+So in other words, in the spin problem,
+we can always assume we have a circularly polarized,
+we have a rotating magnetic field,
+and we have an exact solution.
+I'll say a little bit more about it later.
+But in many situations, when you excite an atom with a laser
+beam, you get both terms.
+And usually, you proceed by neglecting one term
+and by making the rotating wave approximation.
+I will, in one or two lectures, discuss
+whether there are situations where the counter-rotating term
+is exactly 0 due to angular momentum selection rules.
+But that's a separate discussion.
+In many situations, it cannot be avoided, and it's always there.
+It's actually always there to the point
+that when I talk to some colleague and he says,
+I can create a situation in an atom
+where the counter-rotating term is exactly 0.
+Some colleagues reacted with disbelief
+and then eventually felt that the situation
+I created for angular momentum conservation
+was somewhat artificial.
+But we'll get there.
+It's an interesting discussion.
+But anyway, just remember that for magnetic drive, if you
+use a rotating magnetic field, you don't need a rotating wave
+approximation.
+Everything rotates at one frequency.
+But usually when you drive at two levels [INAUDIBLE]
+with lasers, you usually have an extra term
+which needs to be neglected.
+OK.
+But if you do the rotating wave approximation,
+we have now exactly the situation
+we discussed for spin 1/2 in a rotating magnetic field.
+And then, the same equation have the same results.
+And then, our results for spin 1/2
+are now as expected-- Rabi oscillations
+without making any assumptions about perturbation theory.
+So this is an exact result for the initial conditions
+that we start in the ground state.
+And the initial population, the excited state, is 0.
+And as usual, I have used here the generalized Rabi frequency,
+which is a quadrature sum of these matrix elements
+squared and the detuning.

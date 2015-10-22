@@ -1,0 +1,32 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15j_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 22 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Two more, [? questions. ?] We talked a lot about the rotating
+wave approximation.
+And we also talked about it for spin system
+driven by magnetic field.
+If you have a rotating magnetic field,
+we do not need the rotating wave approximation
+because if you drive a spin system with a rotating
+magnetic field, we have only the co-rotating term.
+The question I have now for you is
+whether the same is correct or not
+for an electronic transition.
+So therefore, the question is for electronic transitions,
+do we always get the counter-rotating term?
+And if you want to have a simple Hamiltonian,
+then we do the rotating wave approximation.
+So the question is, is the rotating wave approximation
+necessary?
+And because we always get the counter-rotating term
+for the electronic transition, then the answer is yes.
+Or are there examples where the system
+is exactly described by only one term, the co-rotating term?

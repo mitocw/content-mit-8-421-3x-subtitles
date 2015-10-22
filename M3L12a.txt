@@ -1,0 +1,88 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L12a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 78 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We've talked about electric and magnetic field
+separately for very good reasons because low-frequency fields
+are either electric or magnetic in nature.
+But ultimately, we're going to understand what happens
+when atoms interact with light.
+The outline of this chapter is as follows-- today,
+all I want to discuss is the coupling matrix element.
+
+In other words, when we [INAUDIBLE]
+between state a and b, we have an off-diagonal matrix element.
+And this off-diagonal matrix element causes transitions.
+Or when we calculate it, the effect
+of an electric field, the DC Stark effect or the AC Stark
+effect, we assume there was a quantity state 1, state 2.
+And we put some operator in between.
+So this was a matrix element which connects the two states.
+And so far, we have always assumed,
+using the classical multipole expansion
+of electromagnetic field energy, that this matrix
+element has the form electric field times dipole matrix
+element.
+And therefore, the relevant matrix element
+was the position operator of the electron connecting the two
+states.
+So in a way, we have used it all the time.
+But in any more advanced discussion of atomic physics,
+you have two states.
+And as long as they are coupled, you
+have something which you call H12 or you call matrix element
+M12.
+And you're not even asking where it comes from.
+When two levels are coupled, they undergo Rabi oscillations.
+You have transitions.
+If you're in the excited state and you're a matrix element,
+you get spontaneous emission.
+So a lot of the things we want to discuss
+about atomic physics all will require
+a number, which is a matrix element between state
+1 and state 2.
+And today, I want to talk to you about different mechanisms
+which can lead to matrix elements.
+We talked about the dipole operator,
+but we also talked about higher order possibilities,
+magnetic dipole coupling or electric quadrupole coupling.
+And in little bit later-- this is
+an outlook-- we talk about two-photon coupling.
+But in the end, even if it's a two-photon coupling,
+for a lot of phenomena, all you need
+there is a coupling-- a coupling means a Rabi frequency.
+A Rabi frequency means Rabi oscillation and so on.
+So today, the focus is what is the structure, what
+are the principles behind this number, which
+is the relevant matrix element.
+
+OK.
+So that's today.
+Next week is spring break.
+But when we resume, we then want to talk about what
+is the matrix element doing.
+And there are two cases which we have to consider.
+One is we can say it's narrowband and broadband.
+This matrix element can couple just one mode
+of the electromagnetic field.
+Everything is coherent.
+We have a coherent Rabi oscillation.
+Or you can couple too many modes,
+and then you have a broadband situation,
+which may be described by [INAUDIBLE] as incoherent.
+Very, very different behavior.
+So that's what you then want to discuss.
+When atoms interact with light, we
+have two very different limiting cases--
+narrowband and broadband.
+And eventually, we want to go beyond
+the semi-classical formulation of the electromagnetic field.
+And we'll talk about the quantized electromagnetic
+field.

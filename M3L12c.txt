@@ -1,0 +1,279 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L12c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 269 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+There are situations where the leading approximation vanishes.
+For instance, if two levels have the same parody,
+then the dipole operator between the two of them is 0.
+And then if you want to have a transition between--
+or if you want to consider transition between those two
+levels, it will come from next order terms.
+So let's now discuss higher order radiation processes.
+
+So the motivation of why I want to discuss higher order
+radiation processes is because in some basic courses,
+you only need the dipole approximation
+and you think the dipole coupling
+is the only coupling which exists in the world.
+And by going to high order, I want to show you
+this is not the case.
+Also, I wanted to give you an idea what
+it means if you have a leading order,
+transitions are forbidden.
+I want to show you how other terms come in,
+which can couple two levels.
+And also, actually when you drive transitions
+within the hyperfine structure using radio frequency fields,
+you're not driving them with the electric dipole approximation.
+You're driving them with a magnetic dipole.
+And this is actually the next approximation.
+So there's a number of reasons why
+I want to show you what the next order terms are
+and how they actually lead to beautiful result,
+magnetic dipole, and electric quadrupole transitions.
+
+So our coupling term, just let me rewrite the equation.
+
+Let me now simplify the notation by assuming
+that the polarization is in the Z direction
+and the propagation is in the X direction.
+So then the coupling hit the dipole term.
+And the next order term is Ikx.
+And this is what to investigate now.
+The term, kx or kr is smaller.
+And now I want to show you explicitly
+that it's smaller by alpha.
+The key vector of the photon one is related to the frequency h
+by omega divided by h by c.
+If I approximate for r, the relevant r
+when we indicate over the wave function
+will be the pole radius.
+The relevant frequency, h by omega, well, it's a Rydberg
+and the Rydberg is e squared over the pole radius.
+So now if I inserted, the pole radius cancels out.
+And what we find is, well, kr is dimensionless.
+We must find something which is dimensionless but expressed
+by the fundamental constants of atomic physics.
+And the only quantity which is available for that-- it's not
+a surprise-- it's alpha, the fine structure constant.
+So therefore, the dipole approximation
+is actually the result of an expansion of the plain wave, e
+to the I kr factor in units of for an extension
+in the fine structure constant.
+
+OK.
+What we want to use-- we want to look now at the second term.
+
+And so sometimes if you deal with a term,
+we first make it more complicated
+and then we simplify it.
+I want to sort of summarize it and anti-summarize it
+in the following way.
+This is Pzx.
+So let me subject z px.
+But then of course I have to edit.
+
+So now we have two terms.
+One has a minus sign.
+One has a plus sign.
+And as we will see in just a minute,
+is the first one is magnetic dipole transition.
+The second one is electric quadrupole transition.
+
+And we see that the first one can be regarded
+as Pzx is like P dot r.
+It's the right component or the vector product.
+It is therefore the right component
+of the orbital angular momentum.
+
+OK.
+So let's focus for now on this part,
+the second term, which is the electric quadrupole
+term we do in a few moments.
+The relevant matrix element is now
+the matrix element of the orbital angular momentum, ly.
+
+The prefector-- let me just collect
+all the constant imaginary unit-- ehrAK over 2mc.
+
+That looks complicated, but it immediately
+simplifies when we realize that this here
+is the core Magnetron.
+And while still have the vector potential--
+but the magnetic field is the curl of the vector potential.
+And that means for-- we assume that we have the vector
+potential propagating in x, polarized
+in z-- that means that our magnetic field is that.
+So therefore, Ka, which appears in our expression
+for the coupling, is just the magnetic field.
+So therefore, we find the result that the next order
+term of the coupling of that atoms
+to the electromagnetic field have
+the same form to the electromagnetic field
+that it is the magnetic field part
+of the electromagnetic wave, times the Bohr Magnetron
+times the matrix element, due to the orbital angular momentum
+operator.
+And actually, if you take the orbital angular momentum
+and multiply it with the Bohr Magnetron,
+this is actually the popularity of the magnetic moment rather
+with a minus sign because the electron is negative charged.
+Remember, we had introduced the operator
+for the magnetic moment.
+And the magnetic moment was the g factor
+times the Bohr Magnetron, times the orbital angular momentum.
+And the G factor for the orbital motion is one.
+So therefore, the interaction we are talking about
+is the Bohr Magnetron times the a magnetic field.
+
+And of course, what we realize is the operator-- maybe
+I should back up for a second and say, what we actually
+realize is that the operator which
+couples to the electromagnetic field
+has actually formed U dot B. This is exactly what we
+used for the Zeeman effect for the dc magnetic field.
+But now the same form, U dot B appears
+for time-dependent magnetic field.
+And time-dependent magnetic fields
+are not only creating level shifts,
+they can also use transitions from the matrix element.
+So in other words, this whole exercise
+shows you that the form, U dot B, which appeared naturally
+in the formulation for dc magnetic fields
+also applies to ac magnetic fields.
+
+But with that I can say, wait a moment.
+There are now two sources for the magnetic moment
+of the atom.
+One is due to orbital angular momentum.
+And the other one is due to spin angular momentum.
+But the spin angular momentum has a g factor,
+which is different, which the approximation
+of the Dirac equation is 2.
+So therefore, I mean, we will never
+get spin out of a semi-classical discussion.
+Remember, we started with a classical canonical treatment
+of the electromagnetic field, canonical momentum.
+And now we are running with it.
+And we find that there's a coupling
+term between the magnetic field and the magnetic moment
+of the atom.
+But of course, we only get the magnetic moment to the extent
+that it comes from orbital motion.
+But in a semi-classical way, I'm waving my hands now
+and say well, what is ready for the coupling
+to orbit to the magnetic moment of the angular momentum
+also applies to the spin.
+And I'm simply adding the spin here.
+And with that, I've derived for you
+the expression for the interaction matrix element
+called m1.
+
+m1 is magnetic dipole transitions.
+I'll just write it down here.
+So this is nothing else then U dot B. Any question?
+
+We will just summarize-- we find it sort of interesting
+when we discuss static electric and static magnetic fields.
+For the static electric field, we
+had an electric field times the dipole.
+And we find this now as a time-dependent term
+which can drive transitions for interactions
+with time-dependent electromagnetic field.
+But we find it in the dipole approximation.
+The magnetic part, U dot B, we find
+when we go to the next order.
+We find it as a magnetic dipole term.
+But there are more terms.
+And I just want to illustrate it that and then I
+stop with that multiple extension.
+We had the second term, the kr term, or this one.
+But then we sort of anti-summarize it.
+The first one here, it could relate
+to orbital angular momentum and to the magnetic moment.
+And now I want to discuss the second term.
+So that term uses a mixture of position and momentum
+operators.
+But we know already how we can get rid of momentum operators,
+namely by expressing momentum operators as commutators
+with the Hamiltonian.
+So this gives us the commutator of z with h naught times x
+plus z times the commutator of x with h naught.
+
+OK.
+So we have two commutators.
+Each of them has two terms.
+That means a total of four terms.
+And if you write them down, you see that two are opposite
+but equally and cancel.
+And so therefore we are left with two terms,
+which are minus H naught zx plus zx times H naught.
+
+So this term has now the following contribution
+to the coupling between the levels, a and b.
+
+So we have this coupling matrix element.
+
+We have prefactor mc km.
+
+OK.
+So using the same approach we used for the dipole matrix
+element, the h naught can act on the state a on the right hand
+and can act to understate b on the left hand side.
+So this gives us simple the energy difference.
+And what is left is now the matrix element,
+which only involves position operators,
+but it uses the product of 2.
+
+And now again we express the vector potential
+by the electric field as we had done before.
+And therefore, we have now expressed our coupling,
+yes, by an electric field.
+And we assume that in the new regiment approximation
+as we had used for the dipole coupling
+that this is the frequency, omega.
+
+OK.
+So what we are realizing is that we
+have one part of the interaction Hamiltonian, which
+couples levels a and b, has-- we called it
+e2, this electric quadrupole.
+Because it involves elements of the quadrupole tensor,
+a product of coordinates, xy, yz, xz, and for the geometry,
+which we assume is our plane waves, it is zx.
+It couples to the electric field.
+
+And this is the prefactor.
+For the more general geometry of plane waves
+with different polarization going in different directions
+we would have obtained different products or coordinates.
+So let me indicate that what we have peaked out here
+is one specific componenet of a tensor which
+is sort of the tensor formed by using the position
+vector, r, twice.
+So in this derivation, we found that when
+we take-- when we go beyond the dipole approximation,
+when we take the kr term in leading order, that we
+have two contributions.
+One is m1, magnetic dipole.
+The other one was electric quadrupole.
+We realizee-- I tried to keep track of all the prefactors--
+that the electric quadrupole matrix element is imaginary,
+whereas the magnetic dipole was U dot B,
+there was no imaginary unit.
+It's real.
+That means that you will never have any have any interference
+effect between magnetic dipole and electric quadrupole.
+In other words, when we have processes
+like spontaneous emission, where we
+take the square of the matrix element, the square
+of the matrix element, it would be
+the sum of the squares of the matrix element
+for magnetic dipole and electric quadrupole transitions.

@@ -1,0 +1,170 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 160 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Experiments are done in the microwave regime.
+The leading groups are-- well, in the older days, then
+Kleppner, [INAUDIBLE], and [INAUDIBLE].
+And this involves [INAUDIBLE] atoms.
+[INAUDIBLE] atoms in superconducting high Q
+cavities.
+And those [INAUDIBLE] atoms because things scaled
+with n and n squared, the principle quantum number--
+have a fantastically strong coupling
+through the electromagnetic field.
+And there is homework assignment on [INAUDIBLE] atoms
+in such cavities.
+The other example is in the optical domain.
+
+And this really involves the D line of alkali atoms.
+You drive them on the D line.
+Rubidium and caesium are often used.
+And the work is enabled by the development
+of so-called super mirrors, which
+have an extremely high reflectivity,
+and you can realize an excellent Q factor.
+And the leaders in this field is Jeff Kimble and Gerhard Rempe
+at the Max Planck Institute.
+So let me just discuss an example
+taken from the optical domain.
+So the generic situation is that you have two mirrors which
+define a single mode cavity.
+Usually you have a stream of atoms
+traditionally in atomic beams, then
+in some experiments in slowed atomic beams,
+more recently in atoms which are falling out of the [? MOT, ?]
+and only very recently, the single atoms
+with the help of other laser beams where
+trapped inside the cavity.
+So they are [? streamed ?] in such a way
+that only one or few atoms in the mode volume
+interact with the single mode of the cavity at a given time.
+And then you want to figure out what is now happening.
+And you have a probe laser.
+You send it through the cavity.
+And then you record the transmission
+with a photo diode.
+Yeah, [INAUDIBLE]?
+What is the mirror made of [INAUDIBLE].
+The mirror is made of a glass substrate,
+but then you have a dielectric coating.
+And the mastery is really to put coatings
+on which are very few pure; but then also-- I think
+using ion sputtering, you make sure
+that the coating is extremely smooth
+and does not have any surface irregularities which
+would scatter a tiny fraction of the light.
+I know there are some people in [? Ike's ?] group
+and [INAUDIBLE] group who work with high Q mirrors.
+What is a typical example for the reflectivity, or the Q
+factor you can reach?
+Five ninths, and a finesse of maybe 500,000.
+So finesse of about a million, and that means the mirror
+has 99.9999 percent reflectivity.
+And the super polishing is-- I think that was the last step.
+People had controlled the materials,
+but then they found ways to make a super polish
+and avoid even one part per million
+scattering by surface roughness.
+
+OK, so if do that experiment, what would you expect?
+Well, it's a Fabry-Perot experiment,
+so if you would scan the probe laser,
+and there is nothing in it, what you would expect
+is-- you would just expect transmission peak
+at the cavity resonance.
+And if you tune much further, you get the next peak
+at the free spectral range.
+Let me just indicate that.
+So this is the case for zero atoms in the cavity. l
+If you put one photon in the cavity,
+you're no longer-- sorry, on atom in the cavity-- you're
+no longer probing a cavity.
+You're really probing a system which is
+no longer the cavity by itself.
+It's an atom photon system-- it's a coupled system--
+and we know it's described by our 2 by 2 Hamiltonian.
+And this Hamiltonian has two solutions.
+And the two solutions are split by one photon Rabi frequency.
+So the two eigenvalues of our Hamiltonian
+are a plus minus omega 1 photon.
+So therefore, for n equals 1, we have a situation
+that we have two peaks split by the single photon Rabi
+frequency.
+Of course I have assumed that great care has
+been spent to make sure that the cavity resonance is right
+where the atomic resonance is.
+So this is now for one.
+If you have 10 atoms, remember the 2 by 2
+Hamiltonian looks the same, but it has a square root
+n plus 1 factor.
+So neglecting the 1 roughly when we have 10 atoms in the cavity,
+it's square root 10, larger Rabi frequency, and therefore
+we would expect that we have now a splitting
+of the two [? MOT, ?] which is square root 10 plus 1 larger.
+
+Actually I didn't-- sorry-- I have to correct myself now.
+
+I showed you that the Rabi frequency,
+you can see it scales with square root
+n plus 1 in the photon field.
+But you should realize that everything
+is [? here symmetric ?] between photons and atoms.
+It's the complete coupling between photons and atoms.
+And if you would now look-- but I don't want to do it now--
+if you would now look what happens if several atoms are
+present in the MOT volume, you would also
+get a scaling, which is n plus 1 in the atom number.
+
+Because the atoms couple coherently, it
+is actually an effect of super radiance,
+which we discuss later.
+So just take my word-- you have the same scaling with the atom
+number, but I have to give you my word
+now, because in the experiment, this is what people varied.
+
+How would you draw this observation
+if you were changing the photon numbers?
+I don't want to go into line shape.
+It will probably be a Lorentzian.
+I mean all I want to discuss here is if that we have a 2
+by 2 Hamiltonian which is split.
+And if you have one atom and one photon,
+it is split by the single photon Rabi frequency.
+If we have one atom and 10 photons,
+the atom can absorb and emit only one.
+As i derived on the previous page,
+we would have now a Rabi splitting, which
+is square root n plus 1, n being the number of photons.
+But if you would start in an empty cavity
+with 10 atoms in the excited state,
+because all the atoms are identical,
+they would spontaneously emit together.
+And then you would have 10 atoms in the ground state.
+And then you would have 10 photons.
+And so maybe this helps you.
+If you start with 10 atoms in the excited state,
+they do everything together.
+You have 10 atoms in the ground state with 10 photons,
+and now you have 10 photons and it's clear
+that 10 photons lead to Rabi frequency, which
+is proportional to the square root of 10
+or the square root of 11.
+So therefore what you will observe
+is you will now observe a splitting
+of the single [? MOT ?] of the cavity which goes
+by the square root of n plus 1.
+I don't want to discuss the line shape and the strings.
+I just want to sort of discuss, in a way, the eigenvalues
+of the Hamiltonian, and the eigenvalues
+are the positions of the transmission peaks
+[? of ?] the cavity.
+
+And this has been observed.

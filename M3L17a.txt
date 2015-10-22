@@ -1,0 +1,141 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 131 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to come back to the rotating wave
+approximation revisited.
+So I'll revisit the revisit of the rotating wave
+approximation.
+And sometimes when I have discussions
+with students after class, I realize
+that something which I sort of casually mentioned
+is either confusing or interesting for you.
+And there are two aspects I actually
+want to come back here.
+So several people reacted to that.
+But some felt it was maybe a little bit too complicated,
+or others asking about some detail.
+So let me come back to two aspects.
+And I hope you find them interesting.
+One is when we sorted out all those terms,
+those need to angle on momentum selection rules.
+But I made sort of the innocent comment,
+well, if you've already got minus omega in a time
+dependent Hamiltonian, one term is responsible for absorption.
+One is for emission.
+And when more than one person asked me about it,
+I think many more than one person in class
+would like to know more about it.
+So therefore, let me spend the first few minutes in explaining
+why it is a time dependent term in the Hamiltonian
+with plus or minus omega, why is one of them
+responsible for absorption, and one
+is responsible for emission?
+
+Well, we have Schrodinger's equation,
+which says that the change of amplitude,
+the change of the amplitude in state one has a term.
+And if you start out with population in state two--
+that's a perturbation field we start in stage two--
+then it is the only term where this differential information
+for an off-diagonal matrix elements
+puts amplitude form state two into state one.
+So what I'm writing down here is just Schrodinger's equation.
+And the operator V is the drive field connecting
+state two to state one.
+And so if I just integrate this equation for a short time,
+between time t and t plus delta t, and I'm asking,
+did you change the population of state one, which
+is now our final state?
+Well then, you integrate over that for time interval delta t.
+But now comes the point that the initial state has,
+in it's time dependent wave function, a factor which
+is e to the minus i omega 2t.
+The final state, which I called one,
+has, because it's a complex conjugate, plus omega 1t.
+And let's just assume we have here the proportionality to e
+to the i omega t.
+And let me just say omega can now be positive and negative.
+It will be part of the answer whether it
+should be positive or negative.
+Well, this integral here becomes an integral of e to the i omega
+1 minus omega 2 plus omega t, integrated with time.
+Well, and this is an oscillating function where,
+if you integrate it with over time,
+it will ever reach to 0 unless omega
+is equal or at least close to the frequency
+difference between initial and excited state.
+So actually, what you encounter here
+is-- well, what I've derived for you here is actually,
+you can say, energy conservation.
+I didn't assume it.
+It is built into the time evolution of the Schrodinger
+equation that you can only go from omega 1, from state one
+to state two or state two to one if the drive term has
+a Fourier component omega which makes up for the difference.
+Or-- I'm using different language
+now-- if through the drive term, you provide photons,
+you provide quanta of energy where
+omega fulfills the equation for energy conservation.
+And you also see from this result,
+when omega 1 is higher than omega 2,
+omega has to be negative.
+When the reverse is true, omega has to be positive.
+So that's why I said the e to the plus
+i omega t term is responsible for absorption.
+The e to the minus i omega t term
+is responsible for stimulated emission.
+You also see, of course-- but I stop here
+because I think you have heard it often enough.
+If you indicate over short time derivative t,
+the equation has to be fulfilled only to within 1 over delta t.
+This is sort of the energy time uncertainty.
+For short times, you don't have to-- the photon
+energy does not need to match exactly the energy difference.
+And you also realize, when we think about omega
+is close to resonance, then e to the i omega t does absorption.
+But if you're in the ground state, e to the minus i
+omega t leads now to a very rapid oscillation here,
+which is close to it a 2 omega oscillation.
+And we've discussed that in the context of the AC Stark shift,
+that this gives rise to the Bloch-Siegert shift.
+We've also discussed that this term
+is the rapidly oscillating.
+And it's nothing else than the counter-rotating term which
+we usually neglect when we do the rotating wave
+approximation.
+So everything we have discussed in this context-- core
+counter-rotating term, energy conservation,
+Heisenberg's uncertainty, time energy uncertainty--
+actually comes from this kind of formalism.
+Any question?
+
+Of course.
+If you quantize the electromagnetic field,
+then you don't have a drive term with i to the omega t.
+You just have A and A daggers for the photons.
+And the question, which term absorbs a photon
+or creates a photon, does not exist.
+Because you know it whether it's a or A dagger.
+But you have the two choices, whether you
+want to use a fully quantized field with photon operators,
+or whether you want to use the time dependent formalism using
+a semi-classical or classical field and the Schrodinger
+equation.
+
+This second comment I wanted to do
+is using the semi-classical picture,
+I was sort of going with you through some examples, when
+the rotating wave approximation is necessary, when not.
+When do you have counter-rotating terms?
+And yes, everything I told you is, I think,
+is the best possible way, how you can-- well,
+I assume because I haven't found a better one-- the best
+possible way to present it and explain it

@@ -1,0 +1,175 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 165 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So we have done the work.
+What I want to do now is just make those terms
+into an energy level diagram.
+I like sort of pictorial representations,
+and each term becomes now a graphical [INAUDIBLE].
+So let us assume we have a system hydrogen s 2 p state.
+But let's say, generally, we go from a j equals zero to j
+equals 1 state, which has three components.
+Now I have set it up in such a way
+that-- we need a little bit extra space-- I've set it
+up in such a way that the states here, this is m equals zero,
+this is m equals plus 1, and this is m equals minus 1.
+So therefore-- let me just use color coding now--
+so this one here is delta m equals plus 1.
+So this one always moves to the right.
+It changes angular momentum buy one,
+so it can always move to the right.
+Whereas the other one, delta m equals minus 1,
+moves to the back.
+Absorption is e to the i omega t, always moves up,
+and stimulated emission moves down.
+So with that, what happens is this term
+here transfers one unit of angular momentum and energy.
+So that would mean this term goes up here.
+It could go up here if there were a state.
+The other term-- let me use, what color do we
+have left, green, let me use a green color-- is driving
+the process in the opposite direction.
+But now we have to also consider that you can go down here,
+and you can go down to a virtual state.
+A virtual state is just something
+which has the same wave function as a state,
+it just has an e to the i omega t,
+which does not-- it's a driven system, you drive it.
+You mix a state, you mix a state at the drive frequency,
+and it just means, in this case, this state
+has an oscillation e to the i omega t, which is very, very
+different from what a state which is populated would have,
+and this is what we call a virtual state.
+So, in other words, what is possible is we have our three
+states, plus/minus 1 and zero, but this
+is the spatial wave function, including angular momentum.
+But we can now drive it by plus omega and minus omega,
+and therefore we can have it as virtual states
+pretty much at any energy we want.
+But this process here is not possible
+because this would require to go to a state which has m
+equals 2, which does not exist.
+So now what I've shown here is, if it
+would start in the m equals zero state,
+I've shown you the four terms to a co-rotating
+and to a counter-rotating.
+If you neglect this virtual state, which
+has a detuning of about 2 omega, or two resonance
+frequency of the atom, this is a rotating wave approximation.
+One term is responsible for absorption,
+the other term is responsible for stimulated emission.
+But, if I don't make the rotating wave approximation,
+I've those two extra terms.
+
+So let's now ask-- so this is only the right-handed light--
+and I want to sort of play a little bit with this concept--
+if I would take the left-handed light,
+I would add four more arrows, two more here,
+and two more here.
+But let's just keep the situation
+as simple as possible.
+But I really like that you write down right-handed, left-handed
+side, decompose it into its components,
+and each component is now in this diagram connected
+to an arrow, where one direction is angular momentum,
+the other one is energy.
+So let me, now, talk about other energy diagrams.
+And this will lead to the answer, well,
+can we create a situation where we have only two terms-- which
+would be the simple two-level system-- can be directly
+realized without any approximation,
+without any rotating wave approximation,
+at two-level system.
+OK.
+So if we had two levels, which have only m equals zero,
+and m equals one-- so this would be
+the situation I just discussed with those two levels.
+So the only way how I can fit in this arrow is this one,
+and the diagonally downward arrow is that.
+So in this case, rotating wave approximation is not
+an approximation, it is exact.
+But some purists will actually say,
+hey, you can never realize it, when you have an m
+equals plus 1 state, then you always
+have an m equals minus 1 state, and then
+you have a virtual state down there,
+and then you get two more terms, which
+are the counter-rotating terms, which I just showed above.
+So while I would say, if you have a neutron star which
+makes an infinitely high magnetic field,
+you can have a huge [INAUDIBLE] splitting
+between m equals plus 1 and m equals minus 1,
+and completely move one of the angular momentum
+state out of the picture.
+But of course, in the rotating wave approximation,
+we are neglecting off-resonant terms
+at 2 omega, omega being in an electronic excitation
+energy, so I'm really talking about Siemens shifts
+here to eliminate the other state which may be comparable
+tow electronic energies.
+So in principle, I can say, this is my Hilbert space,
+and in this Hilbert space no rotating wave approximation
+is needed, but it's maybe an artificial Hilbert space.
+When I had a discussion with other people,
+we came up with the possibility of some forbidden transition.
+If you go from a doublet s to a doublet s state,
+all you have is a spin system which has one half angular
+momentum, plus one half, minus one half,
+and then you realize that only way, how
+you can fit in the orange arrow is
+in this way, and the green arrow in this way.
+So here you would have a situation where the rotating
+wave approximation is exact.
+But of course, it's not an electric dipole transition.
+It's some sort of weaker transition,
+which may be forbidden.
+I have discussed the case where we have quantized
+along a direction, I called it the k direction,
+and the polarization of the electromagnetic field
+was i and j, was perpendicular to it.
+So let me now discuss the case where
+we quantize along the polarization
+of the electromagnetic field.
+And you remember from our discussion on selection rules,
+that this is pi light.
+So in this case, our magnetic or electric field,
+it is polarized along the i direction.
+And the real cosine omega t gets decomposed into e to the plus,
+e to the minus i omega t, and we know already one term is
+absorption , one is emission.
+And now, if I take my j equals zero to j equals one system,
+I get, there is no-- pi light has a selection rule of delta m
+equals zero.
+So now I have an arrow which goes up,
+green arrow with-- here is green, but now of course,
+with linearly-polarized light, we can always
+go down to a virtual state.
+We have now four terms, two are rotating,
+two are counter-rotating.
+So therefore, the quick conclusion
+of the last 10 minutes is that there is the possibility
+that counter-rotating terms can be zero for sigma
+plus, sigma minus light, due to angular
+momentum selection rules.
+But we have also learned, if you have the m plus 1 state
+and there's an m minus state, if you have circularly
+polarized light, and we drive a transition between two m
+states, the counter-rotating term
+does not come from the same set of two states, m equals 1.
+It involves m equals minus 1.
+So it's the other state which is, maybe degenerate, or only
+slightly split by a magnetic field, which
+is responsible for the counter-rotating terms.
+Anyway, we have talked so much about rotating wave
+approximation and those terms, I just
+wanted to show you how it is modified
+if you use degeneracy p states and angular momentum.
+Any questions?

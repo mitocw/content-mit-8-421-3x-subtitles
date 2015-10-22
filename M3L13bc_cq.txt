@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13bc_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 9 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Now, can a photon transfer 3 units of angular momentum?
+Can we get rid?
+Can an atom get rid or 3 units of, let's say orbital
+or spin angular momentum-- you start in a state which
+is J prime equals 3.
+You need one photon, and you go to a state
+which is J prime equal 0.
+Is that possible or not?

@@ -1,0 +1,144 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15t.txt
+#
+# Captions for 8.421x module
+#
+# This file has 134 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+If we only consider one mode-- here, of course,
+in general, the general Hamiltonian
+has to be summed over all modes, and then
+we would get spontaneous emission and everything
+we want.
+But if you have a situation, where you only
+look at the one single mode, then you have what
+is called the famous Jaynes-Cummings model.
+
+And a very important result of this Jaynes-Cummings model
+are the vacuum Rabi oscillations,
+which I want to discuss now.
+It's called Jaynes-Cummings model,
+so let me describe ti you why it is a model.
+Well, it assumes a two-level system,
+which we find a lot of candidates
+among the atoms we want.
+Sure, our electrons have hyperfine states,
+but we can always select a situation where essentially we
+only couple two states.
+We can prepare initial state by optical pumping,
+and then you circle the polarized light
+on the cycling transition.
+And this is how we prepare in the laboratory
+a two-level system.
+So that's one assumption of this model.
+We have a two-level system.
+But the second assumption is that the atom only
+interacts with a single moment, and that
+requires a little bit of engineering,
+because it means we need a cavity.
+So let me just set up the system.
+So our laboratory is a big box of volume
+v. And this is where we may be quantized
+electromagnetic field to calculate spontaneous emission.
+And our atom here may actually decay
+with a rate gamma, which is given
+by the Einstein a coefficient.
+And in order to describe this spontaneous emission,
+we quantize the electromagnetic field in the large volume v.
+But now, we have a cavity with two mirrors,
+and those two mirrors define one mode
+of the electromagnetic field, which will be in resonance,
+only resonance, with the atom.
+
+There will be some losses out of the cavity, which eventually
+couple the electromagnetic mode inside the cavity
+to the other modes in the speak of volume v.
+And this is described by a cavity damping constant copper.
+What is also important is when we use cavity to single out one
+mode of the electromagnetic field,
+the cavity volume is V prime.
+And we often make it very small, by putting the atoms
+in a cavity, where the mirror spacing is extremely small.
+We know, and I'm not writing it down again, what the Einstein A
+coefficient is.
+The Rabi frequency, the single photon Rabi frequency,
+which couples the atom to the one mode of the cavity,
+has this important prefactor, which
+was or is the electric field of one photon in the cavity.
+And importantly, it involves the electric field
+of the photon in the cavity volume, which is V prime.
+
+Now, you see what our experimental handle is.
+If you make this volume very small,
+then we can enter this strong coupling regime, where
+the single photon Rabi frequency for this one mode
+selected by the cavity, becomes much larger
+than the spontaneous emission into all the many other modes.
+So the interaction with one mode,
+due to the cavity and the smallness of the volume,
+is sort of outperforming all of these many, many modes
+of the surroundings.
+And that would mean that an atom in an excited state
+is more likely to emit into the mode between the two
+cavity mirrors, than to any other modes to the side.
+Secondly, of course, when the photon
+has been emitted into the cavity,
+the photon can still couple to the other modes
+by cavity losses copper.
+And now, we assume that we have such high reflectivity mirrors
+that copper is smaller than the single photon Rabi frequency.
+And this is called the strong coupling regime of cavity QED.
+So then, we can at least observe,
+for a limited time, the interplay
+between a single mode of the cavity in a two-level system.
+And this is the Jaynes-Cummings model.
+So in that situation, the Hamiltonian,
+the fully quantized Hamiltonian, the QED Hamiltonian couples
+only pairs of states, which we label
+those states the manifold n.
+So we have an excited state with n photons,
+and it is coupled to the ground state with one more photon.
+Our Hamiltonian has two coupling terms.
+You'll remember the other two where neglected in the rotating
+wave approximation.
+And we can go from left to right with sigma minus a [? deca ?]
+plus.
+And we can go from right to left with the operator sigma
+plus and the annihilation operator a,
+as long as we [INAUDIBLE] small, the rotating wave approximation
+is excellent.
+So let me just conclude by writing down
+the Hamiltonian for the situation I just discussed.
+So if this is energy, we have two levels.
+The excited state with n photons, the ground state
+with n plus 1 photons.
+If the photons are on resonance, the two levels are degenerate.
+But if you have a detune in delta,
+the two level are split by delta.
+And what you're doing right now is for the-- maybe just
+write down the Hamiltonian-- we shift the origin.
+So the zero of the energy is just halfway
+between those two states.
+That's natural.
+So this just offsets in our equations.
+And so, our Hamiltonian has now the splitting
+of plus minus delta over 2.
+The coupling has a prefactor, which is the single photon Rabi
+frequency.
+And then, the a and a [? deca ?] terms
+depend on n square or n plus 1.
+So what I wrote down, I will say Hamiltonian rotating wave
+approximation, which describes only one pair of states.
+But we have sort of, of course, in our Hilbert space,
+one pair of states for each label n.
+But each of them is sort of described
+by a decoupled Hamiltonian.
+So that's what I wanted to present you today.
+And I will show you on Wednesday how this Hamiltonian
+leads to Rabi oscillations, not induced by an external field,
+but induced by the vacuum.
+Any questions?

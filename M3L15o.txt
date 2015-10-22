@@ -1,0 +1,111 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15o.txt
+#
+# Captions for 8.421x module
+#
+# This file has 101 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Conning?
+So when you derive the amplitude of the electric fields
+due to the single photon?
+Yep.
+I always get the factor of 2 wrong.
+So you wrote h bar omega is 2 epsilon 0 V e squared?
+Now, there's a contribution that comes
+from the electric field and magnetic field that
+can be one factor too.
+Then there's always that other factor of 2.
+Are you getting that from using 1/2 h
+bar [INAUDIBLE] fluctuation [INAUDIBLE]?
+I'm not going back to the formula,
+because I run the risk that it was wrong.
+[LAUGHTER]
+But all I want to say is, what I really mean is,
+use [INAUDIBLE], put in a volume,
+V, an electromagnetic field with h bar omega energy.
+And the electric field squared of this photon,
+that's what I mean.
+And if you find a factor of 2 mistake in my e square,
+I can still get out of the rear exit, the rear entrance door,
+by saying that there is also a difference
+whether e square is e square RMS,
+or whether e square is c amplitude.
+[LAUGHTER]
+You know?
+I mean, there are those factors of 2 everywhere.
+But what I mean is, really, V electric field
+caused by one photon.
+And of course, the argument stands,
+I don't need any factors of 2 or any subtleties
+of the electromagnetic field energy.
+We know that the energy is n plus 1/2,
+but emission is n plus 1.
+And this shows that the stimulation by the vacuum field
+cannot quantitatively account for spontaneous emission.
+So the quantity that you set equal to is h bar omega,
+and not 1/2-- not the fluctuation, but the real--
+OK.
+If you want to know-- let's not compare apples with oranges.
+You want an electric field.
+And you can pick whether it's the RMS field,
+or whether it is the maximum amplitude.
+You can pick what you want.
+But now, we are comparing what is the e square for the vacuum,
+for single-mode vacuum, and what is
+the e square for single photon.
+The two answers differ by a factor of 2.
+A single photon is twice as strong in e square
+as the vacuum fluctuations in the same mode.
+That's what it means.
+Yes?
+I have a question about the spontaneous emission rate.
+The explanation that you have, quantum mechanical derivation
+that we have, do people not know what the formula--
+how to describe spontaneous emission rate [INAUDIBLE]?
+
+I think so.
+I have not gone deeply back into the history,
+but a lot of credit is given to Einstein.
+And as I mentioned last week, that Einstein actually
+had spontaneous emission in his derivation for the Einstein A
+and B coefficient in this famous paper.
+And so, he found that there must be spontaneous emission.
+Based on a thermodynamic argument,
+it's only spontaneous emission which
+brings the internal population of an atom into equilibrium.
+So I think it is called [INAUDIBLE].
+Can you derive it from that [INAUDIBLE] condition
+of getting equilibrium?
+That's what Einstein did.
+And the answer is, by comparison with the Planck law,
+you get an expression for the Einstein A and B coefficient.
+Now, of course, you can go the other way around.
+You can say, if you just use classical physics,
+you would actually expect-- now, it depends, if you use the Bohr
+model, you would expect that the electron is radiating,
+and it was a mystery, how can you have an atom in the ground
+state which is circling around a nucleus,
+and not radiating at all.
+On the other hand, in quantum mechanics,
+we are not assuming that the atom is circulating,
+and we have an accelerated charge which is--
+and we have a time-dependent charge distribution,
+we use a steady state wave function.
+So I'm not sure if there is, maybe, an argument
+which would say there should be some spontaneous emission,
+based on a purely classic argument.
+But this would not be the whole story,
+because a classic argument would then deal with the difficulty,
+why is there difference between n
+equals 1, which does not radiate in [INAUDIBLE] which radiates?
+So my understanding is that it is only the physics,
+either through the perspective of Einstein,
+by just using equilibration or our microscopic derivation,
+using field quantization, which allows
+us to understand the phenomenon of spontaneous emission.
+
+Other questions?

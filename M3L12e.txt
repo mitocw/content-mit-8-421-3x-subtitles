@@ -1,0 +1,129 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L12e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 119 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+This leads us to a discussion of selection rules.
+Selection rules is nothing else than a classification
+of possible transitions according to symmetry.
+And it's a way using, well, [INAUDIBLE] coefficients,
+angular momentum coupling, or using you would say symmetry
+to figure out of matrix elements are non vanishing or vanishing.
+And I gave you already one example
+and I want to formalize it now.
+If you go between two S states which have zero angular
+momentum, you cannot have an operator which is a quadropole
+operator because, and this is what I want to tell you now,
+the quadropole operator is a spherical tensor with two units
+of angular momentum.
+And this would forbid the triangle rule.
+This would forbid conservation of angular momentum.
+So that's what I want to discuss now in the next chapter
+or at least get started for the next five minutes
+by discussing selection rules.
+So the introduction to selection rules
+is that we have forbidden transitions.
+Forbidden transitions are suppressed
+by-- because we are forced to go to higher order.
+And this is usually higher order in alpha.
+So forbidden transitions are weaker by some power of alpha.
+And that means they require higher approximations.
+
+And, of course, the comparison is always dipole transition.
+This is the dominant transition.
+This is the industrial strength transition.
+And from there on, it can get weaker.
+So it can get weaker by multipole expansion.
+We've just discussed that.
+It can get weaker because you have
+to emit-- you have to have that cascade of dipole transitions.
+This would be multiphoton processes
+as we discuss later in the course.
+They can get weaker because they are exactly
+zero in a non relativistic approximation
+and require relativistic effects.
+The example we have encountered in this course
+is the singlet to triplet transition in helium.
+Or they're transitions which would not be allowed just
+for the electron, but if we invoke hyperfine interactions
+with the nucleus, then they become allowed.
+So it's a rich subject and I'm not an expert and I cannot do
+full justice to it.
+But I went to at least give you some general rules how
+we discuss matrix elements.
+So what is always a good quantum number,
+what is always a label for our atomic states,
+is angular momentum.
+Because atoms live in free space and there is rotation
+invariance.
+So we always categorize our atoms
+with angular momentum quantum numbers JM.
+And we are asking are there transitions between a state
+JM to a state J prime M prime.
+And all other quantum numbers we can now summarize with a label
+N. And now we have an operator.
+I gave you examples for the operator--
+the magnetic moment, the electric dipole,
+the quadropole operator.
+But in general, every operator can be written,
+can be expanded, in a sum of spherical tensors.
+So what is discussed in the classification of matrix
+elements are matrix elements involving components--
+the operator of components of a spherical tensor.
+So T is a spherical tensor of rank L.
+And if you want the simple definition what
+is a spherical tensor, you try to write
+an operator like the position operator R.
+You try to write it as a sum of terms.
+And each term transforms like a spherical harmonic YLM.
+So in other words, we can write every operator
+as the sum of spherical tensors.
+And the spherical tensor is characterized
+that it transforms under rotations exactly
+as the spherical harmonics YLM.
+
+So every operator is now a sum of spherical tensors.
+I don't want to get too much interest into symmetry
+classification, but the story is that you
+know the YLM functions are [? complicated ?] functions.
+Every function can be expanded in spherical harmonics.
+And similarly, if you have an operator,
+you can decompose it into objects which transform
+under rotation as the YLMs.
+So you have a part which transforms
+according to an object.
+YLM is a classification of wave functions
+with angular momentum.
+And so therefore, each operator may not have a specific angular
+momentum, but can be written as the sum of operators,
+each of which has the same symmetry,
+the same transformation properties,
+as the state of angular momentum.
+
+And I think I should stop here, but let me just
+give you the final message.
+So by doing that, by separating the operator
+into a sum of spherical tensors, we are actually now back
+to angular momentum.
+If we have a matrix element and just
+think how you calculate in the Schroedinger representation,
+you have a wave function operator
+and a wave function to indicate over it.
+So what you have is you have the product of the objects.
+And now we have to-- we can classify them
+by angular momentum.
+And in the end, and this is what I will show you
+in the next class is that ultimately,
+the question whether this matrix element is zero or not will
+boil down to the question whether J prime and N
+prime, angular momentum, can be added to L and M.
+And there is overlap with angular momentum of JM.
+So we are back to the rules for adding
+angular momenta we get the triangle [INAUDIBLE] quote
+unquote [INAUDIBLE].

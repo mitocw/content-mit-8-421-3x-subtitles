@@ -1,0 +1,137 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15p.txt
+#
+# Captions for 8.421x module
+#
+# This file has 127 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Before we talk about some really [? cute ?] and nice aspects
+of the fully quantized Hamiltonian,
+I want to spend a few minutes talking
+about degeneracy factors.
+
+I've already given you my opinion that you should not
+think in almost all situations about levels
+which have a degeneracy.
+Just think about states.
+A state is a state, and it counts as one.
+And if you have a level, which has triple degeneracy,
+well it has three states.
+Just count the states and look at the states.
+However, there are [? formulae ?] which
+involve degeneracy factors.
+And just to remind you, when we had the discussion
+of Einstein's A and B coefficients,
+the Einstein A coefficient was proportion to the B coefficient
+responsible for stimulated emission
+from the excited to the ground state.
+But the Einstein B coefficient for absorption
+was related to the Einstein B coefficient
+for stimulated emission by involving
+these degeneracy factors.
+So degeneracies appear and in some formulae
+it makes a lot of sense to use them.
+Also I've always said for fundamental understanding
+you should just assume all degeneracies are one.
+This is how you can avoid some baggage in deriving equations.
+And I'm still standing to my statement,
+I want to show you now a situation
+where it becomes useful to consider degeneracy factors.
+So let me give you an example.
+We can now look at the situation where
+we have an excited p-state and the ground state, which is s.
+Or I can look at the opposite situation,
+where we have an s-state, which can radiate to a p-state.
+
+By symmetry, through the different p-states, n plus 1,
+n minus 1, n equals [INAUDIBLE] are just
+connected by spatial rotations, so therefore
+the lifetime of the p-state, of the three p-states,
+and the rate of spontaneous emission, are the same.
+
+But if you now assume that you have absorption,
+you go from the s-state to the p-state,
+then you find that the Einstein B coefficient for absorption
+there are now three possible ways, not just
+one polarization, all three polarization.
+And you will find that this is proportional to 3 times r.
+However, in this situation, it's a reverse,
+but let me just finish here.
+
+So here, the natural linewidths, and the rate
+of stimulated emission described by the B coefficient
+from the excited state to the ground state,
+is proportional to r.
+Where s in the other situation, if we have absorption now,
+each of those levels, there's only one transition one
+[? pathway, ?] therefore you will find that the coefficient
+for absorption is proportional to r,
+wear s gamma and the stimulated emission, which is now Bsp,
+is proportional to three r because there are there
+[? pathways. ?]
+So, depending what the situation is, you have to be careful.
+And, you would say, but if it's s to p transition
+it may be connected by the same matrix element,
+and therefore you would say, shouldn't there
+be a line strength which is independent
+whether you go from s to p, or p to s, which just describes,
+in a natural way, what is really the coupling between the s
+and p-state.
+And yes, indeed, there is, in the literature,
+some definition of line strength where the line strengths, s,
+would be proportional to the sum of all [? rates ?]
+between an initial and the final state, and do some over all.
+So therefore, when you use this formula for the line strengths,
+whether you have the situation on the left side,
+or on the right side, you would do always
+the sum over the three possible transitions,
+and so the line strengths are the same for both situations.
+It's just generic for an s to p transition.
+So if you use this definition, but then you
+have the situation that spontaneous emission is always
+given by the line strengths, but you
+have to multiply now by the multiplicity of the excited
+state.
+If you have a p-state, the whole line strengths
+is distributed over three states.
+And each state has only a spontaneous emission
+rate which is a third of what the line strengths give you.
+I don't want to beat it to death because I
+hate degeneracy factors, but I just
+thought this example with the p to s
+and s to p transition tells you why they necessarily
+have to appear in derivations like Einstein's A and B
+coefficient.
+
+I hope there are no further questions about degeneracies.
+
+Making these comments also allows me to say, well,
+when I derived the Einstein A coefficient, what
+we did last class, I did not use any degeneracy factors.
+This is correct.
+Our derivation assumed that there was only one final state.
+We did not include degeneracy factors.
+We also assumed that we had a dipole matrix element which
+was along the z-axis, and so by those definitions
+I have implicitly [? picked ?] geometry which
+can be represented by that we have an excited p-state,
+in the m equals zero state.
+And we have a pi transition with linear polarization
+to the s-state.
+And by doing that, I did not have
+to account for any degeneracies.
+
+But in general if you derive microscopically
+an equation for spontaneous emission,
+you may have to take into account that your excited
+state has different transitions, sigma plus and sigma minus
+transitions to different states, and you
+have to be careful how you do the sum
+over all possible final states.
+And this is where degeneracies would eventually matter.
+
+Questions?

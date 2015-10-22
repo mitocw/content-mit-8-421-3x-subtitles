@@ -1,0 +1,46 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16ba.txt
+#
+# Captions for 8.421x module
+#
+# This file has 36 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I mentioned the two leaders of the field
+are Gerhard Rempe and Jeff Kimble.
+Well, Gerhard Rempe-- I actually did my--
+he did his PhD in the same group,
+at the same time, as I did, so I know him very well.
+Then he went as a post-doc work with Jeff Kimble.
+And now, as the director of the Max Planck Institute.
+He has a world leading group in cavity QED.
+Here, the two leaders have a joint paper,
+which is the first observation of the vacuum Rabi
+splitting in optical cavity.
+Of course, you can easily observe it,
+if you have a strong atomic beam with many atoms,
+because then you have a good signal.
+And secondly, the splitting is large and easily resolved.
+So what they managed to do is, they managed to throttle down
+the atomic beam, that fewer and fewer atoms, at a given time,
+were in the cavity.
+And eventually, they came down to the limit of one atom.
+That was a historic experiment.
+Of course, it's not perfect in the sense,
+that you do not see the deep cut between the two peaks,
+simply because, when on average you
+have one atom in the cavity, sometimes you
+have no atom in the cavity, and then you
+will peak in the middle.
+So those experiments in those days
+were done only with average atom numbers,
+and not with trapped atoms where you know for sure there's
+exactly one atom in the cavity.
+So, I don't show you an experiment,
+but let me just state that this sort of single photon Rabi
+flopping has been observed.
+So you start with the cavity in the vacuum field,
+and you sort of see this oscillation

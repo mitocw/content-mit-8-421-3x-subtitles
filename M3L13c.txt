@@ -1,0 +1,64 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 54 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So this is a classification.
+Let's just focus on the simple examples.
+We have discussed electric dipole and magnetic dipole
+radiation.
+These are induced by vectors.
+Remember, a1 is the dipole vector.
+For m1, the matrix element was by the angular momentum vector.
+So these are vectors.
+And that means that presentation of the spherical tensors
+or the [? quantum ?] numbers up spherical tensors
+are the same of the Y1 m.
+
+So for type of radiation, whether it's
+electric or magnetic, we have now the dipole election rules,
+which pretty much say you add 1 unit of angular momentum
+to state b.
+Can you reach state a with that?
+And these selection rules are that you
+can change the angular momentum between initial state
+by 0 and 1.
+This is the triangle rule.
+And delta m can be 0 and plus minus 1
+depending on polarization, which we're
+going to discuss in a moment.
+So in angular momentum, electric and magnetic dipoles
+have the same selection rule.
+Whereas, when it comes to the question of parity--
+we've already discussed that-- that an electric dipole
+connects two states of opposite parity,
+whereas the magnetic dipole connects
+two states of the same parity.
+And of course, this comes about because L is a axial vector
+and I is a polar vector, which have different symmetry when
+you invert the coordinate system.
+The one higher multipole transition which we discussed
+was the electric quadrupole, E2, and the spherical tensor
+operators for the quadrupole transition.
+I gave you already the example of,
+let's see, xz products of two coordinates
+because we went one order higher than the dipole.
+They transform as Y2, m.
+And therefore, we have selection rules
+for quadrupole transitions, which tell us now
+that we can change the total angular momentum up to 2
+and also delta m can change up to 2 units.
+And again, just to emphasize because people get confused
+all the time, when we talk about a quadrupole transition,
+we mean absolutely positively a transition
+where one photon is emitted.
+If you fully quantize the field, there
+is one creation operator of the photon.
+It's one photon which is created.
+And this photon carries away the angular momentum

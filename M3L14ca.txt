@@ -1,0 +1,173 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14ca.txt
+#
+# Captions for 8.421x module
+#
+# This file has 163 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+Einstein's A and B coefficients.
+I will post one of Einstein's papers on the web sight.
+He was also the first to actually discuss
+mechanical forces of light.
+He realized that if you have a gas at a temperature which
+is different from the temperature in the room,
+the gas has to equilibrate.
+And the gas can only equilibrate,
+lost excess velocity by transferring its momentum
+to the photons.
+So some equations of laser cooling,
+the fact that light can exchange momentum with a particle--
+and this is eventually what leads to equilibrium--
+was already in papers at the beginning of the 20th century.
+And it's just amazing if you read those papers,
+how modern the language is and how clear the language is.
+But here, I'm not talking about the mechanically effects.
+But the mechanical effects of light,
+which many people in this class like or use for living,
+this is actually part of this equation.
+Because equilibrium between a gas--
+I discuss here in Einstein's A and B coefficient,
+the equilibrium between the electronic structure,
+the ground and excited state, with a photon field.
+But Einstein also considered the equilibrium
+between the motional degree of the atom.
+And equilibrium between the motional degree
+of the atom and the radiation field
+requires the spontaneous force, the spontaneous radiation
+force.
+I'm not discussing it here.
+What I'm discussing here is now an equilibrium
+between ground state and excited state.
+
+So the probability to find an atom in the excited state
+is simply done by-- simply described
+by the Boltzmann factor.
+
+Now it's traditional in the discussion of Einstein's A
+and B coefficient to allow for degeneracy factors
+at ground and excited state, have degeneracy.
+I have to say, I usually hate that.
+I try not to talk about levels.
+I just talk about quantum states,
+non-degenerate or individual quantum states.
+So in that sense, I try to characterize population
+in the quantum state, not in a level.
+But it is standard to follow Einstein's concept
+where you have degeneracies.
+I'm not emphasizing them here.
+But I will just write them down where they belong to.
+OK.
+So this takes care.
+We know what is a fraction of atoms in the excited state.
+So this is the equilibrium.
+The next thing we need is the light.
+And Einstein assumed that it's a spectral density in black body
+cavity.
+So we need the energy density per frequency interval.
+And this is nothing else than the occupation number over mode
+times the energy of the photon times the density of states.
+
+The photon number per mode is just
+given by the Bose-Einstein factor,
+Bose-Einstein statistics factor.
+The mode density is, as you know in three dimensional,
+omega squared pi squared over c cubed.
+So therefore the spectral density of black body radiation
+has-- and we need that in omega cube dependence.
+And then it has this Bose-Einstein denominator
+in the well known form.
+So this is now Plank's black body spectrum in the units
+where we need it.
+So all we need is now to find the famous Einstein A and B
+coefficient.
+We have to write down a rate equation for the atoms.
+
+So the fact is we knew already what equilibrium is.
+Excited state versus ground state population
+is the Boltzmann factor.
+But now we write down a rate equation
+which involves a black body field,
+and then we compare the solution of the rate equation
+to the solution we already know.
+And from that, we get Einstein's A and B coefficient.
+OK, so the change of in the population of the excited state
+has three different terms.
+One is the energy density of the black body radiation
+can cause stimulated emission.
+
+So therefore, it's proportional to the number
+of atoms in the excited state.
+The energy density of the black body radiation
+can cause absorption.
+This is proportional to the number
+of atoms in the ground state.
+
+And then this equation as it stands
+would lead to contradiction when I compare
+the solution of this equation to the Boltzmann factor we already
+know.
+And the only way to fix it is to add an extra term, which
+is spontaneous emission.
+If spontaneous emission were not necessarily, this A efficient
+could in the end turn out to be zero,
+or it can be undetermined.
+But as we see, it is necessary for consistency.
+So this is pretty much the famous rate equation.
+
+And we are interested in the equilibrium solution.
+In equilibrium, all derivatives vanish.
+And then, by setting the derivatives to zero,
+I have one equation.
+And I will rewrite the equation by putting the spectral density
+of the light on one site and everything else
+on the other side.
+And what we have here is the A coefficient, the ground state
+population, the excited state population, the B coefficient.
+
+So this is spectral density.
+It's just an expression for the spectral density.
+We want to put in now that the excited state fraction is
+given by a Boltzmann factor.
+So therefore, Ne over Ng becomes the Boltzmann factor.
+And yes, there are these degeneracy factors.
+
+So I've pretty much divided the denominator and the numerator
+by their population in the excited state.
+And here I get Beg.
+OK.
+So this is the result for the spectral density.
+But we know already that the spectral density
+has to be of the Plank form.
+So now we can simply compare what
+we know to what we obtained from the rate equation
+and make sure that it matches.
+It's good that we have the exponential factor.
+And by bringing this expression to the form
+of the other expression, we actually
+have to fulfill two conditions.
+One is, in order to make sure that kind
+of the total expression is OK, it gives us of ratio.
+The Plank body spectrum is normalized.
+There is no unknown prefactor.
+So this determines the ratio of A and B.
+And also seems we have this functional
+form of the Bose-Einstein statistics, which
+is this exponential factor minus 1,
+it gives us also a relation between the two B coefficient.
+That one is the B coefficient for stimulated emission,
+and the other one is a B coefficient for absorption.
+OK so with that, we have the relation
+between the A coefficient and the B coefficient.
+
+And we find that the B coefficient for absorption
+and emission are the same.
+Well, we know it's the same coupling matrix.
+And when the Hamiltonian, which connects ground
+to excited state, excited state to ground state.
+But if you really want to deal with degenerate states
+and not formulate it for states, you have degeneracy factors.

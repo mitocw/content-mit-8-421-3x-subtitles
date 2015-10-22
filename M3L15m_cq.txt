@@ -1,0 +1,22 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15m_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 12 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The last question is about the Lamb shift.
+We are now talking about electronic transitions,
+and the question is-- is it due to the counter rotating term?
+In other words, if you have a situation where the counter
+rotating term is 0, as we just discussed
+in the previous example that there may be situations,
+somewhat artificial, but you could arrange for it.
+That said, then imply that there is no Lamb shift.
+Yes or no?
+Is the Lamb shift caused by the counter rotating term involved
+in electronic transitions?

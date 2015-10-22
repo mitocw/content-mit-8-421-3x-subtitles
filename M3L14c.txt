@@ -1,0 +1,123 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 113 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me just summarize where we are in our discussion of atom
+light interaction.
+We've actually made a lot of progress.
+We have discussed matrix elements.
+We have discussed the coupling of atoms to an external field
+at the level of the Schrodinger equation.
+And we have done perturbation theory.
+And in perturbation theory, we found Rabi oscillations,
+and we found rate equations.
+The feature now which is missing is, of course,
+damping spontaneous emission irreversibility-- another form
+of irreversibility.
+But right now, our Rabi oscillations
+are undamped, whether we obtain them in perturbation theory
+or whether we use the spin formalism to get them even
+in the resonant in the strong coupling case.
+And here, for the rate equation, the way how we have solved it,
+the probability to be in the excited state
+just increases forever.
+This system will never reach equilibrium.
+So that means in both cases, we have a missing element.
+And this is spontaneous emission.
+
+So for the next hour or two, we'll
+talk about aspects of spontaneous emission.
+Spontaneous emission will actually, eventually,
+lead to damping of Rabi oscillation
+and to a saturation of the excitation.
+OK, so we're now discussing spontaneous emission.
+And we will discuss it in actually three levels.
+One is--
+
+I will discuss Einstein's A and B coefficient.
+I sometimes hesitate.
+Should I really discuss Einstein's A and B coefficient?
+It's sort of old fashioned.
+And I have already in perturbation theory
+given you a microscopic derivation
+of Einstein's B coefficient.
+But everybody who is an atomic physicist
+knows about Einstein's A and B coefficient.
+It was really a stroke of genius to do it.
+And it becomes sort of our language.
+So what I'm doing here is I'm beating it to death,
+but I give you sort of a short summary.
+It's also sort of, I make a few comments,
+which is actually amazing, that Einstein actually got results
+from the A and B coefficient which you can only
+get otherwise if you quantize electromagnetic field.
+So it's also sort of historically interesting
+that Einstein actually developed the theory of the A and B
+coefficient before the Schrodinger equation,
+before quantum mechanics was developed.
+And often you call Schrodinger equation
+the first quantization, in the field quantization
+the second quantization.
+So in some sense, Einstein actually
+preempted or had already the results of second quantization
+before first quantization was developed.
+Anyway, it's a landmark paper how Einstein did it.
+And that's why I want to discuss it.
+But it's partially also in order to give you
+the historical context.
+But then of course, we want to use
+the modern formalism of use of quantization
+of the electromagnetic field.
+And we have already obtained, just now,
+the result for Einstein's B coefficient
+by just looking at the induced by the absorption
+rate or the stimulated rate.
+But then eventually by having a quantization
+of the electromagnetic field, we can also
+do now microscopic, fully quantum first principle
+calculation of the A coefficient.
+So then if we have all ready the B coefficient,
+we get the A coefficient out of a microscopic calculation.
+So we don't really need Einstein's treatment of A and B
+at this point.
+But it's nice to see the connections.
+So anyway, so this is the agenda.
+Einstein's A and B coefficient to pull out
+spontaneous emission without even putting it in.
+Then we'll talk about field quantization which
+automatically leads us to a treatment
+of spontaneous emission.
+Any questions?
+
+So how was Einstein able to show that there
+is spontaneous emission without sort of knowing the quantum
+character of fields?
+Well, the point was he knew and understood that there
+would be thermal equilibrium.
+
+He said, I know what thermal equilibrium is.
+Thermal equilibrium is a Boltzmann coefficient,
+a Boltzmann probability for an atom
+to be in the excited state.
+The probability to be in the excited state
+is just a Boltzmann factor, and depends on temperature
+in the usual way.
+And also knew that the spectrum of light would follow
+a Planck distribution.
+And if you put those things together,
+you go beyond that, because you are in thermal equilibrium.
+This here, what we derived so far,
+does not have thermal equilibrium.
+And thermal equilibrium only comes through the damping
+of spontaneous emission.
+So therefore, by Einstein just using Boltzmann distribution
+and Planck's law, he got spontaneous emission.
+And this is what I just want to show you.
+Or for most of you, it's a reminder.

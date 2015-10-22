@@ -1,0 +1,189 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 179 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let me conclude our discussion of matrix elements
+by talking about something which is experimentally
+very relevant.
+And this is how selection rules depend
+on the polarization of light.
+And I only want to discuss it for electric dipole
+transitions.
+So when we wrote down the coupling of the atom
+to electromagnetic radiation, we had the dipole operator.
+But we also had, of course, the mode
+of the electromagnetic field, which was characterized
+by a polarization epsilon.
+So until now when I talked about selection rules,
+we discussed this part.
+But now we want to see how it affects polarization.
+Well, the epsilon, for instance, for circular polarization--
+we'll talk about linear polarization in a moment--
+has this representation.
+
+So this is the unit vector of the polarization
+of the electric field when it's circularly polarized.
+And now, remember, we take this vector R
+and expand it in the following way.
+So if we multiply, now, the operator r or the matrix
+elements created by this factorial operator
+by the polarization, you see that one circular polarization
+projects out this component.
+The other circular polarization projects this out.
+And later, we talk about that linear polarization projects
+that out.
+So when we said that we have matrix elements
+for dipole transition, which can change
+angular momentum or the n-quantum number by minus 1
+plus 1 and 0, this is now related
+to the polarization of the light-- either the photon which
+is emitted or, when we use circularly polarized light,
+we can only drive this transition-- that or that.
+Because the scalar product of the polarization vector
+and the matrix element project out only one component
+of the spherical tensor.
+So if you look at the expansion above,
+we realize that the left and right-handed circular light
+projects now out.
+The spherical tensor operator T1 plus minus 1.
+And since it's circularly polarized light.
+And therefore, we find this election rule,
+that delta M, the z component of the angular momentum
+changes by plus/minus 1 when the circularly polarized light is
+sigma plus or sigma minus-- right-handed or left-handed.
+OK, so this is responsible for circular polarization.
+These are selection rules for circularly polarized light.
+Let me conclude by discussing the case
+of linear polarization.
+Well, when we ask linear polarization,
+if we ask for linear polarization along x or y,
+well, it's linear polarization, but we should regard it
+as a linear superposition of sigma plus and sigma minus.
+So otherwise, if you have the quantization axis along z,
+and you use light which is polarized along x or y, the way
+the light talks to the atom with symmetric operators
+is that the light is a superposition of sigma plus
+and sigma minus.
+So we have here the light k, the propagation of the light,
+was along the z-axis.
+
+But now we want to look at the other possibility, that z,
+or the quantization axis, is parallel
+to the polarization of the electric field,
+which would mean that the quantization axis is usually
+defined by an external magnetic field.
+So we're talking about the situation
+that the electric field of the electromagnetic wave
+is parallel to the magnetic field.
+Then, with this polarization, we pick out
+the spherical tensor component which
+is z, which is r times Y1, 0.
+And that means that this polarization of the light
+induces a transition for which delta m equals 0.
+And this is referred to as pi light.
+So maybe, if that got confusing for you,
+let me just help out with a drawing.
+
+We have our atom here.
+It is quantized by a magnetic field B.
+And if we shine light on it, we have the electric field
+perpendicular to the magnetic field.
+So this would be x and y.
+And the natural way to describe it
+is by using x plus/minus i Y. And we have selection rules
+where delta m is plus/minus 1.
+But alternatively, we can also shine light
+along this direction.
+And for the electric field which is perpendicular to B,
+we retrieve the previous case.
+We have superpositions of the sigma plus and sigma minus.
+But the new case now is that the electric field is parallel
+to B.
+And then we drive transitions which have delta m equal 0.
+So these are sigma plus and sigma minus transitions.
+And this here is what is called a [INAUDIBLE] transition.
+
+Anyway, it's a little bit formal,
+but I just wanted to present it in this context.
+
+Questions?
+Nancy.
+I have one slightly basic question.
+When we talk about polarization in all these matrix
+elements [INAUDIBLE] single photon [INAUDIBLE],
+these are single photon matrix elements.
+And so when we talk about shining a laser,
+it has a polarization, but we don't
+talk about polarization for single photons-- or do we?
+
+The question is, what is a polarization?
+Do we talk about polarization of single photons or polarizations
+of laser beams?
+Well, I would say-- let me back up and say,
+we talk about polarization of a mode of electromagnetic field.
+We will always expand the electromagnetic field
+into modes and the mode has a polarization.
+It may happen that at some point,
+a photon is emitting in a superposition of modes.
+But in the most straightforward description,
+we always do a mode analysis.
+And often, we simplify the case by saying
+that the atom interacts only with one mode
+of the electromagnetic field.
+And maybe in the case of spontaneous emission,
+we then sum over all modes.
+But for each mode, there is a specific polarization.
+And it doesn't matter if this mode is filled with one atom
+or with a laser beam with a classical electromagnetic
+field, which corresponds to zillions of photons.
+And in the lab, does it always end up
+being elliptical polarization in this case, then?
+Because if it's many photons, then there's
+a lot of modes for each of them individually.
+
+No, it depends.
+If you have an atom, and it has one unit of angular momentum,
+and it spontaneously emits a photon,
+if the photon is emitted along the quantization axis,
+it can only be sigma plus.
+If it's emitted in the other direction,
+it has to be sigma minus.
+Now, if you go at strange angles, then at this angle,
+you have overlapped with different modes.
+And you may now find photons in the superposition
+of polarizations, because we have
+several modes which are connected with this direction
+of emission.
+
+I think if you write it down, it's pretty clear.
+It's just sort of projection operators.
+And for spontaneous emission, we sum over all modes.
+But for me, I always think about,
+you can always think about what a single photon does by saying,
+well, if I'm getting confused about a single photon,
+let me figure out what many, many, many identical photons
+would be.
+And that would mean, instead of a single photon
+in a certain mode, I have a laser beam in this mode.
+And then suddenly, I can think classically.
+I know what the electric field is such.
+And then you go back to what is the electric field
+of a single photon, and usually make the connection.
+So I think at least for the discussion
+of matrix elements, transitions, angular momentum,
+I don't think you ever have to distinguish
+between what single photons do and what laser beams do.
+
+But there are important aspects of single photons,
+non-classical aspects, which we discuss in a short while.
+Other questions?
+
+OK, that's all I want to say about selection rules.
+So with that now, we can simply take the matrix element

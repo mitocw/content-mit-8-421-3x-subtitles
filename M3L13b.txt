@@ -1,0 +1,98 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 88 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We can take this expression from the last lecture
+and rewrite it using the Wigner-Eckart theorem
+into a way which allows us to immediately formulate
+selection rules.
+Inert and prime are the quantum numbers of the state,
+except for angular momentum, so matrixing
+about principal quantum number of the hydrogen atom.
+And we want to couple from a total angular momentum J-prime
+to total angular momentum J. Actually,
+we want to couple from J-prime, M-prime to a state, JM.
+And what the Wigner-Eckart theorem
+tells us, that we can factor out M-dependence.
+The M-dependence just comes from orientation in space.
+So M is just how you orient wave functions and vectors in space.
+And you can start off, right, this matrix element
+as a projection.
+And this is called, this is nothing else
+than the familiar Clebsch-Gordon coefficient.
+And the Clebsch-Gordon coefficient--
+or the Clebsch-Gordon coefficient,
+to start with the initial shape J-prime, M-prime,
+we have the L and the M of our operator.
+And that should result in a total angular
+momentum of J and M.
+So we'll retrieve again, the formalism
+of the addition of two angular momenta.
+Sometimes you have two particles you couple with two angular
+momenta and ask, you know, what is the total angular momentum
+of the composite particles?
+But what we do here for the selection rule.
+We have the initial state.
+We couple it with the angular momentum of the operator.
+You can think the operator is a field which
+can transfer angular momentum.
+And then, of course, the final state
+has to fulfill angular momentum conservation.
+But one source of the momentum is now the operator.
+It's the external field.
+It's the photon or the microwave drive, whatever you apply.
+This Wigner-Eckart theorem allows
+us to write the matrix element as a reduced matrix element.
+Which really decides whether the transition is non-vanishing
+or not.
+--times a factor, which is just the orientation of the wave
+function and the operator in space.
+So for the Clebsch-Gordon coefficient,
+we have a simple selection rule.
+And this is that, for the M quantum number,
+the M of the final state has to be the M of the initial state
+plus the little M of the operator.
+And for both the Clebsch-Gordon and the reduced matrix element,
+we have the triangle rule.
+Well if you couple two angular momentum vectors
+to two final angular momentums, the three vectors
+have to form a triangle.
+And the triangle rule says that-- let
+me write it down and then you'll recognize it-- that the angular
+momentum transferred by the field
+has to fulfill the triangle rule that J-prime and J can
+be connected.
+Yes--
+What is the meaning of the double bars?
+It just doesn't look familiar.
+It's just how, in many textbooks,
+the reduced matrix element is written.
+It's nothing else than a matrix element.
+But what happens is, these are not states.
+You know, J and J-prime are not states.
+They have an M-dependence.
+So we have taken out the M-dependence.
+So this is sort of a matrix element between, you know,
+a state which may have been stripped of its M-dependence.
+So maybe, I don't know if that's 100% correct.
+But if you have the YLM in certain states,
+you have an E to the IM, an M part.
+And this has probably been factored out.
+So these are not really states, and the double line just
+means it's reduced matrix element with the meaning I just
+mentioned.
+It's a standard way of factorizing matrix elements.
+And, yeah, that means reduced matrix element.
+So in other words, when we talked about selection rules,
+we want to use the representation
+in spherical tensors.
+Because the rank of the spherical tensor just tells us
+how much angular momentum is involved in the photon,
+is involved in this transition.

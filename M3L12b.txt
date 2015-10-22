@@ -1,0 +1,309 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L12b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 299 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to give you a very brief derivation
+of the canonical coupling between electromagnetic fields
+and atoms.
+I know this is covered in many textbooks,
+and we have a very deep discussion
+about it using the full QED formalism in 8.422.
+But I feel course, 8.421 would not
+be complete without a discussion like that.
+And secondly, this is so important.
+If you hear it twice from two different angles,
+it's probably useful.
+So I just want to remind you that if you
+use classical electromagnetism and the Lagrangian formalism,
+you find the very elegant result that the coupling
+to the electromagnetic field can be introduced by modifying
+the momentum that the canonical momentum, which appears
+in the Lagrangian equation.
+It's no longer the mechanical momentum which gives rise
+to kinetic energy, but it is modified
+by the vector potential.
+So therefore the Hamiltonian can be-- at this point,
+it's a classical Hamiltonian, but then we
+use the same expression in quantum mechanics.
+The Hamiltonian has kinetic energy and potential energy.
+But the kinetic energy is no longer
+p squared, because by p I mean now the canonical momentum.
+We have to correct for the vector potential
+to go from the canonical momentum
+to the mechanical momentum, and if you squared it,
+this gives the kinetic energy.
+If you worry about the sum here and assume now
+that the electron has a charge, the charge q of the electron
+is minus e.
+So that's why there's a plus sign here,
+and not a minus sign.
+We will use this fact that we have to substitute the momentum
+operator the canonical momentum, which is no
+longer the mechanical momentum.
+We use it also in our quantum mechanical Hamiltonian
+and the Schrodinger equation.
+If you ask me, can you prove it?
+No.
+Nobody can prove that.
+We can never prove what a quantum mechanical equation is.
+We can just use physical understanding,
+physical analogies-- and that's how quantum mechanics was
+developed-- and say, based on the classical quantum
+mechanical correspondence, this seems
+to be a very reasonable assumption.
+And ultimately, this very reasonable assumption
+has now withstood the test of time for many, many decades,
+or for almost 100 years.
+So that's why we assume that doing the same substitution
+in the Schrodinger equation for the momentum operator
+gives the right result. But there is no way
+how you can rigorously derive fundamental equations
+in physics.
+You can observe nature, postulate them,
+and then define them.
+So therefore, what is this line, which
+was the classical Hamiltonian, by interpreting p
+as an operator is now our quantum mechanical Hamiltonian.
+And the one thing we have to consider now
+is that once we have a quantum mechanical operator,
+we have to be careful about commutator,
+that certain quantities have to be ordered.
+It matters which one you put first.
+What is convenient, now, is to use the Coulomb gauge.
+In the Coulomb gauge, divergence of A is 0.
+But the del operator, the derivative operator,
+is the operator of the canonical momentum.
+And therefore, if you use the Coulomb gauge,
+then we have commutativity between the canonical momentum,
+p, and the vector potential.
+And that's sort of nice.
+Because if you take the square and square it out,
+you get p dot A plus e dot P. But they are
+the same in the Coulomb gauge.
+So therefore, our Hamiltonian has now the following terms.
+
+This is-- we call it H0 and we assume
+that the Coulomb potential for the nucleus,
+which eventually gives the electronic structure
+of the atom, is included here.
+So this is the Hamiltonian part, which describes
+the structure of atoms.
+And then we have two terms which couple
+to the electromagnetic field.
+So this is p dot A, or A dot p.
+It doesn't matter in the Coulomb gauge.
+We call this the interaction Hamiltonian.
+And now we get a second-order term,
+which is the A squared term.
+
+Since it's second-order, we designate it
+where we use the symbol H2.
+In the following, we neglect the second-order term.
+The argument is for weak fields, it doesn't matter.
+It's not so important because it's higher-order.
+However, in 8.422, we look at it more carefully.
+And we can actually do a canonical transformation which
+eliminates the A squared term.
+So to drop it, it's not necessary,
+you can actually show with a canonical transformation
+that what I'm doing is actually more exact than just saying,
+it's small and I eliminate it.
+But anyway, I don't want to spend too much time on it.
+All I wanted to remind you, what are the steps to obtain-- just
+give me one second-- to obtain the interaction Hamiltonian?
+And that's what I want to use for the remainder
+of this class.
+That we have the coupling of momentum
+to the vector potential.
+We assume that the vector potential--
+we are not quantizing the electromagnetic field;
+it's a semi-classical field-- is therefore a classical vector.
+And we will investigate, what is now the coupling
+between an atom through this Hamiltonian
+to a plane wave of the electromagnetic field?
+So therefore, we are introducing for the vector potential
+the expression that the vector potential has an amplitude A0,
+the polarization e hat, and then the plane wave vector e
+to the iKr minus i omega t.
+So this can be derived in a much more rigorous way,
+but this is now the starting point of our discussion.
+[INAUDIBLE]
+OK.
+OK.
+So we want to talk about matrix element.
+So the matrix element between two states
+due to the interaction Hamiltonian for one plane wave
+has the e to the minus i omega t dependence, which
+is trivial in terms of we've assumed that there's
+a monochromatic wave.
+And what you want to discuss now is
+this time-independent vector, Hba.
+
+Let me get the vectors.
+Let me get the polarization.
+So the relevant operator, which connects
+the two states a and b, is the momentum operator.
+
+And now, for the plane wave, we want
+to do an expansion in orders of Kr.
+The leading term will be the dipole approximation,
+and the next-order term will give rise
+to magnetic dipole and electric quadrupole transitions.
+So first, the fact that I can do this extension
+requires that K dot a is much smaller than 1.
+So it's a long-wavelength approximation,
+which you can see is valid as long
+as the atom is smaller than the wavelengths
+we are talking about.
+And I will show you later when I discuss
+in its higher-order term that for atoms in the ground state,
+this is actually also an expansion of alpha.
+So again we retrieve the fine structure constant.
+So when we do this expand of this plane wave exponential,
+every term is smaller than the previous term
+by the fine structure constant, alpha, which is 1/137.
+The leading term is the 1, and this gives rise
+to the dipole approximation.
+So what I want to show you now in one or two
+minutes is that this is indeed the dipole approximation.
+It leads to a matrix element, which
+is electric field times r, the dipole moment.
+What we have right now is A dot p, the vector potential
+times the momentum.
+So in other words, I want to show you
+that the A dot p matrix element is equivalent to an e dot r
+matrix element.
+This can be done with a canonical transformation, which
+we do in 8.422.
+But here let me just show you the elementary discussion.
+You want to replace the vector potential
+by the electric field.
+So therefore, we use the fact that the electric field
+is the derivative of the vector potential.
+And the derivative of the vector potential
+yields, since we have an e to the minus i omega
+t dependence, that we simply multiply
+with a factor of omega, of the frequency.
+
+And what we obtain here is, then, the amplitude
+of the electric field E0.
+So with that, we have a matrix element
+which now involves the electric field, but still
+the matrix element of the momentum operator.
+
+But we can easily go from the momentum operator
+to the precision operator by taking the fact
+that the momentum operator is nothing
+else than the commutator of r with the Hamiltonian H0.
+
+The kinetic energy in H0 is p squared.
+And the commutator of r with p squared is simply p.
+So this is what I'm using here.
+And these are the prefactors.
+
+So therefore, if you take the momentum operator between two
+states, we have this relation between the momentum operator
+and the precision operator.
+But we have the momentum operator with the commutator.
+And r, H0 gives us r, but when H0 acts on b,
+which gives the energy Ea.
+And for the other part of the commutator, which is H0, r,
+you can have H0 act on the left hand side of b.
+And this gives us the energy Eb.
+
+Dividing by H bar, what we get it
+is the energy difference Eb minus Ea,
+or in frequency units, omega ba.
+So this is now how we have implemented the commutator.
+
+So that by inserting this into this equation,
+we now finally obtain our result for the matrix element
+in the dipole approximation.
+We have e, the electric field amplitude polarization,
+the matrix element b r a, omega ba.
+And here we have 1 over omega in the denominator,
+which came from the derivative of the vector potential, dE dt.
+
+So this here is the matrix element of the dipole operator.
+
+So in other words, I have derived for you
+that the interaction matrix element
+in the dipole approximation is the dipole operator
+times the electric field as long as I
+make the approximation that this frequency factors
+on the order of unity.
+Now this is clearly the case near resonance.
+
+So you should be safe.
+
+However, if you do the more rigorous derivation
+of the dipole Hamiltonian using canonical transformation,
+this factor of omega ba over omega does not appear.
+So again, the dipole approximation
+is better than I presented today.
+The true approximations, dropping the a squared term
+and approximating this ratio of frequencies with 1,
+is not necessary if you use the other methods using
+canonical transformation.
+
+Any questions about that?
+
+Let me make one comment.
+I've shown you in this derivation
+that the A dot p term, the A dot p
+interaction within the dipole approximation,
+is identical to the e dot r interaction.
+So these are the same operators and if you would exactly
+calculate an atomic structure calculation,
+you would get the same coupling and the matrix element.
+However, in practice, there are important differences.
+Because the e dot r operator, the r operator,
+has a lot of weight where the electron is
+far away from the nucleus, because it's multiplied with r.
+Whereas the p operator emphasizes the derivative
+of the wave function, and this is usually
+strong at close distances.
+So in the end, the results have to be the same.
+But if you make an approximation to your wave function,
+one formulation may be numerically much more accurate
+than the other one.
+But fundamentally, the two terms are the same,
+and they are related the way how I derived it for you.
+Yes?
+When we say it's the dipole approximation,
+does it mean that it's a long wavelength or the small field
+or everything together?
+So what's the absolute fundamental assumption?
+The absolute fundamental assumption
+of the dipole approximation is that we
+assume-- let me just scroll up.
+
+In the equation above, we had an expression
+for the vector potential.
+And the dipole approximation means
+that we can neglect the position dependence of the vector
+potential A of r.
+So we approximate A of r as being A evaluated
+at the origin of the atom.
+And although they extend over the size of the atom,
+we do not have to consider the spatial dependence
+of the vector potential.
+So this is sufficient.
+The other thing's that A squared is small,
+and that when near resonance, I have
+to make those assumptions if I want to use
+this elementary derivation.
+But with the canonical transformation
+as is discussed in atom-photon interactions,
+you do not need those additional assumptions.
+So the only assumption behind the dipole approximation
+is that one.
+And this means that the extent of the atom
+is much smaller than the optical wavelengths.

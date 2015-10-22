@@ -1,0 +1,41 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 31 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+The next subject is saturation.
+Now, in this chapter I want to talk
+about saturation in general.
+I want to discuss monochromatic light,
+but also broadband light.
+And I want to introduce concepts of saturation intensity,
+of absorption cross section, certain things which
+I find extremely useful if I want
+to understand what happens when light interacts with a system.
+And we will find-- I will, just sort of to whet your appetite,
+I will sort of show you that the absorption cross
+section of a two level system is independent
+whether you have a strong or weak transition.
+Some people think the cross section should be,
+but there is a difference which is
+important between monochromatic and broadband light.
+But in the end, the concepts are very simple.
+I should say sometimes I feel it's almost too
+simple to present it in class.
+On the other hand, if I don't present it,
+I can't make a few comments and guide you through.
+So my conclusion now is at least for now, I show you
+some prepared slides, and I sort of step you through, and make
+a few annotations and point out certain things.
+We have already partially transitioned
+to teach you this material for homework assignment.
+This week's homework assignment, which is due on Wednesday,
+is almost completely on saturation.
+And I will make a few comments where what I present you today
+is an extension or different from what

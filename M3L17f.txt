@@ -1,0 +1,190 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 180 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We can now repeat some of this exercise
+for the broadband case.
+In the broadband case, the unsaturated rate,
+which is the rate for absorption and stimulated emission
+following Einstein's treatment of the AB coefficient,
+is used by using Einstein B coefficient
+times the spectral intensity.
+And now we want the same situation as before.
+We want to reach saturation, and saturation
+happens when this is comparable with gamma,
+and it's purely a definition that we
+say it should be gamma over 2, but we
+are consistent with what we did before.
+And if you just take this equation
+and calculate what the saturation intensity is,
+well gamma is nothing else than the Einstein A coefficient.
+Here we have the Einstein B coefficient,
+and if you take the ratio between the Einstein A and B
+coefficient, the matrix element, everything
+which is specific to the atom cancels out,
+and the saturation intensity, or the spectral density--
+it's the spectral density now for broadband--
+only depends on speed of light and the transition frequency
+cubed.
+And it doesn't make a difference whether you
+have a two-level system, which has a strong matrix element,
+or weak matrix element.
+I could explain it to you, now at this point,
+but we want to hold the idea that there
+is a difference between single-mode monochromatic and
+broadband excitation, until I have discussed one more
+concept, and this is the cross section.
+
+I know this topic can get confusing
+because we go from one definition to the next,
+so let me just summarize what I've said so far
+is, we drive an atom, we have absorption,
+we have stimulated emission, and we
+want to understand the phenomenon of saturation.
+And based on the fact how we define saturation-- namely
+that the unsaturated rate is gamma over two--
+we got some nice results for the saturation intensity,
+and for power broadening of a low [INAUDIBLE].
+It's pretty much having a definition and running with it,
+and now we want to express the same physics by using
+the concept of a cross section.
+You know, for the following reason.
+If you can do physics, you can do atomic physics
+without even thinking about a cross section,
+you can just have a laser beam of a certain intensity,
+and I scatter light.
+But often when we scatter something--
+and you may be familiar from atomic collisions--
+you often want to write this scattering rate
+as a density times cross section times relative velocity.
+And this sort of has this intuitive feeling,
+if you have a stream of particles in your accelerator,
+or a stream of photons in your laser beam,
+you can now hold onto the picture
+that each atom in your target is a little disc.
+If the particle of photons hits the disc, something happens.
+If it misses the disc, nothing happens.
+And the area of the disk is the cross section.
+So in other words, we want to now understand
+how big is the disc of the atom, which will so to speak,
+cast a shadow-- which is synonymous with absorption--
+when we illuminate those atoms with laser light.
+So for me, a very intuitive quantity.
+Anyway, so all we do is, we have already
+discussed the rate of excitation, which is now
+the unsaturated rate, but now we express the unsaturated rate
+by the density of photons times the cross section,
+and the relative velocity is the speed of light.
+And from this equation, we find-- because everything
+is known, we have talked about that on the last few pages--
+we find that the cross section is,
+and this is the result-- 6 pi lambda bar squared.
+Lambda bar is the wavelength of light divided by 2 pi.
+So we find, that from monochromatic radiation,
+the cross section of a two-level system,
+is independent of the strengths of the transition,
+independent of the matrix element,
+it just depends on the resonant wavelengths.
+
+Now you would say, well, but, what
+is now the difference between a strong and a weak transition?
+And this is shown here.
+If you take your monochromatic laser, and you scan it,
+you scan it through the cross section,
+when you are one resonance, you have 6 pi lambda bar squared.
+And the difference between a narrow transition,
+with a small Einstein A coefficient,
+and a strong transition with a large Einstein A coefficient,
+simply means that in one case it's narrower,
+in the other case it's wider.
+We talked about the phenomenon of saturation.
+6 pi lambda bar squared is the cross section
+in the perturbative limit, or the unsaturated cross section.
+Of course, if you increase the laser power,
+you saturate the transition.
+The atom will have a smaller and smaller cross section.
+Actually that's something important you should consider.
+When you have an atom and you increase the laser power,
+you scatter light, and this scattered light,
+or the absorbed light, saturates.
+But with the cross section, we want
+to know what friction of the laser light is scattered,
+and the fraction of the laser light scattered
+goes to zero, because you make your laser light stronger
+and stronger, and the total amount of laser lights,
+which is scattered, saturates.
+So in other words, you have a saturation
+of this scattered light.
+You have a saturation of the net transfer
+of atoms into the excited state, In the limit of infinite laser
+power, but since the cross section is sort of normalized
+by the laser power, the cross section
+has this dependence, one over one plus saturation parameter,
+and goes to zero.
+And that means-- and this is sort
+of the language we use-- that the transition bleaches out.
+If you saturate the transition, the cross section
+become smaller.
+So when you saturate the transition in an absorption
+imaging experiment, which many of you do,
+the shadow is less and less black,
+exactly because the cross section is bleaching out.
+But the amount of light you would scatter
+you would observe in fluorescence,
+is not getting less, it saturates.
+This is sort of just the two flip signs of the coin.
+If anybody is confused, please ask a question.
+
+OK.
+
+So now, in this picture, we can immediately
+understand why we have differences
+between monochromatic radiation and broadband radiation.
+If you want to saturate a transition
+with monochromatic radiation, we have our [INAUDIBLE] laser,
+we absorb, with a cross section 6 pi lambda bar squared,
+and we have to increase the intensity of the laser
+until the excitation rate equals gamma over two.
+That's our definition for saturation.
+So therefore, the laser intensity
+is proportional to gamma because we have to-- we have
+the cross section is constant, but the product
+of cross section and laser intensity
+has to be equal to gamma over 2.
+However, now consider the case that you
+use broadband radiation.
+The spectrum is completely broad.
+now, if an atom has a stronger transition,
+it's cross section is wider, and the atom
+can sort of absorb a wider part of the incident spectrum.
+So therefore, if the atom has a stronger transition,
+it automatically takes-- absorbs more of your spectral profile.
+And therefore, the result for the saturation--
+for the spectral saturation intensity,
+is independent of the matrix element,
+and the strengths of the transition.
+
+In general, if you're not in either
+of the extreme cases of monochromatic light
+or broadband light, what you have to do is,
+you have to use this cross section
+as a function of frequency, and convolve it
+to a convolution with a spectrum of the incident light.
+
+And this is exactly down here.
+You take your frequency-dependent cross
+section, you do the convolution with the spectrum
+of the incident light, and if you
+assume the incident light is spectrally very broad, you can,
+you simply do, you integrate over the Laurentian line
+shape of the cross section, and then you
+find exactly the same result as we had two slides ago--
+that the saturation intensity is independent of the strengths
+of the transition.

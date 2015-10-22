@@ -1,0 +1,159 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13f.txt
+#
+# Captions for 8.421x module
+#
+# This file has 149 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So the first discussion will show Rabi flopping.
+I don't know how many times we have looked at the Rabi
+oscillation, but these are now Rabi oscillation
+between two electronic states covered by a laser beam.
+And I want to show you how this comes about.
+And when I said strong driving, well, we
+have only a limited time window before spontaneous emission
+happens.
+We have to discuss the physics we want to discuss
+in this short time window.
+And if you want to excite an atom
+and see Rabi oscillation in a short time,
+you better have a strong laser beam.
+So this is why the monochromatic excitation we discussed
+will pretty much automatically be in the strong coupling
+limit.
+OK, so what do we have?
+We have a ground and we have an excited state.
+We have a matrix element.
+We know now where it comes from.
+And we have a monochromatic time dependence.
+In perturbation theory, we-- in perturbation theory,
+we build up time [INAUDIBLE] amplitude in the excited state.
+Because we couple the ground state
+with the off diagonal matrix element to the excited state.
+And we have to integrate.
+From the initial time to the final time,
+we have the time dependence of the electromagnetic field
+and we also need the time dependence
+of the excited state.
+So when I integrate now over T prime,
+I take out the ground state amplitude
+because we are doing perturbation theory
+and we assume that for short times in leading order,
+the ground state is one as prepared initially.
+This integral can be been analytically.
+
+Some of you may remember that the minus 1
+has something to do with the lower bound of the integral.
+And when we discuss the AC polarizability,
+we said this is a transient and we neglected it
+for good reasons.
+But now we're really interested in the time evolution
+of the system.
+So now we have to keep it.
+OK, we are interested in the probability in the excited
+state.
+So we take the above expression and square it.
+And we find the well-known result
+with sign square divided by omega minus omega eg.
+
+OK, the two important-- so this is pretty much
+just straightforward writing down in analytic expression.
+But now let's discuss it.
+For very short times, and this is an important limiting case,
+the probability in the excited state
+is proportional to time squared.
+
+And this is important.
+You are not getting a rate which is proportional to time.
+We are obtaining something which is
+time square and the proportionality
+to t square means it's a fully coherent process.
+
+So whenever somebody asks you you
+switch on a strong coupling from the ground
+to the excited state, what is the probability in the excited
+state?
+It starts out quadratically.
+The linear dependence-- if I'm just
+going the whole rate equation or such-- only come later.
+This is a very universal feature.
+And even if you use broadened light, for time window delta
+t, which is shorter than the inverse bandwidths
+of the light, talking about Fourier [INAUDIBLE],
+you don't have time to even figure out
+that your light is broad and not monochromatic.
+For very short times, the Fourier limit
+does not allow you to distinguish whether the light
+is broad or monochromatic.
+So what I just derived for you-- an initial quadratic dependence
+is the universal behavior of a quantum
+system at very short times.
+Because it simply says the amplitude in the excited state
+caused linearly in time in the probability quadratic.
+OK, so this is for very short times.
+But if you look at it now for longer times,
+we have actually oscillatory behavior.
+And these are Rabi oscillations.
+But there's one caveat.
+So we have derived.
+
+However, we have derived them only perturbatively by assuming
+that the ground state has always a population
+close to 100%, which means we have assumed
+that the probability in the excited state
+is much smaller than 1.
+Otherwise, we would repeat the ground state.
+And this is only fulfilled if you inspect the solution.
+The solution is always self consistent
+if you have an off resonant case where the Rabi oscillation are
+only transferring a small fraction of the [INAUDIBLE]
+population or the excited state.
+Of course, you all know that Rabi
+oscillations-- this formula is also valid on resonance.
+And you can have full Rabi flopping.
+But I want to make the case here.
+Distinguish carefully between monochromatic radiation
+and broadband radiation.
+For that, I need perturbation theory.
+And therefore, I'm telling you what perturbation theory
+gives us in short times and in terms of Rabi oscillations.
+
+You're saying we assume strong coupling with respect
+to the atomic linewidth, but weak coupling with respect
+to the resonance, it seems?
+
+It's simple but subtle, yes.
+So what we have is we assume we switch
+on a monochromatic laser.
+Since we do not include spontaneous emission, which
+will actually damp out Rabi oscilation--
+we'll talk about that later-- we are limited here
+to short times, which are shorter
+than the spontaneous decay.
+And now I gave you one universal thing.
+At very, very short time, it's always quadratic.
+It's a coherent process.
+So that's one simple limiting except case
+you should keep in your mind.
+But now the question is, if you let the time go longer,
+something will happen.
+And there's several options.
+One is if times go longer, spontaneous emission happens.
+OK, we are invalid.
+The other possibility is when time gets longer
+and we are on resonance, we deplete the ground state.
+Our formalism perturbation theory doesn't deal with it.
+But if we are off resonant, we can allow time
+to go over many Rabi periods and observe perturbative Rabi
+oscillations.
+So this is how we have formulated it.
+We do perturbation theory of the system
+without spontaneous emission.
+And eventually, we violate our assumptions,
+either because spontaneous emission kicks in
+or because we deplete the ground state when we drive it too hard
+or if you go too close to resonance.

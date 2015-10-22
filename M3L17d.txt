@@ -1,0 +1,97 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 87 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+If I wanted to be present you saturation, power broadening,
+and all that, in the purest form,
+I would just present you with the optical Bloch equations.
+We can solve them, and them we have everything we want.
+A result which explains saturation, a result which
+explains power broadening.
+However-- and you do some of it in your homework--
+however, what I want to show here
+is that saturation is actually a general feature which
+will have a system, if you have sort of three rates, which
+I will explain to you in a moment-- very similar
+to Einstein's A and B coefficients--
+that all such systems have saturation.
+And then, you may find, you may immediately
+solve the optical Bloch equation for monochromatic radiation,
+but for broadband radiation, we usually
+don't use the optical Bloch equations
+because there is-- for infinitely broad light,
+there is no coherence for which we need optical Bloch
+equations.
+If you only have the optical Bloch equations,
+you have solved for saturation in one limiting case,
+and you don't see that the concept of saturation
+is much broader.
+So, therefore, let us assume that we
+have a two-level system, and we couple two levels
+with a rate which you can think of the rate of absorption,
+the rate of stimulated emission, and I call
+the rate the unsaturated rate.
+In addition, there is some dissipation,
+some spontaneous decay described by gamma.
+
+So R u is the unsaturated rate for absorption
+and for stimulated emission.
+Of course, you know, even before you solve those equations,
+that there must be some saturation built in.
+If you would look at the fraction of atoms
+in the excited state, and you change the laser power--
+which means changing the situated rate--
+things cannot go on-- things cannot shoot up forever,
+because you cannot put more than 100% of the population
+into the excited state.
+However, the fact that when we increase the laser power,
+we do upwards absorption and downward stimulation,
+means you won't even get 100%, the maximum you can get is 50%.
+
+And what I'm just drawing for you is,
+this is a phenomenon of saturation,
+and now we want to understand the details.
+So, using this rate equation, we have
+defined-- this is now a definition-- the saturated rate
+is the next transfer from A to B. Well,
+the next transfer is-- because we
+have an absorption stimulated emission--
+the next transfer is the unsaturate times the population
+difference.
+And this is our saturated rate, but of course, we
+normalize everything per atom, so therefore,
+our saturated rate has a rate coefficient S
+times the total number of atoms, or the total population
+in both states.
+Eventually we are interested in steady state.
+You can immediately solve the rate equation
+in terms of steady state, which is done there.
+And we find that for those, we can now eliminate one
+the states from the equations because we
+have the steady state ratio, and then we
+find that the saturated rate is gamma over 2,
+times an expression which involves the saturation
+parameter.
+So in other words, it's just almost
+previous solutions of very simple equations
+which describe the saturation parameter, the saturation
+phenomenon I outlined for you at the beginning.
+
+This solution has the two limiting cases
+which we want to see.
+That at very low power, at the very low unsaturated rate,
+the saturated rate is the unsaturated rate
+because there is no saturation.
+And secondly, if you would go to infinity power,
+the saturated rate becomes gamma over 2,
+because we have equalized the population between ground
+and excited state, one-half of the atoms
+are in the excited state, and they dissipate or scatter light
+with the rate gamma.

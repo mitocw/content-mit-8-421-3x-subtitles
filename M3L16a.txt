@@ -1,0 +1,142 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 132 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+In the semi-classic classical description
+of the electromagnetic field, photons
+can only be emitted, because we have
+a Hamiltonian with a semi-classical electric field.
+So if you don't drive the system with an electric field,
+you cannot stimulate the emission of photons.
+But we know this is not what happens.
+Photons are emitted into empty space.
+Photons are emitted into vacuum.
+And for that, we needed a quantized description
+of the electromagnetic field, with a field quantization.
+And we have now our quantized Hamiltonian
+And on Monday, I started to discuss
+what is sort of the paradigmatic situation,
+the paradigmatic example for how you should think
+about the vacuum, and how you should think about emission
+of photons into the vacuum.
+And these are the vacuum Rabi oscillation, described
+by the Jaynes-Cummings model.
+So the situation, which I have in mind,
+or which you should have in mind is, an idealized situation,
+but it has been realized experimentally.
+And some of those idealized experiments
+were recognized with the Nobel Prize
+to Serge Haroche and Dave Wineland.
+So the situation is, we have an atom,
+but it only talks to one mode of the electromagnetic field.
+And we make sure that the atom only
+talks to one mode of the electromagnetic field.
+Not by eliminating all the modes, they exist-- I mean,
+an atom can emit upwards and downwards,
+but we sound it with a cavity, which has such a small mode
+volume.
+It has such a small volume, that the single photon Rabi
+frequency is huge.
+And therefore, the emission into this one single mode
+dominates over the emission into all other modes.
+
+So this is the condition that the single photon Rabi
+frequency has to be larger than gamma.
+And, of course, we also have to make sure
+that the system is idealized, so the loss of photons, because
+of losses in the mirror, or finite reflectivity
+in the mirror, also has to be smaller.
+So that means, for several Rabi periods,
+we have a system which has only poor parts, a two-level atom,
+and one single mode of the cavity.
+
+So that's the system we have in mind.
+And we discussed the Hamiltonian.
+
+We saw that the Hilbert space of the atom
+is excited in ground state, the Hilbert space of the photons
+is spanned by the Fock states.
+But what happens is-- so there's an infinite number of states,
+because of an infinite number of states of the photon field.
+But what happens is the Hamiltonian couple only
+an excited state with n photons to ground state
+with n plus 1 photons.
+
+The whole Hilbert space is segmented now
+into just passive states, labeled by the index n.
+So after so much work, we are back to a two-level system.
+And here is our two-level Hamiltonian.
+And well, a two-level system does oscillations
+between the two levels, Rabi oscillations no surprise,
+and this is what I want to discuss now.
+But the new feature is that these are now
+really two levels.
+Each of them is the combined state
+of the atom and the quantized radiation field.
+So now, we have included in our two-level description,
+the quantum state of the electromagnetic field.
+So first, you should realize that this Hamiltonian
+is absolutely identical to spin 1/2 in magnetic fields.
+
+And you can recognize by comparing this Hamiltonian,
+this matrix, to the matrices we discussed for spin 1/2
+in the magnetic field, that this corresponds
+to the situation, where the spin 1/2 had to transverse field
+in the x direction, which caused the precession from spin
+up to spin down.
+And this x component of the field
+corresponds now to the single photon on Rabi frequency
+times n plus 1.
+That's the off-diagonal matrix element in this matrix.
+The thing which we have to discuss,
+and I will focus later, is that it depends on n.
+So for each pairs of state labeled
+by n, the photon number, we have a different off-diagonal matrix
+element.
+But let's discuss first the most important and simplest case.
+Let's assume we are on resonance.
+And we want to assume that we're vacuum.
+Then our Hamiltonian is simply this.
+And when we prepare the system in an initial state, which
+is an excited state with no photon in the vacuum,
+then we'll have oscillations to the ground
+state with one photon.
+These oscillations are exactly the oscillations we saw
+in the spin-1/2 system.
+We can just map the solution.
+I'm not really [INAUDIBLE] anything here.
+So what we obtain is the famous vacuum
+Rabi oscillations, where the probability to be
+in the excited state oscillates with the single-photon Rabi
+frequency omega one.
+I think that's a little of a an ambiguity in language.
+Is it the single photon Rabi frequency,
+or is it the vacuum Rabi frequency?
+Because there's always the question about plus
+minus one photon, because we stat in the excited
+state without photon, so you want to say it's
+a vacuum Rabi frequency.
+But then you have the ground state with one photon.
+And this photon is reabsorbed, and then you
+may want to call it the one-photon Rabi frequency.
+So I leave it to you, but it's called vacuum Rabi oscillation.
+And this Rabi frequency is usually
+referred to as the one-photon Rabi frequency,
+because we obtained the Rabi frequency
+by calculating the electric field of a single photon.
+
+So the Rabi oscillations, which we are observing now,
+correspond to the periodic spontaneous emission
+and reabsorption of the same photon.
+There's only one photon which is spontaneously
+emitted and reabsorbed in a completely
+reversible coherent way, and the time evolution is unitary.
+So it's a periodic spontaneous emission, and absorption
+of the same photon.

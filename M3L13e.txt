@@ -1,0 +1,210 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 200 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I want to talk about basic aspects of atom light
+interaction.
+And what I want to talk today about it
+is the two important cases when an atom interacts
+with monochromatic wave, or when it interacts
+with a broad spectrum.
+In one case, when I say monochromatic case,
+you may just think of the best laser money can buy,
+very, very sharp, very, very monochromatic.
+When I talk about the broad spectrum,
+you may just think about black-body spectrum
+which is an isopod spectrum.
+And they're two very different cases.
+And some of it is just related to Nancy's question,
+that if you have a broad spectrum,
+we're always talking about many, many modes,
+and they will be coherent, and there
+will be irreversible physics.
+Whereas for monochromatic light, everything
+is a pure plane wave, and everything is coherent.
+So we want to start off, talk about that first,
+and then later this week, I think on Wednesday,
+we will talk about spontaneous emission.
+But right now, we focus on the simpler case,
+where we drive this system with electromagnetic radiation,
+which is either mono band or broadband.
+But let's just start with a cartoon.
+We have an atom, and for that discussion, all we need
+is two levels, and all we need is
+that the two levels are connected by some matrix
+element.
+And the basic phenomenal logic of the situation
+is that we have one atom, which sits in a vacuum.
+
+So we have volume v of vacuum.
+And what is important now, is that walls,
+or there imaginary boundary of what defines our vacuum,
+is at low temperature.
+And low temperature means that the atom
+will irreversibly decay into the ground state with a lifetime
+tower.
+
+And that means that, in some picture,
+the excited state has a broadening, which
+is broadened by the natural lifetime,
+and in our discussion, we assume,
+and this is what I said with the cold walls of the vacuum,
+that the energy difference is much, much larger
+than the relevant temperature.
+And this is very well for a field
+for our standard atomic system.
+The typical excitation energy, even
+for atoms with a loosely bound electron Sc alkalize,
+is to electron volt, which corresponds to a temperature
+of 20,000 kelvin.
+And even at the rather hot temperature, definitely
+hot temperatures in the center for our anthropoid atoms,
+but the key at room temperature corresponds
+to 25 million electron volt.
+So therefore, when we have an atom in isolation,
+this is what we find.
+We find an atom, which we irreversibly decay
+to the ground state.
+And the fact that it irreversibly
+decays to the ground state is really
+an inequality between energies.
+If you would talk about the hyperfine transition,
+or something, there may be a possibility
+that we have an excited state, which is firmly excited.
+But in the following discussion, when we drive the atom,
+and when we look at spontaneous decay,
+we always assume that the firmer energies are so small,
+that we really assume an atom sitting in a cold vacuum.
+Actually it's your next homework assignment,
+where you will consider what are the effects
+of the black-body radiation, and you will actually
+find out in your homework that the unknown may be cheaper,
+so yes, there are corrections, but you could also find out
+that the corrections are rather small,
+or it takes a long time before black-body radiation induces
+any observable transition.
+
+OK.
+So I'm just trying to be a little bit, kind
+of, formal here, give you, sort of,
+a sketch in atom in a cold vacuum, ground state is stable,
+excited state irreversibly decays.
+And now we want to bring life into this situation.
+Now we add light.
+
+And the light, and this is now our discussion, has it been--
+and we want to distinguish the cases of narrow band import
+radiation.
+So it's clear that if the bandwidth of the light,
+the only scale-- well we have the scale of Omega,
+but it's a huge scale-- the only smaller scale, which
+is given by the atom, is signature of a line width,
+and depending in which case we are,
+we talk about narrow band excitation,
+and broadband radiation.
+And once the line reads is much narrower then gamma,
+we can actually-- we don't get any new physics when we assume
+perfectly monochromatic light.
+So once we are much smaller, we are really
+discussing the case of where we can neglect the spectra
+cordoning of the light source, where in the other case, when
+we have broadened light, we can pretty much make
+the assumption that the light is infinitely need broad,
+and what matters is only the spectral density of the light.
+In a pictorial representation, if this is the frequency omega,
+we have the atom with a natural line with gamma.
+Narrow band means we are much sharper than that.
+
+And broadband means we have a wide distribution.
+So if you have broadband light, it doesn't really
+matter what the total power is.
+If the light is very broad, there
+can be infinite power in the wings,
+but the atoms don't care.
+What matters when we have broadband radiation
+is a quantity called the spectra density.
+And it's what we need in the following, which is maybe just
+give you the units, which is energy per volume and frequency
+interval.
+So we can talk about the spectral density as of omega,
+or alternatively, we talk when we have a propagating beam,
+we don't want to talk about energy.
+We want to talk about intensity.
+So it is intensity per unit frequency interval, which
+would mean I of omega is the energy density multiplied
+with the speed of light.
+And that becomes energy per area and time.
+So that's the flow of energy, but because we
+are talking about broad light, it
+has to be normalized by the frequency interval.
+In contrast, monochromatic radiation,
+it's sort of one monochromatic electric field.
+And we will specify it by this inner frequency, omega,
+and the electric field amplitude.
+
+Which when multiply by a matrix element
+becomes a Rabi frequency, or we can characterize the light
+by the intensity I. But then it's
+an intensity which has the units of energy per area time--
+it's not normalized to any frequency interval,
+because we have assumed that the frequency interval is zero.
+If you now have a description of how these two forms of light
+interact with the atom, at this point,
+and we come to that later this week,
+we have to make an assumption, that we
+are looking at times, which are much smaller than the time
+for spontaneous emission.
+So if you know, in the probative sense,
+expose the atoms to monochromatic, or broadband
+radiation, unless we have included in the description
+the many, many modes for spontaneous emission,
+we are limiting ourselves to a very short time.
+This is, you would say, a severe description,
+because atoms emit photons after short time,
+but we already capture without considering
+spontaneous emission, a lot of different physics,
+and we can nicely distinguish between features
+of monochromatic, and features of broadband excitation.
+OK.
+So if you look at the two cases, in the monochromatic case,
+we will discuss the idealized situation
+of an atom interacting only with a single mode.
+And what we will find out is, we will find out that now,
+in the optical domain, you will find actually
+equations for the two level system, which
+are identical to what we discussed earlier,
+when we discussed spin sensation in a magnetic field.
+So in that sense, a two level system
+driving by a laser system will behave identically
+to a spin driven by a magnetic field.
+It shouldn't come as a surprise, but I will show that to you,
+but I can go over that very quickly.
+The broadband case will actually follow from the single mode
+case, because what we assume is broadband
+means many, many single modes.
+And then we do average over many single modes
+by assuming random phase.
+But I also want to show it to you,
+because-- I pick my words carefully--
+you have many, many modes, but we assume
+that there's a random phase.
+When we talked about 1:4:20, made it into an angle,
+it maybe response to a question earlier,
+this 4 maybe in a coherent superposition.
+This is not many modes in a broadband way.
+Many modes in a broadband way means
+that there is no correlation whatsoever between the modes,
+and all we will be able to talk about is an ion S
+value of an electric field.
+But anyway, the result is sort of predictable,
+and I wanted to tell you what I'm aiming for.
+But it's now really worthwhile to go through those exercises,
+and look at what happens in equation v of b
+four short times when we have monochromatic radiation

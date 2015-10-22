@@ -1,0 +1,25 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15d_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 15 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Next question-- can spontaneous emission
+be described as a stimulated emission process
+by the zero point field?
+
+So by the zero point field-- we know the electromagnetic wave
+is a harmonic oscillator.
+A harmonic oscillator is a ground state and [INAUDIBLE]
+zero point motion.
+So there is an electric field even when
+we have the vacuum state.
+And the question is can spontaneous emission
+be described as simply being stimulated emission
+but now due to the zero point fluctuations
+of the electromagnetic field?

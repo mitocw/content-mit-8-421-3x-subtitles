@@ -1,0 +1,155 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16c.txt
+#
+# Captions for 8.421x module
+#
+# This file has 145 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Rotating wave approximation-- revisited.
+Again, rotating wave approximation.
+And what I want to discuss can be discussed in
+the fully quantized picture, but also
+in the semi-classical picture.
+
+In the fully quantized picture-- just a reminder,
+what we discussed earlier, was that when
+we have the atomic raising and lowering
+operator and the photonic raising and lowering operator,
+we got four terms, and two of the terms
+are co-rotating to a counter-rotating.
+But I can get exactly the same number
+of four terms in the same classical picture,
+and I want you to see both.
+But in the quantized picture, it's
+easier, because when you see a and a dagger,
+you know immediately one is absorption, one is emission.
+So therefore, let me explain to you
+what I want to tell you about the rotating wave
+approximation, using the same classic picture,
+because then you immediately know
+how to apply it to the quantized picture.
+So what I want to bring in the here, in addition
+to what we have discussed about light-atom interaction,
+we had sort of a dipole Hamiltonian,
+is the fact that we have circular-polarized
+light, left-handed and right-handed light.
+And I want to use that and combine it
+with angular momentum selection rules, which, as you remember,
+we discussed after our discussion of dipole,
+quadropole, and magnetic dipole transitions.
+So I put now all those parts together,
+and revisit the rotating wave approximation.
+So what I hope for is, it tells you a little bit
+how selection rules, angular momentum,
+circular polarization, and semi-classical field
+which rotate in one direction, how they're all connected.
+I have to set up the situation by saying
+that we use as a quantization axis, the direction key, which
+is either the direction of the propagation of the light beam,
+or, in general, it's orthogonal to the polarization
+of the electric and magnetic field.
+And I can talk about an electric field driving
+an electric-dipole transition.
+I can talk about a magnetic field driving
+a magnetic transition, it doesn't really matter.
+I will use B and C amplitude, but you can also immediately
+think electric dipole.
+And in this field is linearly polarized.
+But I want to immediately decompose this field
+into right-handed and left-handed field.
+Or a linearly-polarized field can
+regarded as a superposition over field which
+circulates this way, plus one which circulates the other way.
+And ultimately, the message we will see
+is that if you have linearly-polarized light,
+we always get counter-rotating term, we always have
+a Bloch-Siegert shift and such.
+But if you use rotating fields, or circularly-polarized light,
+selection rules may actually lead to the result
+that there is no counter-rotating term at all.
+So this is, eventually, what I'm aiming for,
+and this will be the final point of the discussion.
+The field, which rotates in the right-handed direction,
+well a rotating field is a superposition of x and y
+or i and j, and one rotates has cosine omega t and one
+has sine omega t.
+I don't need to write down the left-handed part,
+because it's just a minus sign.
+Or this will actually become very handy.
+I do all the discussion for the right-handed part,
+but I can always obtain the expression
+for the left-handed part by replacing omega by minus omega.
+
+Which will mean that some emission
+process by the right-handed part will be an absorption
+process by the left-handed part, but we'll see.
+You can change angular momentum by plus one
+by absorbing a right-handed photo-- we'll see,
+we'll get there.
+So anyway, those signs will become important.
+Let me now take the above the explanation
+for the right-handed part, and replace cosine omega t and sine
+omega t, by e to the i omega t.
+
+So this was the i component, this was the j component,
+we divide by two.
+Just to avoid confusion, I want to emphasize
+I've started with a real field, so I'm not
+using-- as we often do in E and M-- complex field,
+and the real fields are the real part.
+I have not started out by adding imaginary parts to the field.
+I started out with linearly-polarized field
+in the x direction, cosine omega t.
+And I've decomposed it into two real fields,
+one is right-handed, one is left-handed.
+Complex numbers only come because I
+want to use complex exponential to replace cosine omega t
+and sine omega t.
+We are almost done with the decomposition of the field.
+I just want to-- we have now four terms,
+and I want to recoup them.
+I minus imaginary unit j.
+I plus imaginary unit j.
+This is e to the i omega t, and this
+is e to the minus i omega t.
+So, what have we done?
+Well, we've just started with linearly-polarized light,
+and have rewritten the expression twice.
+And now we are looking only at one of the circular components,
+and in the end what we have is four terms.
+Well, that's also what we had in the fully-quantized
+Hamiltonian, and we now want to identify
+what those four terms are.
+Two will be co-rotating, two will be counter-rotating,
+but it's very helpful to analyze those terms.
+But the two things we have to look at now,
+one is we have an e to the i omega t,
+and well, it's probably a sign convention,
+but trust me if you put that in the Schrodinger equation,
+it means that you increase the energy of the atom
+if you drive it with e to the i omega t.
+You take it from a ground state to an excited state, which
+differs in frequency by omega.
+And therefore this means you have increased
+the energy of the system, and this corresponds to absorption.
+Whereas this one here means we take an atom
+from an excited state to a ground state,
+and this is the situation of stimulated emission.
+Remember in selection rules, we take our field
+and we multiply it was a dipole moment--
+electric, magnetic dipole moment,
+whatever-- but now we want to use also this spherical tensor
+decomposition of those dipole moments.
+It's a complicated word, but what
+it means is those terms are dotted with the dipole moment,
+and if you do it now component by component,
+we retrieve selection rules.
+Because this peaks out the-- let me just write it down,
+the x plus y tensor component of the matrix element,
+and this corresponds to delta m equals plus 1.
+We change angular momentum by one unit,
+and of course this term used then delta m equals minus 1.

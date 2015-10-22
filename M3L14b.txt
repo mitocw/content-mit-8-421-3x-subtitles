@@ -1,0 +1,48 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 38 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's just summarize what we have done in a table.
+We have seen two different regimes.
+In one case, with the Rabi resonance,
+we are discussing a single final state
+of the atom, a single mode of the electromagnetic field.
+All energy levels, all states are discrete.
+We are talking about unitary reversible time evolution.
+When we have rate equations, we are talking
+about many final states.
+We integrate over them and/or many modes
+of the external field.
+We are naturally dealing not with a discrete number,
+but with a continuum of states.
+The time evolution has becomes irreversible.
+And it's therefore no longer a unitary evolution,
+but it's a dissipative evolution.
+And all of these came about not because we
+have spontaneous emission here to put
+in some-- I will tell you throughout this course
+that spontaneous emission is not as spontaneous as everybody
+assumes.
+Spontaneous emission is actually unitary time evolution,
+unless you discard information.
+But a lot of people think rate equation,
+irreversibility comes from something
+which is genuinely spontaneous and irreproducible.
+I don't know anything in physics which is
+spontaneous and irreproducible.
+But we come to that later.
+And this is an example where we obtain rate equation
+by simply driving a system.
+And the irreversibility comes by performing the integral
+over the spectral density.
+
+So let me just write that down.
+Due to integration since we integrate over
+an infinite number of modes or states.

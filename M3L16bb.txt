@@ -1,0 +1,263 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L16bb.txt
+#
+# Captions for 8.421x module
+#
+# This file has 253 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What I want to discuss now is the situation
+that we're not starting with an empty cavity.
+We are starting with a coherent field.
+We can also start with a thermal field
+through the different experiments you can do.
+What would we expect now?
+So now the initial photon state is not the vacuum state,
+but the thermal state.
+If you're a microwave cavity and you heat it up little bit,
+you have to cool it down to below one Kelvin.
+People use either helium-3 cryostats or dilution
+refrigerators, but if you warm it up a little bit
+you have a few photons, microwave photons,
+in the cavity.
+Or, what's even more controlled, you can make the cavity ice
+cold, but then you inject a few photons from your synthesizer
+into it from your microwave generator,
+and then you have a weak coherent field.
+But thermostate or coherent state.
+
+OK.
+We would expect now Rabi oscillation.
+However, the frequency for the Rabi flopping
+is now proportional to n plus 1.
+And we have our photon field in a superposition of Fock states.
+So the effect that we have a superposition state implies now
+that the Rabi oscillations have a different oscillation
+frequency for the different doublets of states labeled
+by n.
+And that leads to a dephasing.
+So, that would mean that if you would look at the probability
+to be in the excited state, just think about it in we have
+a wave function where the atom starts in the excited state,
+and the photon field is in a superposition.
+So now you have a two-component wave function
+which has different parts.
+And each part has a specific Rabi frequency.
+So you would have oscillations.
+Let's say there is a certain probability
+that the cavity is in a vacuum, and then
+that means there is a component which
+oscillates at the vacuum Rabi oscillation frequency.
+But if you have a component in your coherent
+or thermal state which has two photons in it,
+then you have Rabi oscillations which are faster.
+And now you have to superimpose them all.
+And if you all superimpose them you
+find that there is a little bit of oscillation,
+but then there is sort of a damping.
+
+Eventually, if you have only a small number of photon states,
+then there will be a time where you
+have sort of at least a partial commensurability.
+You have, maybe, five frequencies.
+You know, square root of five, square root of four,
+square root of three, square root of two.
+But then there is sort of a time where
+all these different frequencies have done an integer
+number of oscillations each, and then you
+get what is called a revival.
+And if you go to a large photon number,
+you have square root of 100, square root of 99,
+square root of 88, the revival will
+happen at later and later times, and eventually
+at infinite times if you use a microscopic field.
+But for small coherent states, or thermal states,
+which only involve a few photons,
+you will get a revival phenomena.
+And this has indeed been observed.
+This was actually the PhD thesis of [INAUDIBLE]
+and it shows the probability in the excited state.
+They had previously observed the Rabi oscillations
+at early times, but now the experiment
+had to be adjusted, I think, by using slower atoms
+to observe the longer time.
+And here, well, 9087 for the first time revivals
+have been seen.
+
+Let me dwell on that.
+First, are there any questions about what happens now?
+Atoms into cavity to Rabi oscillations.
+
+If the photon field is a superposition
+of only a few states due to this pseudo commensurability,
+you find times where you have revivals.
+
+I just worked out something this morning
+which I think is nice because it will
+highlight how you should think about spontaneous emission.
+So let me discuss.
+Doesn't really matter, but I want
+to give you a specific example that we have a coherent state.
+A lot of you know what a coherent photon state is.
+For those who don't, it doesn't really
+matter for what I want to explain and recover
+that in 8.4.22.
+22.
+But if you have a laser, or if you have a microwave generator,
+what comes out is a field which has a normalized amplitude
+of alpha, but your field is in a superposition state, or Fock
+states.
+With these pre-vectors, I just wanted to give you an example.
+What I really just need is that we
+have a coherent superposition of number states.
+We've prepared that.
+So now we have one at atom in the excited state.
+It enters the cavity which has been prepared
+with a short pulse from a laser or microwave synthesizer
+in this state alpha.
+And now we want to discuss-- So this is at t equals zero.
+And now I want to discuss what happens as a function of time.
+Well, we know that if we have one doublet
+n we have Rabi oscillations between the atom
+is in the excited state, and we have n photons.
+Or it has emitted the photon, and then we
+have n plus one photon in the cavity.
+
+But now we have a superposition state,
+and we have amplitudes a n.
+This includes everything.
+It includes everything a two-level atom does
+in a single mode of a cavity.
+And this is spontaneous emission, stimulated emission,
+and reabsorbtion.
+But I want to use that now to discuss with you misconceptions
+about spontaneous emission.
+We had discussed vacuum Rabi oscillations or Rabi
+oscillations when we have n photons in the cavity.
+This was our two-level system, our Hamiltonian, and all
+we get is Rabi oscillations with a Rabi frequency of omega n.
+And now we have to do averaging.
+I'm now discussing that we have a coherent superposition
+of a number of states.
+Let's say a pulse of coherent radiation and coherent state,
+and this is what we get.
+You can now, if you want, put in a zillion other modes.
+Have another sum over all the other modes you want.
+So I'm just doing the first step,
+in discussing with you, what will happen.
+But adding more and more modes will actually not
+change the structure of the answer,
+and will be, of course, quantitatively a mess,
+but conceptually not more complicated.
+So I want you to really look at that
+and realize where is the spontaneity
+of spontaneous emission?
+Where do you see any form of randomness
+associated with spontaneous emission in this expression?
+I don't see it.
+This is a wave function, and this time evolution is unitary.
+Everything is deterministic and, depending now
+how we choose our coefficient, there's even a revival.
+It's not dissipated.
+If a photon is spontaneously emitted and it's gone.
+We saw in the single photon a Rabi oscillation
+can be reabsorbed.
+We saw in a slightly more complicated situation
+that there are at least partial revivals,
+and it now depends on how long we wait whether revivals will
+take place, or whether they will be complete revivals
+or partial revivals.
+We don't need a revival in a coherent evolution.
+The coherent evolution can just go to a complicated wave
+function.
+It's still a single, coherent.
+wave function fully deterministically
+obtained form the Hamilton operator.
+Sometimes it pops into our eyes through
+a reversible oscillation or through a revival,
+but we don't need that.
+So let me write it down, but then explain to you something.
+So it's unitary.
+There is no spontaneity at all.
+However, we want to retrieve the classic limit.
+So if you would go to the situation
+that the ever rich photon number is much smaller than 1,
+then the fluctuation in the photon field
+around the mean number are very small.
+For coherent state, the fluctuations
+are the square root of n.
+And then we retrieve the limit of semi-classical Rabi
+flopping with a Rabi frequency omega r.
+And this is the square root of n times the single photon Rabi
+frequency.
+And of course, for a large number of photons,
+we can always make the approximation
+that we do not have to distinguish
+between n and n plus 1.
+So this is the ultimate limit if you
+would work in the limit of large photon numbers.
+So the way you should look at it is the following.
+This system undergoes a unitary time evolution
+to a state which is rather complicated.
+But if you make the number n large,
+this becomes approximately a state
+where you have simply-- you know what
+the ray of the semi-classical limit.
+In the semi-classical limit, we have a constant laser beam
+with constant electric field amplitude, E,
+and then we have driven Rabi oscillations between ground
+and excited state.
+So therefore, I don't want to show it to you mathematically,
+but in the limit of large n, can approximate
+this complicated entangled wave function
+by the product of Rabi oscillations
+between ground and excited state times a coherent photon field.
+
+And the correction between what I just
+said and this complicated wave function is like 1 over n.
+Because it's sort of a 1 over n approximation,
+but we have neglected terms, which the relative importance
+of them is n over n.
+So therefore, there are people who will say
+and who will tell you when we have
+an interaction of an atom with a coherent state,
+and let's just think in the number of n being large,
+that n times out of n plus 1 we have a coherent state,
+the atom does a Rabi oscillation.
+And what it does is it just emits
+a photon into the coherent field and takes it back,
+like in semi-classical physics.
+But in one case out of n cases, is the weight.
+1 over n of the weight of the wave function is sort of fuzzy.
+It's not a coherent state.
+It's something much more complicated.
+And if you do not keep track of this complicated nature
+of the wave function, and just do some simple measurement by,
+let's say, just measuring the phase
+of the electromagnetic wave by projecting
+onto a coherent state, then you would
+find that, with the probability of n,
+the system was just staying in a coherent state.
+And with a probability which is one part out of n,
+something else has happened, but your detector cannot capture
+the entanglement of that state.
+And this last part is what some people associate
+with spontaneous emission.
+
+That's my view where the spontaneity in the process is.
+It's not a spontaneity in the time evolution.
+It's more spontaneity if you do not
+care to detect this complexity, but map it back
+to a coherent state.
+And then with a precision which is 1 over n,
+you retrieve the semi-classical limit.
+But the difference between the semi-classical limit
+and the entangled wave function, this is what some people say
+is spontaneous because it's not captured by a single picture.
+
+I'm actually expecting some people to disagree with me,
+but this is sort of my view with what
+I'm sort of learning form the simple examples I've

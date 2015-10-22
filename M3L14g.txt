@@ -1,0 +1,172 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 162 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What I'm doing now is I really directly calculate for you
+the rate of spontaneous emission.
+And I'm not getting it through the back door
+by treating absorption and saying, well, there's
+n and n plus 1, or borrowing some argument from Einstein.
+It's such an important quantity, we
+should just hit the system with an Hamiltonian,
+and out comes the spontaneous emission rate.
+And this is what we are doing.
+
+So the starting point is what we have discussed
+at the beginning of the class.
+We want to discuss Fermi's Golden Rule.
+We want to use the rate, and to remind you
+that the rate for process is the matrix element squared
+by h plus square.
+And then we have to multiply with the density of states.
+
+So this is the density of states per polarization.
+Actually, I made a few corrections to my notes,
+because I realized I have to be very, very careful in telling
+you what the states are, because this
+is what this exercise is about.
+And we have to be writing it down for one, mode by mode.
+So the density of state is now per polarization--
+we take care of polarizations later-- per unit frequency
+interval.
+
+This rate, if it's all of spontaneous emission,
+is the Einstein A coefficient.
+But there is one caveat, and this
+is the emission of an atom, which
+has a dipole moment, is not isotropic.
+So I have to be a little bit more
+careful with a solid angle.
+I cannot just calculate a rate and assume everything is
+isotopic.
+If I would do that, I would save a few minutes,
+but I would really expect something under the rug.
+So what I'm calculating, first, is
+the rate in a given unit angle.
+And then, I do an integration over the unit angle.
+And eventually, I will integrate over the dipolar pattern.
+So therefore, the density of states, of the photon states,
+is sort of photons with their K vectors going to all space.
+But I wanted to have the density of states per unit angle.
+And this quantity is, omega square 8 pi cube c cube times
+V.
+And of course, if you multiply this by 4 pi,
+you get your normal density of states,
+because the density of states isotropic.
+But the rate which we calculate will not
+be isotropic, because of the dipole matrix
+element and the dipole pattern.
+So therefore, we start with a differential formulation,
+spontaneous emission per solid angle.
+And then, when we integrate over the solid angle,
+we have to take care of the sine square factor,
+because of the dipole pattern.
+Now, Fermi's Golden Rule takes us
+from an excited state to ground state.
+And since we use the fully quantized treatment,
+our states are products states of atomic states and photon
+states.
+And so, we assume we start with an atom in the excited state.
+And all modes, mode 1, mode 2, mode 3, are empty.
+And the final state-- well, one photon is emitted,
+and it can appear in any of the modes.
+And we have to do an integral of all possibilities.
+
+Good.
+So we did all work with quantizing
+the electromagnetic field, because we
+want to calculate those matrix elements.
+Let me just carry over the prefectors, the electric field
+of a single photon.
+Here, we have the dipole moment between the polarization
+and the atomic dipole matrix element.
+And now, since we are talking about an emission problem,
+we have, from the matrix element squared,
+as we just discussed, an n plus 1 factor.
+But the population-- we start with zero
+photons, so therefore, it's just 1.
+
+So all the work we did on quantization
+of the electromagnetic field is that, even without any photon
+present, we have a coupling.
+You can say it's a coupling caused by the vacuum, which
+is like the coupling we would have gotten if we have
+exactly one photon [INAUDIBLE].
+
+So let me just write that out.
+
+OK.
+We have now taken care of the matrix element.
+So we insert the matrix element now in our Fermi's Golden Rule
+expression for dA, d omega.
+Let me just keep track of all the factors.
+We have an omega in the matrix element.
+This comes from the electric field of a single photon.
+We have a matrix element, dipole matrix element,
+times polarization.
+And the density of states gives us omega square.
+So you see, already, we'll get all four spontaneous emission
+omega cube expression.
+One omega comes because the electric field
+of a single a photon-- the electric field squared
+of a single photon is proportional to omega.
+And an omega square factor comes from the density of states.
+It's really important to keep that apart.
+The omega 3 dependence has two different sources.
+
+It's always nice to see that we assumed an [INAUDIBLE] volume,
+and it cancels out.
+OK.
+Let me just write it down.
+And then we do the final step.
+So if everything were isotropic, I could just
+multiply with 4 pi, and the last factor would be dropped.
+But if you want to go from the spontaneous emission
+per solid angle to the total spontaneous emission,
+we have to average it.
+And what has angular factors is actually
+the projection between the atomic dipole
+moment and the polarization.
+
+So this is the relevant term.
+And now, we have to distinguish, there are two polarizations.
+One polarization-- the polarization,
+you have a dipole moment, and you
+have light which is polarized in such a way the light goes here.
+This is a dipole moment.
+The light goes here.
+And now, the light which propagates here
+can have a polarization like this,
+which has an projection of sine theta with a dipole moment.
+And if the light goes there and the polarization is like this,
+it's orthogonal to the dipole moment,
+so the scalar product is zero.
+So for one polarization, we have a sine theta factor.
+For the second polarization, the scalar product
+of the dipole moment is zero.
+So therefore, this integration over the solid angle
+boils down to that we can pull the matrix element out
+of the integral.
+And what is left is the projection factor,
+sine square theta.
+We have to integrate over the whole solid angle,
+and this gives us 2/3.
+So therefore, our final result is
+that the microscopic expression for the A coefficient
+has this factor of 3 in the denominator.
+And this factor of 3 only comes because I correct the average
+over the dipole pattern.
+Well, then we have 4 pi epsilon0.
+I mentioned the important depends on the frequency cube.
+
+OK, so this is our final result for today.
+And I will discuss next week what
+are its units, how big is it, what
+is the quality factor of the atomic oscillator.

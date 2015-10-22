@@ -1,0 +1,200 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15q.txt
+#
+# Captions for 8.421x module
+#
+# This file has 190 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+OK.
+We want to talk about the fully quantized Hamiltonian.
+
+I want to give you the sort of paradigmatic example
+of cavity QED, where an atom within an excited state
+is in an empty cavity.
+And now it can emit a photon into the mold of the cavity.
+But this photon can be reabsorbed.
+So this is a phenomenon of vacuum Rabi oscillations.
+And so I want to set up the Hamiltonian and then
+the equation to demonstrate to you about vacuum Rabi
+oscillations.
+And for me the vacuum Rabi oscillations
+are the demonstration that spontaneous emission has
+no randomness-- no spontaneity, so
+to speak-- because you can observe
+coherent oscillation, a coherent time
+evolution of the whole system which is possible only
+due to spontaneous emission.
+So let's go there.
+A few lectures ago, we had a semi classical Hamiltonian
+where-- this is when I wanted to show you that a two level
+electronic system can be mapped onto spin [? one ?] [? half ?]
+system driven by magnetic field.
+So this was when we only looked at the stimulated term
+when we only did perturbation theory.
+And in that situation we had the electronic excitation.
+And then we had the [? drive ?] field
+which was assumed to be purely classical like a rotating
+magnetic field which drives spin up, spin down transitions
+magnetically.
+And we concluded that yes, if we use a laser field,
+it does exactly the same to a two level
+atom what a magnetic field does to spin up, spin down.
+But now we are one step further.
+We've quantized the electromagnetic field,
+and we have spontaneous emission.
+And this is something-- for reason
+I've just mentioned-- you will never find in
+spin up, spin down because it will
+take 1,000 years for spontaneous emission to happen.
+So now we want to actually go beyond this same classical
+picture, which is fully analogous to the precision
+and rotation of spin in a magnetic field,
+and we want to add spontaneous emission.
+So what we have here is the Rabi frequency.
+What's the matrix element-- the dipole matrix
+element times a classical electric field.
+And we want to replace it now by the electric field
+at the position of the atom, but we
+want to use the fully quantized version of the electric field.
+
+And it also becomes useful to look at the sigma x operator,
+which actually has two matrix elements of diagonal which
+connects ground excited and excited ground state.
+And one of them is going from the excited to the ground
+state.
+So this is sort of lowering the energy to sigma minus operator,
+and the other one will be a raising operator.
+It raises the excitation of the atom,
+and we will refer to it as sigma plus.
+
+So the electric field is replaced
+by the operator obtained from the fully quantized picture.
+Here we have the [? pre vector, ?]
+which is the electric field of a single photon or half a photon.
+Whatever.
+But it's factors of 2 or square root 2.
+We have the polarization.
+And now if you would take the previous result,
+and would look at it-- Well, we want
+to go to the Schrodinger picture.
+And I mentioned that in the Schrodinger picture,
+the operators are time independent,
+so we cancelled the e to the i omega t term.
+If you would go to the result we had last week
+and would simply get rid of the e to the i omega t term,
+you would now find operators a and a [? dega, ?]
+but they would have factors of i in front of it.
+That's the equation we had when we derived it.
+Well, I prefer now to use something which looks nicer.
+Just use a and a [? dega, ?] and you can obtain that by shift
+the origin of time.
+So you're not looking into the i omega t where t equals 0.
+We wait a quarter period until e to the i omega t just gives us
+factors of i which conveniently cancels see
+the other factors of i.
+So what I'm doing is just for convenience.
+Then let me write down that this is in the Schrodinger picture.
+
+OK.
+So we want to absorb all constant by in one constant
+now which is the single photon Rabi frequency.
+We have the dipole matrix element of the atom.
+
+There is a dot product with the polarization of the light.
+And then we have the electric field amplitude
+of a single photon-- h bar omega over 2 epsilon 0v.
+So this is what appears in the coupling.
+And we want to write it as h bar omega 1 over 2.
+And this omega 1 is the single photon Rabi frequency.
+And with that, we have now a Hamiltonian,
+which is really a classic Hamiltonian written down
+in the standard form.
+It has the excitation energy times a sigma z matrix.
+It has the single photon Rabi frequency.
+The single photon Rabi frequency appears--
+this is the single photon Rabi frequency.
+But then the operator for the electric field
+after getting rid of the i-s, is simply h plus h [? dega. ?]
+H plus h [? dega. ?] And so this takes care of the photon field,
+and the operator which acts on the atoms
+are the raising and lowering operator sigma plus and sigma
+minus.
+And finally we have the Hamiltonian
+which describes the photon field, which
+is h bar omega times a [? dega ?]
+a, the photon number operator.
+Any questions?
+Yes.
+
+So we got rid of the e to the i omega terms.
+
+Why should we not have [INAUDIBLE]?
+I mean we are looking at the interaction
+with an atom which is at rest at the origin.
+Therefore into to the i kr is 0.
+We will on;y consider the spatial dependence into the i
+kr when we allow the atom to move.
+As long as the atom is stationary, for convenience
+we put the atom at i equals 0.
+But in [? 8 ?] [? 422 ?] when we talk about light forces
+and laser cooling, then it becomes essential to allow
+the photon to move.
+And this is actually where the recoil and the light forces
+come into play.
+But as long as we're not interested in light forces,
+only in the internal dynamics, ground and excited state,
+we can conveniently neglect all spatial dependencies.
+Other questions?
+
+So this is really a famous Hamiltonian.
+And you also see how natural the definition
+are of the single photon Rabi frequency.
+So we have one half h bar omega with the diagonal sigma z
+matrix.
+This is the atomic excitation.
+This is the unperturbed Hamiltonian of the atom.
+This is the unperturbed Hamiltonian of the photon.
+And now the two are coupled.
+And the coupling is a product of an operator acting
+on the photon field plus minus one photon,
+and the other one is an operator acting on the atoms,
+and it is plus minus an atomic excitation.
+So let me just remind you of that.
+The sigma plus and sigma minus operator.
+The sigma plus is the atomic raising operator
+which takes the ground to the excited state.
+And the sigma minus operator is the atomic lowering operator
+which takes the atom from the excited to the ground state.
+So this is our Hamiltonian.
+And the Hilbert space on which this Hamiltonian acts
+is the product space of the atom direct product
+with the states of the light.
+Or in other words, the basis state
+would be that we use for the atoms
+the states which have 0 or 1 quantum of excitation--
+so we use excited state or ground state.
+And for the photon, we can just use the [? Fock ?] states where
+the occupation number is n.
+Questions about that?
+
+So it's a very-- just look at it with some enjoyment
+for a few seconds.
+I mean, this is a Hamiltonian, which has just a few terms.
+But what is behind it is of course
+the power of all the definitions.
+I mean, each symbol has so much meaning.
+But in the end, by having this formalism of operators
+quantized electromagnetic field, we
+can write down-- we can catch many, many aspects of--
+or we can pretty much fully describe how a two level
+system in the [INAUDIBLE] quantized electromagnetic field
+with that set of equations.
+
+Of course, the fact is not that everything is so simple.
+The fact is that we have-- by understanding the physics,
+we have skillfully made definitions
+which allow us to write everything down

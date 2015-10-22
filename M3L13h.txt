@@ -1,0 +1,133 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13h.txt
+#
+# Captions for 8.421x module
+#
+# This file has 123 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So far, we have discussed the monochromatic case,
+but I really needed is a new result because I carried over
+for the [INAUDIBLE] case was a perturbative result.
+But I also wanted to show you that the perturbative result is
+one limiting case of the exact solution which I trust derived
+by analogy to spin one half.
+We just had the result that in perturbation theory
+for sufficiently short times-- we discussed all
+that-- that the excited state amplitude has
+to follow Independence.
+
+So this is nothing else than-- want
+to make sure you recognize it-- Rabi
+oscillations at the generalized Rabi frequency.
+The generalized Rabi frequency is simply the detuning
+because it's a perturbative result.
+In perturbation theory, you don't
+get power brought in because you assume that your dry field is
+perturbatively weak.
+So therefore, they the Rabi oscillation
+are now a Rabi oscillation where the Rabi
+frequency, the generalized Rabi frequency,
+is delta the detuning.
+And this is just rewriting.
+This is this result here.
+I wasn't commenting on it, but this is
+nothing else than the detuning.
+
+I'm just reminding you what you get from perturbation theory.
+Power [INAUDIBLE] is not part of perturbation theory.
+OK.
+So this is our perturbative result.
+And now we want to integrate over
+that because we have a broadband distribution of the light.
+So what we have to use now is the energy density W of omega.
+
+The energy of the electromagnetic field
+is one half absolute the energy density
+of the electromagnetic field is one half epsilon naught
+times electric field squared.
+Well, if you have many modes, we add the different modes
+in [INAUDIBLE] and we still have the same relation
+between the electric field squared and the total energy.
+But the total energy is now an integer over d omega.
+We integrate over frequency over the spectral distribution
+of the light.
+So this is how we go form energy density to electric fields.
+But now he want to evaluate this expression and what
+appears in this expression is that Rabi frequency.
+Well, what we have to do now is we have to go back
+from their Rabi frequency.
+We assume linearly polarized light in the x direction
+to the electric field.
+OK.
+We want to now take this expression
+and sum it up over all modes, which means we integrate over
+[INAUDIBLE] the Rabi frequency squared
+as an electric field squared.
+And the electric field squared is
+obtained as an integral over the spectral distribution
+of the light.
+So this means we will replace the Rabi frequency
+in this formula by an integral over the energy
+density of the radiation.
+We half the matrix element squared as a prefector.
+I just tried to rederive it, but I
+think the prefector is 2 epsilon naught.
+So, yes.
+
+In perturbation theory, the probability
+to be in the excited state is-- let's just take
+all of the prefectors.
+
+Now, I changed the integration variable from omega
+to detuning.
+We just go from resonance-- we indicate relative
+to the resonance.
+So our energy density is now at the resonance omega
+naught plus the detuning.
+And we have this Rabi oscillation term.
+
+OK.
+So this is nothing else than taking our perturbative Rabi
+oscillation formula, which is coherent physics--
+and integrate over many modes.
+I'm one step away from the final result.
+If the energy density is flat, it's broadband.
+So for the extreme broadband case,
+we can pull it out of the integral,
+and then we are left only with this function F of t.
+If I plot this function versus delta,
+we have something which is wiggles.
+Then there is a maximum, and it has wiggles.
+The width here is t to the minus 1.
+And the amplitude is t squared.
+And this is the excited state amplitude squared.
+So if we integrate that over delta,
+we get something which is linear in t-- something which
+crosses t squared and has a width of 1 over t.
+
+So the function F of t, which is under the integrant,
+starts out at short times proportional
+to t squared as we discussed.
+Maybe my drawing should reflect that.
+But then it becomes linear.
+So for long times, the function F of t becomes linear in t
+and the delta function in the detuning delta.
+This is what you have seen many times in the derivation
+of Fermi's golden rule.
+I'm running out of time now.
+I pick up the ball on Wednesday, and we'll discuss that result
+and put it into context.
+But the take home message-- and what I really wanted to show
+you is-- that we do have coherent Rani oscillations.
+And by just performing the integral
+over this broad spectrum of the light,
+we loose the Rabi oscillation, and we find rate equations,
+Fermi's golden rule, and excitation probability
+proportionate to a t.
+And we have done the transition from coherent physics
+to irreversible physics.
+This is all hidden in this one formula,

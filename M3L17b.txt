@@ -1,0 +1,94 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17b.txt
+#
+# Captions for 8.421x module
+#
+# This file has 85 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+I realized after class that it may
+be useful to quickly state what I have
+said using the photon picture.
+If we have circular polarization,
+we have for given frequency, annihilation and creation
+operator.
+But let's assume that the mode we are considering
+is right-handed circularly polarized.
+So the operator creates a photon at frequency omega
+with this right-handed circular polarization.
+So that means now if we start from a level m,
+and we have now light atom interaction, the operator which
+annihilates a photon with circular polarization,
+because of angular momentum conservation,
+can only take us to a level where the magnetic quantum
+number is n plus 1.
+The operator a [INAUDIBLE] creates a photon
+through stimulated emission, and so this is now
+our two-level system.
+And now, we should ask the question,
+in terms of rotating wave approximation
+is necessary or not, are there counter rotating terms?
+Well, the counter rotating terms are the non-intuitive terms
+where you start out in the lowest state.
+But now, instead of absorbing a photon, you emit a photon.
+And the operator for emission is this one.
+So I can now ask is there another term
+that there is a term which is driven
+by the operator a [INAUDIBLE] circularly polarized?
+Well, the answer is there may be such a term,
+but the state we need has now and magnetic quantum number
+over of m minus 1, because of angular momentum selection
+rules.
+So this here is the counter rotating term,
+which you may or may not neglect,
+depending whether you want to make the rotating wave
+approximation or not.
+So therefore, if you got a little bit confused
+about the different cases I considered
+at the end of the last lecture, then
+you may just summarize the many examples
+I gave you in the lecture just as a note, which you should
+keep in the back of your head.
+Namely, let me first phase it in verse,
+and then I write it down.
+If you have circular polarization and angular
+momentum selection rules, then the counter rotating term
+may require a third level, and is not
+part of two-level physics.
+So if you have a situation where the third level does not exist,
+you do not have a complicating term.
+However, in all situations I've encountered in the lab,
+this third level does exist.
+
+OK, so let me just write that down.
+Counter rotating term for circularly polarized radiation
+requires a third level, which may not exist.
+And then, you don't have this term,
+but it does exist in most cases.
+Anyway, just an additional clarification to the topics
+we had on Wednesday.
+Any questions about that?
+Yes?
+Are there cases other than a spin one half
+system where it doesn't exist?
+Well, I gave you the example.
+I mentioned the example last class.
+If you do spectroscopy of an s to p transition
+in the magnetic field of a neutron star.
+Then the z1 splitting is so huge that-- well, you
+can assume that this has been shifted so far away that it
+has been completely suppressed.
+
+Other than that, well we have the trivial situation,
+which we discussed in NMR.
+If you simply have spin one half,
+then the total number of levels is only two,
+because we're talking about spin up and spin down.
+Or I constructed in the last class the forbidden transition,
+a tuplet s to tuplet s state.
+So that's two pairs of s equals one half,
+and then we're missing the state to couple any counter rotating
+term into the system.

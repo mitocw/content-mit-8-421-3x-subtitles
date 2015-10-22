@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15h_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 9 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+And the next question is, where does the other power of omega
+come from?
+As we discussed, it's not the density of states.
+So we have three choices.
+One is it comes from the atomic matrix element,
+it comes from the dipole approximation,
+or it comes from the quantization
+of the electromagnetic field.

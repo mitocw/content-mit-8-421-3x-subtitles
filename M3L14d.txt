@@ -1,0 +1,105 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L14d.txt
+#
+# Captions for 8.421x module
+#
+# This file has 95 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+This is sort of the textbook result,
+but I want to rewrite the result that we
+recognize the quantization of the electromagnetic field.
+So instead of just looking at the power in Planck spectrum,
+spectral density, and such, I want
+to bring in the photon number.
+I've already given you the Bose-Einstein distribution
+for the photon number and [? emote ?].
+So I take now equation a and multiply it
+with the average photon number in a mode of omega.
+This gives me on the left hand side--
+well just-- I'm multiplying this with the photon number.
+So on the left hand side, I have a times the photon door number.
+On the right hand side, when I put in the photon number,
+the photon number with this expression
+just gives me the Planck distribution,
+the spectral energy.
+This gives me the spectral energy density
+times the b coefficient.
+
+Yes, and this is nothing else in stimulated emission.
+So we realize that stimulated emission
+is nothing else than n times the photon
+number, the photon number n times spontaneous emission?
+Similarly, we know that the rate for absorption
+becomes now, well, the same, unless we
+have degeneracy factors.
+But, just for the fundamental discussion,
+let's avoid the p counting how many degenerate levels a level
+have.
+Let's just assume we have a situation that we just
+count every state individually.
+
+Then I can summarize this result in the following,
+that the total of rate for emission was proportional to n,
+for stimulated emission, and then we
+have the extra one for spontaneous emission.
+Whereas the rate for absorption was n
+times the spontaneous emission.
+So we find that this important formula,
+that emission has an n plus 1 factor,
+absorption has an n factor.
+And it is of course this extra plus
+one, which was absolutely crucial to establish
+thermal equilibrium.
+If a had been zero, no thermal equilibrium
+would not have been reached.
+
+So in other words, what is already
+in Einstein's treatment of the A and B coefficient
+is that if you understand absorption, which
+you can understand with the Schrodinger equation,
+and you understand and you write it
+in the fundamental way in photon numbers,
+then spontaneous emission is just the rate of absorption
+divided by n.
+
+Spontaneous emission is like induced emission in it's rate,
+by just one single photon.
+
+So as I pointed out, this is a result, which is usually
+obtained by second quantization, and it is already
+included in Einstein's A and B coefficient.
+
+So we could stop here.
+We have already a major result, which is usually
+obtained in field quantization.
+But there is one deficiency, and we
+want to fix it, and move on to the microscopic derivation,
+and this is the following.
+Right now, we really assume [INAUDIBLE] radiation.
+And the ratio, n plus 1 over n was only
+derived for average photon numbers in a spectral report
+field.
+And what he left for microscopic treatment, which
+I want to present now is, even if you have just a single mode,
+the atom can only interact with a single mode,
+we be find that stimulated emission and absorption is
+proportion, the number of photons already present.
+And then there is plus 1 for spontaneous emission.
+So in other words, we do it now sort of microscopically again.
+And what we get out of it is that everything we learned
+from Einstein's A and B coefficient is not
+just valid in thermal equilibrium,
+it's not just valid for average numbers,
+it's really valid for single mode physics.
+
+OK, so the agenda is what is next.
+
+Is valid for n.
+So if this expression is valid, not only
+for an average over many modes, but for each single mode.
+
+Questions about Einstein's A and B coefficient?

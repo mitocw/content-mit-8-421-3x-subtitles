@@ -1,0 +1,116 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13a.txt
+#
+# Captions for 8.421x module
+#
+# This file has 106 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+What they're talking about is actually matrix elements.
+If you want to do anything interesting in atomic physics,
+you have to couple or induce transitions from one state
+to another state.
+For many phenomena which we'll cover
+in the rest of the semester-- spontaneous emission,
+coherent systems, free level systems, and super radiance--
+all we need is a matrix element.
+And this matrix element will just
+run through all the equations and be
+responsible for a lot of interesting phenomena.
+And for most of the description of those phenomena,
+we don't have to know where this matrix element comes from.
+The only thing we have to know-- there
+is a non zero matrix element which drives the process.
+And as you know, the matrix element with an external field
+is called the Rabi frequency.
+And a lot of physics just depends on the Rabi frequency.
+But what is behind?
+The engine behind about the Rabi frequency is a matrix element.
+So in the unit I started to teach,
+the week before spring break, we talked about matrix elements.
+And, well, for each, for the Hamiltonian,
+we used a coupling of an atom to the electromagnetic field.
+And we calculated what is the matrix element introduced
+by the electric field.
+We made the dipole approximation and that's
+your plain, vanilla, genetic dipole operator which
+can connect two states.
+But we also consider what happens
+when we go beyond the dipole approximation.
+And we found extra ways of coupling two states.
+For instance, we can couple two states
+which have the same parity with a quadrupole transition.
+Or we can couple them with a magnetic dipole transition.
+So these are other ways to get into matrix elements.
+For most of the course, you don't
+have to understand what is behind the matrix.
+I mean, you just know there is a number which
+drives the process.
+So what I want to finish today is to discuss--
+and these are called selection rules, which tells us
+when are those numbers-- when is this matrix element which
+couples two states, when is it zero
+or when is it non vanishing?
+
+And what is helpful here is, well,
+as always in physics, use symmetry.
+And if you have an operator-- and I will give you examples
+immediately.
+But just think for a moment about the electric dipole.
+The electric dipole is the position operator R.
+And you want to know-- can the position operator
+R induce a transition between two states?
+The way to analyze it is now in terms of symmetry.
+And the symmetry which is always fulfilled for isolated atoms
+is angular momentum.
+Angular momentum is a conserved quantum number.
+We have rotation symmetry.
+So therefore, we want to now understand matrix elements
+in the language of rotation symmetry.
+And therefore, we don't want to use the position operator
+xyz because xyz do not have the rotation symmetry.
+We're going to lose linear superpositions of x, y,
+and z-- I'll give you a free example in a moment-- in such
+a way that the operator becomes an element
+of a spherical tensor.
+And spherical tensor I gave you the definition
+in the last lecture.
+The element of a space for spherical tensor lm
+is defined by-- well, I connect it with something you know,
+that it transforms under rotation
+like the spherical harmonics ylm.
+So it is pretty much for an operator
+what the ylm, what the spherical harmonics,
+are for the functions.
+I think I can do it more formal.
+And professor [? Shwung ?] knows much more about it.
+I think these are sort of elements
+of the rotational symmetry group.
+But I don't want to go there.
+So if you take the position vector R,
+you can expand it into a basis which is x and y.
+But if you use the spherical pieces x plus minus iy,
+then what appears are the spherical harmonics.
+
+So in that case, it's rather simple.
+The position vector has actually in this representation
+components which you can even see
+are the spherical harmonics.
+And therefore, they transform like the spherical harmonics.
+Or just to give you another example, if you
+have the operator which is responsible for the quadrupole
+transition, well, you get the gist.
+It's a product of two coordinates.
+So therefore, it's a spherical tensor of rank two.
+And it so happens, but I'm not deriving
+that it is a superposition of two components with lm
+[INAUDIBLE] number 2 plus 1, 2 minus 1.
+So that's how you should think about it.
+So we want to ask-- we want to extend
+the operator into operators which have rotational symmetry.
+And these are those or these are those three.
+So instead of using the vector and Cartesian coordinate,
+we use its spherical components.

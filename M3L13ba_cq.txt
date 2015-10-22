@@ -1,0 +1,15 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L13ba_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 5 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+So maybe just to give you a question--
+so if I go to a multipole expansion
+and I have an octopole transition, what
+is now the angle of momentum transferred by a photon?
