@@ -10,10 +10,10 @@
 #----------------------------------------
 
 Now, can a photon transfer 3 units of angular momentum?
-Can we get rid?
-Can an atom get rid or 3 units of, let's say orbital
+Can we get rid, or
+can an atom get rid or 3 units of, let's say orbital
 or spin angular momentum-- you start in a state which
 is J prime equals 3.
-You need one photon, and you go to a state
+You have one photon, and you go to a state
 which is J prime equal 0.
 Is that possible or not?
