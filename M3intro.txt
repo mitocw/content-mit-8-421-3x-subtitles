@@ -45,4 +45,4 @@ and their interactions are the building blocks
 of quantum computers and many other interesting quantum
 systems.
 Atomic physicists continue to assemble and study such systems
-to obtain a deeper understanding of the quantum world.
+to obtain a deeper understanding of the quantum world.  I hope you enjoy this module with me.
