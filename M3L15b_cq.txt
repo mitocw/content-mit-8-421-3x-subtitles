@@ -14,6 +14,6 @@ to discuss the subject and verify your understanding.
 The first question is, can an E2 transition, which
 is a quadruple transition, can you drive it by a plane wave?
 Or does it need a laser beam, which
-has an intensity gradient, such as a focus laser beam?
+has an intensity gradient, such as a focused laser beam?
 
 Yes or no?
