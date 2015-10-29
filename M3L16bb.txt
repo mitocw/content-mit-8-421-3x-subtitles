@@ -250,14 +250,14 @@ with spontaneous emission.
 That's my view where the spontaneity in the process is.
 It's not a spontaneity in the time evolution.
 It's more spontaneity if you do not
-care to detect this complexity, but map it back
+care to detect this complexity, but rather map it back
 to a coherent state.
 And then with a precision which is 1 over n,
 you retrieve the semi-classical limit.
 But the difference between the semi-classical limit
 and the entangled wave function, this is what some people say
-is spontaneous because it's not captured by a single picture.
+is spontaneous because it's not captured by a simple picture.
 
 I'm actually expecting some people to disagree with me,
-but this is sort of my view with what
-I'm sort of learning form the simple examples I've
+but this is my view,  what
+I have been learning form the simple examples I've given to you.
