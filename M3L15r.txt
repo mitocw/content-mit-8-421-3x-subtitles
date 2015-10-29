@@ -1,0 +1,197 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15r.txt
+#
+# Captions for 8.421x module
+#
+# This file has 187 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Often something is simple to write down,
+but if there's a lot of physics insight,
+we spend some time in discussing it.
+And the first thing I want to just point out and discuss
+is this interaction term.
+We have the product of sigma plus and sigma
+minus, the a and a data.
+So what we have here is-- we have an interaction term,
+and this interaction part has actually four terms,
+in a very natural way.
+Now let me just write them down.
+It's sigma plus with a, sigma minus with a data,
+sigma plus with a data, and sigma minus with a.
+OK.
+So let's discuss those.
+Sigma plus with a data.
+Sigma plus is actually-- this is an absorption process.
+a that uses to photon number by one,
+and increases the atomic excitation
+from the calm to the excited state.
+The other term looks naturally and intuitively like emission.
+The a data operator takes us from n to n plus 1,
+and sigma minus takes us from the excited
+state to the current state.
+So these are the two terms, which
+we would call intuitive terms, because they make sense.
+The other terms are somewhat more tricky.
+Sigma plus and a data means we create a photon,
+and we create an excitation.
+So in other words, it's not like the other term,
+one quintum of excitation disappears from the field,
+appears in the atom and vice versa.
+Sigma plus a data means we have an atom excitation takes us
+from the ground to the excited state,
+plus we emit a photon at the same time.
+And sigma minus a data means that we
+go from the excited to the ground state.
+So we have an atom de-excitation.
+Now we would say, well, if the atom is de-excited,
+it should emit a photon.
+But instead, the photon disappears.
+So we have those processes.
+The is last two are sometimes referred to,
+in the theoretical literature, they are off shell.
+Under shell is energy conservation.
+Off shell means it cannot conserve energy.
+But nevertheless, these are terms,
+which appear in the operator, but you should be used
+to if you have, oftentimes, in the operator,
+which cannot drive a resonant transition.
+When we looked at the DC Stark effect,
+or when we looked at the AC Stark effect for low frequency
+photons, those low frequency photons cannot excite an atom
+to an excited state, but they are not causing a transition,
+but they lead to energy shift in second order integration
+theory.
+So therefore, those terms, this language now,
+cannot drive transitions.
+They can only drive transitions to virtual states, which
+would mean they can only appear in second order integration
+theory, that you go up to a so-called virtual state,
+but you immediately go down.
+And those terms give only rise to shifts, no transitions,
+because you couldn't conserve energy in the transition,
+but you can do shifts in second order.
+And one example, which we discussed in the clicker
+question is, that those shifts are actually Lamb shifts,
+and in other places, especially in the context of microwave
+fields, they are called glossy Lamb shifts.
+And let's just look at one specific state.
+And this is the simplest of all.
+We have the vacuum, no photons, and the atom
+is in the ground state.
+If you look at the four possibilities
+of the interaction term.
+There is only one non vanishing term.
+The photon is at the bottom of all possible states.
+The atom is at the bottom of the possible states.
+So when we act with the four terms on it,
+the only term which contributes is
+those that are raised, because all the others are zero.
+The only non vanishing term is when
+we create a virtual atomic excitation, and also
+a virtual excitation of the photon field.
+And we know that when we have an atom in the ground
+state in the vacuum, that the only manifestation
+of the electromagnetic field is, of course, not
+spontaneous emission, but the Lamb shift.
+So therefore, if you would apply this operator, to the ground
+state of an electron in an atom, the complicated one
+is very function of hydration, and some of this operator,
+over all modes of the electromagnetic field,
+then you would have done the first principle QED
+calculation of the Lamb shift.
+I'm not doing it, but you should understand
+that this operator, sigma plus a data, this is the operator
+for the Lamb shift.
+
+Questions?
+
+Yes.
+What effects does this Hamiltonian model?
+Does it capture, for example, radiation reaction?
+
+Oh, no, everything is-- if you have a two level
+system, this Hamiltonian captures everything which
+appears in nature.
+If you have a two level system interacting
+with the electromagnetic field.
+That's it.
+Radiation reaction is just something
+we can pull out of here.
+Stimulated emission, we can pull out of here.
+The way whole vacuum fluctuations
+create a Lamb shift, or the way whole vacuum fluctuations
+affect an atom in the excited state,
+everything is included in here.
+The question is just, can we solve it?
+And the calculations can get involved,
+but this is the full QED Hamiltonian photon level
+system.
+That's a full picture.
+That's why I, sort of, said before, be proud of it.
+You understand the full picture how two level systems interact
+with electromagnetic radiation.
+The only complication is, yes, if you put more levels into it,
+and such, and things can get richer and richer.
+
+Yes, we have also made the dipole approximation, which--
+I'm just wondering how critical it is-- well
+we use the electric field-- my gut feeling is
+it doesn't really matter.
+What we have here is the most genetic term which
+can create atoms and photons.
+And if we add the a data term-- actually,
+I don't know what would happen if you don't
+make the dipole approximation.
+Now if you have two levels, which
+are coupled by making it dipole, then you
+have the same situation.
+It is just your prefector for senior photon frequency
+is now alpha times smaller, because of the smaller dipole
+approximate element.
+So you cannot, I think, you can pick pretty much any level you
+want, and this is why I actually discussed matrix elements
+at the beginning of the unit, for pretty much all
+of the discussion want to have, it doesn't really matter what
+kind of transition you have, as long as the transition creates
+or annihilates a photon, and all of the physics
+of the multiplicity of the transition, magnetic, dipole,
+electric, portal, whatever, just defines what this uniform hobby
+frequency is.
+The only thing, and you've put me on the spot,
+but the only thing which comes to my mind
+now is, if you would formulate QED
+not in the dipole approximation, but with a p
+minus a formulation, then given a square term,
+and then we have the possibility that one transition can
+emit two photons.
+So that's not included here.
+So this is like higher order?
+This would be something higher order.
+On the other hand, we can show with
+the canonical transformation that the p minus a formulation,
+with the a squared term, is equivalent to dipole
+approximation.
+So the question, whether you have
+a transition which emits two photons simultaneously,
+or two photons sequentially, by going for intermediate state,
+this is not a fundamental distinction.
+You can have one description of your quintum system
+where two photons are emitting in one transition.
+You have another description of your quintum system,
+where photons cannot-- only one photon can be emitted,
+and then you have to land in an intermediate state.
+And you will say, you've got two photons at once,
+or one photon at a time, this is two different kinds of physics.
+But we can show that the two pictures
+are connected with a canonical transformation.
+So therefore, you have two descriptions here.
+But anyway, I'm going a little bit beyond my knowledge.
+I'm just telling you bits and pieces I know.
+But this Hamiltonian is either, generally exact,
+I just don't know how to prove it.
+But it really captures in all of QED aspects of the system we
+want to get into.

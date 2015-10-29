@@ -1,0 +1,134 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17e.txt
+#
+# Captions for 8.421x module
+#
+# This file has 124 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+We now want to specialize it to the situation which we often
+call it , namely monochromatic radiation.
+And for monochromatic radiation, the unsaturated rate
+follows-- I affected something out here--
+it follows the normalized line shape, which is in a range
+here.
+
+And therefore, our unsaturated rate
+is proportioned to the laser power,
+but I usually like to express as a power four Rabi frequency,
+or the Rabi frequency squared.
+So our unsaturated rate follows this Lorentzian.
+
+And on the resonance, this part is 1.
+Our rate is omega rv squared over gamma.
+And the definition for the situation parameter of 1,
+or for the situation intensity is that the unsaturated rate
+has to be gamma over 2.
+So therefore, by omega rv squared
+over gamma is the unsaturated rate,
+it should be gamma over 2 for saturation,
+for saturation parameter of 1.
+So therefore, our saturation parameter on resonance
+is given by this expression.
+
+If you set the previous result, and apply it
+to this unsaturated rate, you find a saturated rate,
+which shows now the new phenomenon of power
+Let me illustrate it in two ways.
+The saturated rate involves the saturation parameter
+and the unsaturated rate, as in the Lorentzian
+but this intervention appears now
+in enumerator and the denominator.
+So it appears twice.
+But with a one step manipulation,
+you can transform it into a single Lorentzian
+but this single Lorentzian is now power broadened.
+It no longer has the roots of gamma,
+or the natural line with gamma.
+It has an additional term, and this is power broadening.
+The equations are trivial.
+It's going to just substituting one, and getting
+from an expression, simplifying it to zero Lorentzian
+to a single Lorentzian so I just want to emphasize it is hard,
+so we have-- if you try the transition,
+we have to now the roots of the Lorentzian is now gamma over 2.
+If you have no saturation, but then
+if you crank up the saturation parameter,
+the roots increases with the square root of the power.
+That's an important insight.
+The square root of the power leads to broadening.
+Now let me give you a pictorial description
+of what we have done here.
+If you start with a Lorentzian, and we increase the power,
+you sort of want to drive the system
+with a stronger Lorentzian.
+But we know we have a scene, which is saturation.
+And of course, when you drive it stronger,
+you reach the ceiling on resonance
+earlier then you reach this ceiling when you transfer it
+away from resonance.
+So therefore, if you start with a red curve,
+crank up the power, you will get moreover affect or moreover
+results in the links, because you're not yet saturated there.
+And this graphic or constructions,
+which I've just, sort of, indicated to you,
+lead now to a curve, which is broadened,
+broader than the original Lorentzian.
+And this is the reason behind power broadening.
+I want to mention one thing here.
+For the classroom discussion, I have
+assumed that the light atom interaction can be described
+by Fermi's golden rule, which we know is a limitation, when we
+are driving-- when the system is, in effect, incoherent,
+and no longer coherent, with a long discussion about the Rabi
+oscillation, Fermi's golden rule, in the last two weeks.
+
+But what I'm doing is mathematically correct.
+The optical block equation, which
+you will use in your homework assignment,
+really include the transition from Rabi oscillation
+towards Fermi's golden rule, and I'm just considering this one
+limited case.
+I've talked about saturation of a transition.
+I've mentioned that we have defined the saturation part,
+I mean, as such, that when the saturation parameter of one,
+we, sort of, get into the non-denare regime
+where saturation happens.
+And of course, for an experimentalist,
+the next question is, what intensity does that happen?
+This is summarized in those equations.
+It's the simplest possible algebra.
+You just combine two equations.
+I don't want to do it here.
+We have a result for the saturation intensity,
+which has two features, which I want to point out.
+One is its case with omega cubed.
+So the higher the frequency of your transition is,
+the harder it is to separate.
+Of course, it has something to do with that saturation.
+You have an unsaturated rate, which
+is one half of the spontaneous emission rate,
+and you'll remember that the spontaneous emission rate was
+proportion to omega cubed, so that's why we have,
+again, the omega cubed factor.
+And in addition, you can write the results in several ways.
+If you've have an intensity, you can go back to photons,
+you get factors of omega.
+So then I said, omega cubed comes from the natural line
+widths.
+Yes, it does.
+But it's not the only omega factor.
+You can write the result actually
+that the omega gamma squared dependence,
+because one gamma comes from the matrix elements squared,
+and one comes because you need two competing excitation
+for spontaneous emission.
+
+So anyway, this is, sort of, the result.
+And you can calculate for your favorite atom.
+And for alkaline atoms, we usually
+find that the saturation intensity is if you really
+work past, and you need them.

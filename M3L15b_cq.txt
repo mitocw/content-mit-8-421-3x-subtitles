@@ -1,0 +1,19 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15b_cq.txt
+#
+# Captions for 8.421x module
+#
+# This file has 9 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Let's go through a few clicker questions
+to discuss the subject and verify your understanding.
+The first question is, can an E2 transition, which
+is a quadruple transition, can you drive it by a plane wave?
+Or does it need a laser beam, which
+has an intensity gradient, such as a focus laser beam?
+
+Yes or no?

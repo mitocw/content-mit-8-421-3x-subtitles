@@ -1,0 +1,116 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L17g.txt
+#
+# Captions for 8.421x module
+#
+# This file has 106 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+Can you think of a very intuitive argument
+why for spectrally broad radiation,
+all the properties of the atoms cancel out?
+
+If you think about one physical example
+for, let's say black-body radiation,
+this is spectrally broad.
+So you're going to atom in a black-body cavity,
+and the atom experiences a very broad spectrum.
+
+How would we for-- for what number of photons,
+black-body photons per mode, would we find saturation?
+Think about it, it's a simple criterion
+you can formulate for black-body radiation,
+to saturate your transition, in terms
+of-- the number of photons per mode.
+
+You crank up the temperature in your cavity,
+how high do you have to go with the temperature
+in order to saturate an atom, which is inside
+your black-body radia-- inside your black-body cavity?
+One photon per minute.
+
+Pretty close.
+1 over [? degeners. ?]
+[? Degeners ?] OK, no [? degeners ?].
+I hate [? degeners ?].
+That's your private homework, to put in [? degeners ?]
+afterwards.
+
+The answer I came, was n equals 1/2 I think.
+Because you I underestimated of by factor of two now,
+but the argument was that--
+The rate equals endogenous by n by gamma,
+so if the rate equals--
+Gamma over--
+--gamma over that means it's [? degeners ?] by n equals 1/2.
+
+And if [? degeners ?] equals 1, n equals 1/2.
+Yes, OK.
+So spontaneous emission-- we know
+that spontaneous emission, from our derivation
+of spontaneous emission, corresponds
+to 1 photon per mode.
+And we want to cut a-- and our criterion now
+is if we want to have an absorption
+rate, or stimulated rate, which is gamma over 2.
+So we get sort of half the effect
+of spontaneous emission, when we have a half a photon per mode.
+So therefore spontaneous emission absorption
+is proportionate to n, and I think if n equals 1/2,
+then we have the unsaturated rates equal to gamma over 2.
+So this is a very physical argument.
+When we put an atom into a black-body cavity,
+and we have half a photon per mode occupation number,
+then we saturate, any atom we put in.
+Because using Einstein's argument, we have now the rate
+coefficient for absorption emission
+is just-- for stimulated emission and absorption-- is
+just 1/2 of the rate coefficient for spontaneous emission.
+And that explains that all atomic properties
+have to cancel out.
+
+So now the question for you, we talked about the fact
+that if we have hyperfine transitions,
+that it would take-- what was the value, 1,000
+years for spontaneous emission?
+
+So that we can completely neglect spontaneous emission.
+On the other hand, we've just learned that saturation only
+comes from spontaneous emission.
+Without spontaneous emission we wouldn't have saturation.
+But now I'm telling you that any atom should really
+be saturated if you put it in a black-body cavity,
+where n bar is 1/2.
+So what is the story now, if we put an atom into a cavity-- so
+into a black-body cavity, and we're asking about,
+will we saturate the hyperfine transition?
+Will we eventually have-- saturation means we have
+[BLOWING]
+--a quarter of the atoms in the excited state, 3/4
+in the ground state, so
+[BLOWING]
+The delta n has been reduced form 1, which it was initially
+3/4 minus 1/4, which is 1/2.
+
+What will happen, I mean, this was almost
+like a thermodynamic argument.
+Will we equilibriate and saturate hyperfine transitions
+in a black-body cavity?
+Based on this argument, that 4n bar equals 1/2,
+we should really saturate everything.
+
+Yes, but it's going to take a long time?
+Yeah.
+So for those conditions, if your black-body cavity with n bar
+equals 1/2, you should saturate any two level system completely
+independent of what gamma is.
+And if the gamma is 10 nanoseconds or 10,000 years,
+you re-saturate it.
+The value of gamma has completely
+dropped out of the argument.
+But of course, if you want to reach any kind of equilibrium,
+it will take a timescale, which is 1 over gamma,
+and then we are back to 1,000 years.
