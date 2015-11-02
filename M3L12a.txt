@@ -17,7 +17,7 @@ when atoms interact with light.
 The outline of this chapter is as follows-- today,
 all I want to discuss is the coupling matrix element.
 
-In other words, when we [INAUDIBLE]
+In other words, when we a Hamiltonian
 between state a and b, we have an off-diagonal matrix element.
 And this off-diagonal matrix element causes transitions.
 Or when we calculate it, the effect
@@ -76,7 +76,7 @@ Everything is coherent.
 We have a coherent Rabi oscillation.
 Or you can couple too many modes,
 and then you have a broadband situation,
-which may be described by [INAUDIBLE] as incoherent.
+which may be described by Fermi's Golden rule as incoherent.
 Very, very different behavior.
 So that's what you then want to discuss.
 When atoms interact with light, we
