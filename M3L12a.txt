@@ -17,7 +17,7 @@ when atoms interact with light.
 The outline of this chapter is as follows-- today,
 all I want to discuss is the coupling matrix element.
 
-In other words, when we a Hamiltonian
+In other words, when we have a Hamiltonian
 between state a and b, we have an off-diagonal matrix element.
 And this off-diagonal matrix element causes transitions.
 Or when we calculate it, the effect
