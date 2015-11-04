@@ -12,7 +12,7 @@
 This leads us to a discussion of selection rules.
 Selection rules is nothing else than a classification
 of possible transitions according to symmetry.
-And it's a way using, well, [INAUDIBLE] coefficients,
+And it's a way using, well, CG coefficients,
 angular momentum coupling, or using you would say symmetry
 to figure out of matrix elements are non vanishing or vanishing.
 And I gave you already one example
@@ -91,7 +91,7 @@ as the spherical harmonics YLM.
 So every operator is now a sum of spherical tensors.
 I don't want to get too much interest into symmetry
 classification, but the story is that you
-know the YLM functions are [? complicated ?] functions.
+know the YLM functions are complete functions.
 Every function can be expanded in spherical harmonics.
 And similarly, if you have an operator,
 you can decompose it into objects which transform
@@ -125,5 +125,5 @@ boil down to the question whether J prime and N
 prime, angular momentum, can be added to L and M.
 And there is overlap with angular momentum of JM.
 So we are back to the rules for adding
-angular momenta we get the triangle [INAUDIBLE] quote
-unquote [INAUDIBLE].
+angular momenta we get the triangle rule
+and CG coefficients.
