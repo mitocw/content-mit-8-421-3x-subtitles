@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-Two more, [? questions. ?] We talked a lot about the rotating
+Two more questions. We talked a lot about the rotating
 wave approximation.
 And we also talked about it for spin system
 driven by magnetic field.
