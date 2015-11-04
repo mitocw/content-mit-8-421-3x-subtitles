@@ -44,20 +44,20 @@ So our coupling term, just let me rewrite the equation.
 Let me now simplify the notation by assuming
 that the polarization is in the Z direction
 and the propagation is in the X direction.
-So then the coupling hit the dipole term.
+So then the coupling had the dipole term.
 And the next order term is Ikx.
 And this is what to investigate now.
 The term, kx or kr is smaller.
 And now I want to show you explicitly
 that it's smaller by alpha.
-The key vector of the photon one is related to the frequency h
-by omega divided by h by c.
+The key vector of the photon one is related to the frequency hbar
+omega divided by hbar c.
 If I approximate for r, the relevant r
 when we indicate over the wave function
-will be the pole radius.
-The relevant frequency, h by omega, well, it's a Rydberg
-and the Rydberg is e squared over the pole radius.
-So now if I inserted, the pole radius cancels out.
+will be the Bohr radius.
+The relevant frequency, hbar omega, well, it's a Rydberg
+and the Rydberg is e squared over the Bohr radius.
+So now if I inserted, the Bohr radius cancels out.
 And what we find is, well, kr is dimensionless.
 We must find something which is dimensionless but expressed
 by the fundamental constants of atomic physics.
@@ -65,7 +65,7 @@ And the only quantity which is available for that-- it's not
 a surprise-- it's alpha, the fine structure constant.
 So therefore, the dipole approximation
 is actually the result of an expansion of the plain wave, e
-to the I kr factor in units of for an extension
+to the i kr factor in units of for an extension
 in the fine structure constant.
 
 OK.
@@ -77,7 +77,7 @@ and then we simplify it.
 I want to sort of summarize it and anti-summarize it
 in the following way.
 This is Pzx.
-So let me subject z px.
+So let me substract z px.
 But then of course I have to edit.
 
 So now we have two terms.
@@ -89,8 +89,8 @@ The second one is electric quadrupole transition.
 
 And we see that the first one can be regarded
 as Pzx is like P dot r.
-It's the right component or the vector product.
-It is therefore the right component
+It's the y component or the vector product.
+It is therefore the y component
 of the orbital angular momentum.
 
 OK.
@@ -101,11 +101,11 @@ The relevant matrix element is now
 the matrix element of the orbital angular momentum, ly.
 
 The prefector-- let me just collect
-all the constant imaginary unit-- ehrAK over 2mc.
+all the constant imaginary unit-- e hbar AK over 2mc.
 
 That looks complicated, but it immediately
 simplifies when we realize that this here
-is the core Magnetron.
+is the Bohr magneton.
 And while still have the vector potential--
 but the magnetic field is the curl of the vector potential.
 And that means for-- we assume that we have the vector
@@ -122,14 +122,14 @@ of the electromagnetic wave, times the Bohr Magnetron
 times the matrix element, due to the orbital angular momentum
 operator.
 And actually, if you take the orbital angular momentum
-and multiply it with the Bohr Magnetron,
-this is actually the popularity of the magnetic moment rather
+and multiply it with the Bohr magneton,
+this is actually the operator of the magnetic moment rather
 with a minus sign because the electron is negative charged.
 Remember, we had introduced the operator
 for the magnetic moment.
 And the magnetic moment was the g factor
-times the Bohr Magnetron, times the orbital angular momentum.
-And the G factor for the orbital motion is one.
+times the Bohr magneton, times the orbital angular momentum.
+And the g factor for the orbital motion is one.
 So therefore, the interaction we are talking about
 is the Bohr Magnetron times the a magnetic field.
 
