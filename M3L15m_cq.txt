@@ -16,7 +16,7 @@ In other words, if you have a situation where the counter
 rotating term is 0, as we just discussed
 in the previous example that there may be situations,
 somewhat artificial, but you could arrange for it.
-That said, then imply that there is no Lamb shift.
+Does that then imply that there is no Lamb shift.
 Yes or no?
 Is the Lamb shift caused by the counter rotating term involved
 in electronic transitions?
