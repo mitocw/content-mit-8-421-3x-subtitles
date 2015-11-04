@@ -97,11 +97,11 @@ and we have a time-dependent charge distribution,
 we use a steady state wave function.
 So I'm not sure if there is, maybe, an argument
 which would say there should be some spontaneous emission,
-based on a purely classic argument.
+based on a purely classical argument.
 But this would not be the whole story,
-because a classic argument would then deal with the difficulty,
+because a classical argument would then deal with the difficulty,
 why is there difference between n
-equals 1, which does not radiate in [INAUDIBLE] which radiates?
+equals 1 ([in hydrogen], which does not radiate, and n=2 which radiates?
 So my understanding is that it is only the physics,
 either through the perspective of Einstein,
 by just using equilibration or our microscopic derivation,
