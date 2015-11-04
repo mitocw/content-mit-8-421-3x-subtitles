@@ -64,8 +64,8 @@ That's what it means.
 Yes?
 I have a question about the spontaneous emission rate.
 The explanation that you have, quantum mechanical derivation
-that we have, do people not know what the formula--
-how to describe spontaneous emission rate [INAUDIBLE]?
+that we have, did people not know 
+how to describe spontaneous emission .... before the field was quantized?
 
 I think so.
 I have not gone deeply back into the history,
@@ -73,12 +73,12 @@ but a lot of credit is given to Einstein.
 And as I mentioned last week, that Einstein actually
 had spontaneous emission in his derivation for the Einstein A
 and B coefficient in this famous paper.
-And so, he found that there must be spontaneous emission.
-Based on a thermodynamic argument,
-it's only spontaneous emission which
+And so, he found that there must be spontaneous emission
+based on a thermodynamic argument.
+It's only spontaneous emission which
 brings the internal population of an atom into equilibrium.
-So I think it is called [INAUDIBLE].
-Can you derive it from that [INAUDIBLE] condition
+So I think it is correct to say .... 
+Can you derive it from that stat mech condition
 of getting equilibrium?
 That's what Einstein did.
 And the answer is, by comparison with the Planck law,
