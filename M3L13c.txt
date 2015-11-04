@@ -18,11 +18,11 @@ Remember, a1 is the dipole vector.
 For m1, the matrix element was by the angular momentum vector.
 So these are vectors.
 And that means that presentation of the spherical tensors
-or the [? quantum ?] numbers up spherical tensors
+or the quantum numbers of spherical tensors
 are the same of the Y1 m.
 
 So for type of radiation, whether it's
-electric or magnetic, we have now the dipole election rules,
+electric or magnetic, we have now the dipole selection rules,
 which pretty much say you add 1 unit of angular momentum
 to state b.
 Can you reach state a with that?
