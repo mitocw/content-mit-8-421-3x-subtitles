@@ -54,11 +54,11 @@ You want an electric field.
 And you can pick whether it's the RMS field,
 or whether it is the maximum amplitude.
 You can pick what you want.
-But now, we are comparing what is the e square for the vacuum,
+But now, we are comparing what is the E square for the vacuum,
 for single-mode vacuum, and what is
-the e square for single photon.
+the E square for single photon.
 The two answers differ by a factor of 2.
-A single photon is twice as strong in e square
+A single photon is twice as strong in E square
 as the vacuum fluctuations in the same mode.
 That's what it means.
 Yes?
