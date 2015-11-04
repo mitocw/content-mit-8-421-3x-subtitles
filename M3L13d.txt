@@ -54,7 +54,7 @@ we realize that the left and right-handed circular light
 projects now out.
 The spherical tensor operator T1 plus minus 1.
 And since it's circularly polarized light.
-And therefore, we find this election rule,
+And therefore, we find this selection rule,
 that delta M, the z component of the angular momentum
 changes by plus/minus 1 when the circularly polarized light is
 sigma plus or sigma minus-- right-handed or left-handed.
@@ -117,7 +117,7 @@ Questions?
 Nancy.
 I have one slightly basic question.
 When we talk about polarization in all these matrix
-elements [INAUDIBLE] single photon [INAUDIBLE],
+elements of single photon,
 these are single photon matrix elements.
 And so when we talk about shining a laser,
 it has a polarization, but we don't
