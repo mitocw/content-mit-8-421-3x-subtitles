@@ -9,7 +9,7 @@
 #
 #----------------------------------------
 
-Conning?
+Colin.
 So when you derive the amplitude of the electric fields
 due to the single photon?
 Yep.
@@ -20,7 +20,7 @@ from the electric field and magnetic field that
 can be one factor too.
 Then there's always that other factor of 2.
 Are you getting that from using 1/2 h
-bar [INAUDIBLE] fluctuation [INAUDIBLE]?
+bar from the vacuum fluctuations?
 I'm not going back to the formula,
 because I run the risk that it was wrong.
 [LAUGHTER]
