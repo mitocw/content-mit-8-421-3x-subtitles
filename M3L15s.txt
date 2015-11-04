@@ -1,0 +1,44 @@
+#
+# File:   content-mit-8-421-3x-subtitles/M3L15s.txt
+#
+# Captions for 8.421x module
+#
+# This file has 34 caption lines.
+#
+# Do not add or delete any lines.
+#
+#----------------------------------------
+
+In many situations, we may decide that the off shell
+terms of the interaction just create level shifts,
+Lamb shifts, Bloch-Siegert shifts,
+and we may simply absorb those Lamb shifts
+in our atomic energy levels, omega e and omega g.
+So therefore, for the dynamic of the system,
+if you include all those Lamb shifts
+in the atomic description, we do not need those off shell,
+counter intuitive terms.
+These are actually also the counter rotating terms
+in the semi-classical approximation.
+We only keep the intuitive terms.
+And that's called, again, the rotating wave approximation.
+Just to remind you, we do not have rotating waves here.
+Everything is operators.
+But the same kind of physics, co- and counter-rotating,
+appears here that we have four terms.
+Two are the fully quantized version
+of the co-rotating terms, and the other two, the off shell
+terms, are the quantized version of the counter rotating term.
+So therefore, if you neglect those two off shell terms,
+we have now the fully quantized Hamiltonian in the rotating
+wave approximation.
+So let me just write it down, because it's also
+a beautiful line.
+We have the electronic system.
+We have the interaction Hamiltonian,
+which has now only two terms.
+When we raise the atomic excitation,
+we lower the photon excitation and vice versa.
+And we have the Hamiltonian for the photon field a dagger a.
+And this is apart from those Lamb shift terms,
+the full [INAUDIBLE] description of the system.
