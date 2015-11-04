@@ -49,7 +49,7 @@ The strengths of them, which usually
 scales if transitions with the square of the matrix element,
 is on the order of 5 times 10 to the minus 5.
 So those transitions are four or five orders
-of magnitude B [INAUDIBLE], then an allowed E1 transition.
+of magnitude B weaker than an allowed E1 transition.
 
 Questions.
 
@@ -69,7 +69,7 @@ For instance, I try to remember.
 If you have hydrogen 1S and 2S-- because S states-- actually,
 you're asking questions about the next chapter,
 mainly about selection holds.
-If you have-- [INAUDIBLE] inverts.
+If you have-- but get inverts.
 The S, if you connect two S states,
 they have both zero angular momentum.
 So you cannot have a quadrupole operator connecting the two.
@@ -98,19 +98,19 @@ are forbidden by spin symmetry.
 So if you have multiple layers of being forbidden,
 then you get extremely weak transitions.
 And one example is actually-- are
-the transitions, the [INAUDIBLE] transition, in helium
+the transitions, the singlet-triplet transition, in helium
 or the 1S to 2S transition in hydrogen.
 They're not allowed by simply going
 to the next order in the multipole expansion.
 
 Yes.
-[INAUDIBLE] equations, then we have
+All these equations, then we have
 to do have to consider these even more highly
 formulated transitions.
 
 I'm not an expert on that.
 I'm not sure if there is an atom which
-is a relevant transition which is a [INAUDIBLE] transition.
+is a relevant transition which is an extra high order transition.
 I've not heard about that.
 At least relevant examples which are the fundamental atoms
 helium and hydrogen, for hydrogen, the 2S to 1S
@@ -141,14 +141,14 @@ So that can really-- I'm not sure if you
 can put a label on it and would say,
 this is this and this order term.
 It may actually involve, and we know
-that this happens to the [INAUDIBLE] equation,
+that this happens to the Dirac equation,
 that spin and spacial decrease become together
-in the [INAUDIBLE] equation.
+in the Dirac equation.
 And maybe it's one of those terms.
 
 Yes.
-So what's the actual meaning of [INAUDIBLE]?
-Like, you [INAUDIBLE]
+So what's the actual meaning of the interference between different Hamiltonians?
+Like, you square the matrix elements
 No, I meant actually the square of the matrix element.
 If you have-- for instance, yeah, actually one--
 I will talk about in the next lecture
@@ -170,5 +170,5 @@ So in other words, if you have an atom which has this weak
 decay through M1 and a weak decay through quadrupole,
 the two parts cannot destructively interfere
 because one is real, one is imaginary.
-They add up in [INAUDIBLE].
+They add up in quadratic.
 That's what I wanted to say.
