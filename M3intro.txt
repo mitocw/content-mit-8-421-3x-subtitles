@@ -23,7 +23,7 @@ When atoms interact with the many modes
 of the electromagnetic field, we also
 have an open quantum system, which
 is subject to dissipation and irreversibility.
-These and other topics are presented in this model.
+These and other topics are presented in this module.
 Depending on the atomic structure,
 atoms can interact with light electrically or magnetically.
 Atoms can exchange angular momentum with light.
@@ -31,7 +31,7 @@ And this is described by selection rules.
 The light can be strong or weak.
 The transition can be narrow or broad.
 And this leads to very different dynamics of the atomic system.
-The condensation of the electromagnetic field
+The quantization of the electromagnetic field
 provides us with the first principle description
 of photons and spontaneous emission.
 When spontaneously emitted photons
