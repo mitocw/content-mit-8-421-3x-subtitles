@@ -27,7 +27,7 @@ Or, what's even more controlled, you can make the cavity ice
 cold, but then you inject a few photons from your synthesizer
 into it from your microwave generator,
 and then you have a weak coherent field.
-But thermostate or coherent state.
+But thermal state or coherent state.
 
 OK.
 We would expect now Rabi oscillation.
@@ -78,18 +78,18 @@ But for small coherent states, or thermal states,
 which only involve a few photons,
 you will get a revival phenomena.
 And this has indeed been observed.
-This was actually the PhD thesis of [INAUDIBLE]
+This was actually the PhD thesis of Gerhard Rempe
 and it shows the probability in the excited state.
 They had previously observed the Rabi oscillations
 at early times, but now the experiment
 had to be adjusted, I think, by using slower atoms
 to observe the longer time.
-And here, well, 9087 for the first time revivals
+And here, well, 1987 for the first time revivals
 have been seen.
 
 Let me dwell on that.
 First, are there any questions about what happens now?
-Atoms into cavity to Rabi oscillations.
+Atoms into cavity do Rabi oscillations.
 
 If the photon field is a superposition
 of only a few states due to this pseudo commensurability,
@@ -104,7 +104,7 @@ to give you a specific example that we have a coherent state.
 A lot of you know what a coherent photon state is.
 For those who don't, it doesn't really
 matter for what I want to explain and recover
-that in 8.4.22.
+that in 8.422.
 22.
 But if you have a laser, or if you have a microwave generator,
 what comes out is a field which has a normalized amplitude
