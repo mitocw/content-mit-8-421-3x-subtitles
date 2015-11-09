@@ -10,16 +10,16 @@
 #----------------------------------------
 
 Experiments are done in the microwave regime.
-The leading groups are-- well, in the older days, then
-Kleppner, [INAUDIBLE], and [INAUDIBLE].
-And this involves [INAUDIBLE] atoms.
-[INAUDIBLE] atoms in superconducting high Q
+The leading groups are-- well, in the older days, 
+Dan Kleppner, Herbert Walther, and Serge Haroche.
+And this involves Rydberg atoms.
+Rydberg atoms in superconducting high Q
 cavities.
-And those [INAUDIBLE] atoms because things scaled
+And those Rydberg atoms because things scaled
 with n and n squared, the principle quantum number--
 have a fantastically strong coupling
 through the electromagnetic field.
-And there is homework assignment on [INAUDIBLE] atoms
+And there is homework assignment on Rydberg atoms
 in such cavities.
 The other example is in the optical domain.
 
@@ -39,11 +39,11 @@ define a single mode cavity.
 Usually you have a stream of atoms
 traditionally in atomic beams, then
 in some experiments in slowed atomic beams,
-more recently in atoms which are falling out of the [? MOT, ?]
+more recently in atoms which are falling out of the MOT,
 and only very recently, the single atoms
 with the help of other laser beams where
 trapped inside the cavity.
-So they are [? streamed ?] in such a way
+So they are streamed in such a way
 that only one or few atoms in the mode volume
 interact with the single mode of the cavity at a given time.
 And then you want to figure out what is now happening.
@@ -61,8 +61,8 @@ using ion sputtering, you make sure
 that the coating is extremely smooth
 and does not have any surface irregularities which
 would scatter a tiny fraction of the light.
-I know there are some people in [? Ike's ?] group
-and [INAUDIBLE] group who work with high Q mirrors.
+I know there are some people in Ike's group
+and Vladan's group who work with high Q mirrors.
 What is a typical example for the reflectivity, or the Q
 factor you can reach?
 Five ninths, and a finesse of maybe 500,000.
@@ -108,7 +108,7 @@ n plus 1 factor.
 So neglecting the 1 roughly when we have 10 atoms in the cavity,
 it's square root 10, larger Rabi frequency, and therefore
 we would expect that we have now a splitting
-of the two [? MOT, ?] which is square root 10 plus 1 larger.
+of the two modes, which is square root 10 plus 1 larger.
 
 Actually I didn't-- sorry-- I have to correct myself now.
 
@@ -116,11 +116,11 @@ I showed you that the Rabi frequency,
 you can see it scales with square root
 n plus 1 in the photon field.
 But you should realize that everything
-is [? here symmetric ?] between photons and atoms.
+is here symmetric between photons and atoms.
 It's the complete coupling between photons and atoms.
 And if you would now look-- but I don't want to do it now--
 if you would now look what happens if several atoms are
-present in the MOT volume, you would also
+present in the mode volume, you would also
 get a scaling, which is n plus 1 in the atom number.
 
 Because the atoms couple coherently, it
@@ -159,9 +159,9 @@ is proportional to the square root of 10
 or the square root of 11.
 So therefore what you will observe
 is you will now observe a splitting
-of the single [? MOT ?] of the cavity which goes
+of the single mode of the cavity which goes
 by the square root of n plus 1.
-I don't want to discuss the line shape and the strings.
+I don't want to discuss the line shape and the strengths.
 I just want to sort of discuss, in a way, the eigenvalues
 of the Hamiltonian, and the eigenvalues
 are the positions of the transmission peaks
