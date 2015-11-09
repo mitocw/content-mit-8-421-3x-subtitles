@@ -20,38 +20,38 @@ So what we have here is-- we have an interaction term,
 and this interaction part has actually four terms,
 in a very natural way.
 Now let me just write them down.
-It's sigma plus with a, sigma minus with a data,
-sigma plus with a data, and sigma minus with a.
+It's sigma plus with a, sigma minus with a dagger,
+sigma plus with a dagger, and sigma minus with a.
 OK.
 So let's discuss those.
-Sigma plus with a data.
+Sigma plus with a dagger.
 Sigma plus is actually-- this is an absorption process.
 a that uses to photon number by one,
 and increases the atomic excitation
-from the calm to the excited state.
+from the ground to the excited state.
 The other term looks naturally and intuitively like emission.
-The a data operator takes us from n to n plus 1,
+The a dagger operator takes us from n to n plus 1,
 and sigma minus takes us from the excited
 state to the current state.
 So these are the two terms, which
 we would call intuitive terms, because they make sense.
 The other terms are somewhat more tricky.
-Sigma plus and a data means we create a photon,
+Sigma plus and a dagger means we create a photon,
 and we create an excitation.
 So in other words, it's not like the other term,
-one quintum of excitation disappears from the field,
+one quantum of excitation disappears from the field,
 appears in the atom and vice versa.
-Sigma plus a data means we have an atom excitation takes us
+Sigma plus a dagger means we have an atom excitation takes us
 from the ground to the excited state,
 plus we emit a photon at the same time.
-And sigma minus a data means that we
+And sigma minus a dagger means that we
 go from the excited to the ground state.
 So we have an atom de-excitation.
 Now we would say, well, if the atom is de-excited,
 it should emit a photon.
 But instead, the photon disappears.
 So we have those processes.
-The is last two are sometimes referred to,
+These last two are sometimes referred to,
 in the theoretical literature, they are off shell.
 Under shell is energy conservation.
 Off shell means it cannot conserve energy.
