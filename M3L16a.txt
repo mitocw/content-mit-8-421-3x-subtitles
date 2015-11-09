@@ -54,7 +54,7 @@ that the system is idealized, so the loss of photons, because
 of losses in the mirror, or finite reflectivity
 in the mirror, also has to be smaller.
 So that means, for several Rabi periods,
-we have a system which has only poor parts, a two-level atom,
+we have a system which has only two parts, a two-level atom,
 and one single mode of the cavity.
 
 So that's the system we have in mind.
@@ -88,11 +88,11 @@ is absolutely identical to spin 1/2 in magnetic fields.
 And you can recognize by comparing this Hamiltonian,
 this matrix, to the matrices we discussed for spin 1/2
 in the magnetic field, that this corresponds
-to the situation, where the spin 1/2 had to transverse field
+to the situation, where the spin 1/2 had a transverse field
 in the x direction, which caused the precession from spin
 up to spin down.
 And this x component of the field
-corresponds now to the single photon on Rabi frequency
+corresponds now to the single-photon Rabi frequency
 times n plus 1.
 That's the off-diagonal matrix element in this matrix.
 The thing which we have to discuss,
